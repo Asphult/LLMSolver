@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2279.22" height="2520" viewBox="0 0 2279.22 2520">
+<rect x="0" y="0" width="2279.22" height="2520" fill="rgb(26,26,46)"/>
+<rect x="30" y="90" width="1979.22" height="2400" fill="rgb(22,33,62)"/>
+<text x="30" y="52" style="fill:rgb(204,204,238);font-size:20px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif;">Revit BBox Render — RevitCoords_Level 2 Copy 1_20260513_183355</text>
+<text x="30" y="72" style="fill:rgb(140,140,180);font-size:11px;font-family:'Segoe UI',Arial,sans-serif;">86 elements | 0 tags | 2026-05-13 18:33</text>
+<g>
+  <g>
+    <line x1="264.77" y1="90" x2="264.77" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="504.69" y1="90" x2="504.69" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="744.62" y1="90" x2="744.62" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="984.55" y1="90" x2="984.55" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1224.47" y1="90" x2="1224.47" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1464.4" y1="90" x2="1464.4" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1704.33" y1="90" x2="1704.33" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1944.25" y1="90" x2="1944.25" y2="2490" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="2417.19" x2="2009.22" y2="2417.19" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="2177.26" x2="2009.22" y2="2177.26" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1937.33" x2="2009.22" y2="1937.33" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1697.41" x2="2009.22" y2="1697.41" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1457.48" x2="2009.22" y2="1457.48" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1217.55" x2="2009.22" y2="1217.55" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="977.63" x2="2009.22" y2="977.63" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="737.7" x2="2009.22" y2="737.7" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="497.77" x2="2009.22" y2="497.77" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="257.85" x2="2009.22" y2="257.85" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+  </g>
+  <g data-category="Rooms">
+    <rect x="828.21" y="989.32" width="941.84" height="485.36" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Entry Hall 201</title></rect>
+    <rect x="359.85" y="989.32" width="468.36" height="488.2" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Master Bedroom 206</title></rect>
+    <rect x="828.21" y="1110.63" width="271.08" height="366.9" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Bedroom 204</title></rect>
+    <rect x="1265.47" y="1110.63" width="266.46" height="366.9" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Bedroom 202</title></rect>
+    <rect x="636.15" y="1214.53" width="192.07" height="262.99" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Master Bath 207</title></rect>
+    <rect x="1099.29" y="1332.92" width="196.5" height="144.6" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Bath 203</title></rect>
+    <rect x="1069.08" y="1166.36" width="196.39" height="141.37" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Bath 205</title></rect>
+    <rect x="1069.08" y="1110.63" width="196.39" height="55.73" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Linen 208</title></rect>
+  </g>
+  <g data-category="Railings">
+    <rect x="1299.49" y="1729.14" width="474.5" height="568.92" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1656.98" y="1094.83" width="25.75" height="277.88" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1514.22" y="281.94" width="3.94" height="694.28" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1674.8" y="281.94" width="3.93" height="694.28" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1766.41" y="1484.49" width="7.38" height="245.96" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1299.53" y="1484.49" width="7.38" height="245.59" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="235.87" y="1009.75" width="3.93" height="447.34" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1662.02" y="995.21" width="3.94" height="373.51" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+    <rect x="1769.85" y="1484.49" width="3.93" height="151.37" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — SH_1100mm</title></rect>
+  </g>
+  <g data-category="Walls">
+    <rect x="320.49" y="989.32" width="78.72" height="488.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SH_Curtain wall</title></rect>
+    <rect x="223.67" y="981.37" width="1557.08" height="15.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SIP 202mm Wall - conc clad</title></rect>
+    <rect x="223.67" y="1469.57" width="1557.08" height="15.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SIP 202mm Wall - conc clad</title></rect>
+    <rect x="1531.93" y="1435.33" width="236.94" height="78.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SH_Curtain wall</title></rect>
+    <rect x="1536.66" y="953.98" width="236.15" height="78.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SH_Curtain wall</title></rect>
+    <rect x="1738.56" y="1360.94" width="78.72" height="116.58" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SH_Curtain wall</title></rect>
+    <rect x="1738.56" y="989.32" width="78.72" height="116.58" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SH_Curtain wall</title></rect>
+    <rect x="632.21" y="1105.9" width="905.94" height="9.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="221.94" y="981.37" width="15.9" height="504.1" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SIP 202mm Wall - conc clad</title></rect>
+    <rect x="1772.81" y="989.32" width="15.9" height="488.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — SIP 202mm Wall - conc clad</title></rect>
+    <rect x="1523.98" y="1105.9" width="15.9" height="371.62" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Wall - Timber Clad</title></rect>
+    <rect x="823.49" y="989.32" width="9.45" height="488.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="631.42" y="1105.9" width="9.45" height="371.62" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1069.08" y="1303.01" width="230.64" height="9.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1065.15" y="1328.2" width="230.64" height="9.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1064.36" y="1110.63" width="9.45" height="227.02" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1260.75" y="1110.63" width="9.45" height="197.1" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1069.08" y="1161.63" width="196.39" height="9.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="636.15" y="1209.81" width="192.07" height="9.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1291.06" y="1303.01" width="9.45" height="174.51" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="1094.57" y="1332.92" width="9.45" height="144.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="682.59" y="1290.1" width="94.46" height="9.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+    <rect x="725.09" y="1214.53" width="9.45" height="80.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - Partition</title></rect>
+  </g>
+  <g data-category="Stairs">
+    <rect x="1300.51" y="1478.62" width="472.3" height="227.1" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1657.96" y="997.28" width="114.91" height="472.3" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+  </g>
+  <g data-category="Room Tags">
+    <rect x="372.22" y="1057.15" width="248.9" height="159.97" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag With Area</title></rect>
+    <rect x="1579.71" y="1274.01" width="144.76" height="159.97" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag With Area</title></rect>
+    <rect x="1331.51" y="1156.77" width="137.52" height="159.97" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag With Area</title></rect>
+    <rect x="877.85" y="1273" width="137.52" height="159.96" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag With Area</title></rect>
+    <rect x="635.04" y="1303.19" width="181.2" height="103.95" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1127.97" y="1058.15" width="82.81" height="103.96" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1131.58" y="1156.7" width="69.82" height="103.96" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1164.76" y="1323.27" width="69.82" height="103.95" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+  </g>
+  <g data-category="Windows">
+    <rect x="1060.66" y="961.74" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [24]</title></rect>
+    <rect x="1178.73" y="961.74" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [28]</title></rect>
+    <rect x="667.08" y="1351.5" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [93]</title></rect>
+    <rect x="470.29" y="1351.5" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [18]</title></rect>
+    <rect x="470.29" y="961.74" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [21]</title></rect>
+    <rect x="1402.21" y="1351.5" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [20]</title></rect>
+    <rect x="942.59" y="1351.5" width="125.47" height="153.61" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Standard [19]</title></rect>
+  </g>
+  <g data-category="Doors">
+    <rect x="1543.03" y="1451.07" width="113.35" height="113.35" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Entrance door [201B]</title></rect>
+    <rect x="1539.81" y="903.6" width="113.35" height="113.35" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Entrance door [201A]</title></rect>
+    <rect x="293.52" y="1000.42" width="67.83" height="113.35" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Curtain Wall Dbl Glass [206B]</title></rect>
+    <rect x="1446.84" y="1103.54" width="75.57" height="74.79" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 800 x 2100 [202]</title></rect>
+    <rect x="1062" y="1168.88" width="74.79" height="75.57" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 800 x 2100 [205]</title></rect>
+    <rect x="760.51" y="998.85" width="74.79" height="75.57" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 800 x 2100 [206A]</title></rect>
+    <rect x="836" y="1103.54" width="75.57" height="74.79" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 800 x 2100 [204]</title></rect>
+    <rect x="1228.08" y="1392.43" width="74.79" height="75.57" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 800 x 2100 [203]</title></rect>
+    <rect x="1007.29" y="1105.9" width="148.77" height="26.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 2.027 x 0.945 [208A]</title></rect>
+    <rect x="614.68" y="1265.7" width="26.19" height="148.77" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 2.027 x 0.945 [207]</title></rect>
+    <rect x="1178.49" y="1105.9" width="148.77" height="26.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 2.027 x 0.945 [208B]</title></rect>
+  </g>
+  <g data-category="Door Tags">
+    <rect x="1549.25" y="903.98" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1205.65" y="1095.38" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1437.4" y="1117.32" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="826.56" y="1117.32" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="280.21" y="1033.48" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="750.67" y="1013.02" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1034.45" y="1095.38" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1052.16" y="1183.04" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="580.55" y="1316.47" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1552.48" y="1451.45" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1218.25" y="1420.39" width="94.46" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+  </g>
+  <g data-category="Window Tags">
+    <rect x="973.84" y="1457.5" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="1433.46" y="1457.5" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="1209.99" y="962.12" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="698.33" y="1457.5" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="501.54" y="1457.5" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="501.54" y="962.12" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="1091.91" y="962.12" width="62.97" height="47.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+  </g>
+  <g>
+    <line x1="1484.63" y1="1110.63" x2="1507.3" y2="1110.63" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="873.79" y1="1110.63" x2="851.12" y2="1110.63" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1295.79" y1="1430.21" x2="1295.79" y2="1452.88" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1069.08" y1="1206.66" x2="1069.08" y2="1183.99" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="533.03" y1="1477.52" x2="486.95" y2="1477.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1005.32" y1="1477.52" x2="959.24" y2="1477.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1464.95" y1="1477.52" x2="1418.86" y2="1477.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="533.03" y1="989.32" x2="486.95" y2="989.32" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="828.21" y1="1036.63" x2="828.21" y2="1013.96" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1123.4" y1="989.32" x2="1077.32" y2="989.32" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="636.15" y1="1340.08" x2="636.15" y2="1384.71" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1241.47" y1="989.32" x2="1195.39" y2="989.32" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="729.82" y1="1477.52" x2="683.74" y2="1477.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1252.88" y1="1110.63" x2="1208.24" y2="1110.63" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1081.68" y1="1110.63" x2="1126.31" y2="1110.63" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+  </g>
+  <g text-anchor="middle" style="fill:rgb(200,240,210);font-size:9px;font-family:'Segoe UI',Arial,sans-serif;pointer-events:none">
+    <text x="594.03" y="1233.42">Master Bedroom 206</text>
+    <text x="732.18" y="1346.03">Master Bath 207</text>
+    <text x="963.75" y="1294.07">Bedroom 204</text>
+    <text x="1197.54" y="1405.22">Bath 203</text>
+    <text x="1167.28" y="1237.04">Bath 205</text>
+    <text x="1398.7" y="1294.07">Bedroom 202</text>
+    <text x="1299.13" y="1232.01">Entry Hall 201</text>
+    <text x="1167.28" y="1138.49">Linen 208</text>
+  </g>
+</g>
+<rect x="30" y="90" width="1979.22" height="2400" style="fill:none;stroke:rgba(100,100,160,0.5);stroke-width:1.5"/>
+<text text-anchor="middle" x="264.77" y="2502" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="middle" x="744.62" y="2502" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="middle" x="1224.47" y="2502" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="middle" x="1704.33" y="2502" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<text text-anchor="end" x="26" y="2180.26" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-40</text>
+<text text-anchor="end" x="26" y="1700.41" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="end" x="26" y="1220.55" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="end" x="26" y="740.7" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="end" x="26" y="260.85" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<rect x="2021.22" y="90" width="216" height="220" rx="4" style="fill:rgba(30,30,60,0.5)"/>
+<text x="2029.22" y="108" style="fill:rgb(180,180,220);font-size:12px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif">Category</text>
+<rect x="2029.22" y="114" width="14" height="14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8"/>
+<text class="legend-label" x="2049.22" y="126">Walls (23)</text>
+<rect x="2029.22" y="134" width="14" height="14" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5"/>
+<text class="legend-label" x="2049.22" y="146">Doors (11)</text>
+<rect x="2029.22" y="154" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2049.22" y="166">Door Tags (11)</text>
+<rect x="2029.22" y="174" width="14" height="14" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1"/>
+<text class="legend-label" x="2049.22" y="186">Railings (9)</text>
+<rect x="2029.22" y="194" width="14" height="14" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2"/>
+<text class="legend-label" x="2049.22" y="206">Rooms (8)</text>
+<rect x="2029.22" y="214" width="14" height="14" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2"/>
+<text class="legend-label" x="2049.22" y="226">Room Tags (8)</text>
+<rect x="2029.22" y="234" width="14" height="14" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1"/>
+<text class="legend-label" x="2049.22" y="246">Windows (7)</text>
+<rect x="2029.22" y="254" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2049.22" y="266">Window Tags (7)</text>
+<rect x="2029.22" y="274" width="14" height="14" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8"/>
+<text class="legend-label" x="2049.22" y="286">Stairs (2)</text>
+</svg>
