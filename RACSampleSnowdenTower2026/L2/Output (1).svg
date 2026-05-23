@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2700" height="1278.2" viewBox="0 0 2700 1278.2">
+<rect x="0" y="0" width="2700" height="1278.2" fill="rgb(26,26,46)"/>
+<rect x="30" y="90" width="2400" height="1158.2" fill="rgb(22,33,62)"/>
+<text x="30" y="52" style="fill:rgb(204,204,238);font-size:20px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif;">Revit BBox Render — L2LLM</text>
+<text x="30" y="72" style="fill:rgb(140,140,180);font-size:11px;font-family:'Segoe UI',Arial,sans-serif;">406 elements | 0 tags | 2026-05-13 04:58</text>
+<g>
+  <g>
+    <line x1="144.49" y1="90" x2="144.49" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="265" y1="90" x2="265" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="385.51" y1="90" x2="385.51" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="506.02" y1="90" x2="506.02" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="626.53" y1="90" x2="626.53" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="747.04" y1="90" x2="747.04" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="867.55" y1="90" x2="867.55" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="988.07" y1="90" x2="988.07" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1108.58" y1="90" x2="1108.58" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1229.09" y1="90" x2="1229.09" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1349.6" y1="90" x2="1349.6" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1470.11" y1="90" x2="1470.11" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1590.62" y1="90" x2="1590.62" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1711.13" y1="90" x2="1711.13" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1831.64" y1="90" x2="1831.64" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1952.16" y1="90" x2="1952.16" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2072.67" y1="90" x2="2072.67" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2193.18" y1="90" x2="2193.18" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2313.69" y1="90" x2="2313.69" y2="1248.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1128.78" x2="2430" y2="1128.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1008.27" x2="2430" y2="1008.27" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="887.76" x2="2430" y2="887.76" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="767.25" x2="2430" y2="767.25" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="646.74" x2="2430" y2="646.74" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="526.23" x2="2430" y2="526.23" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="405.71" x2="2430" y2="405.71" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="285.2" x2="2430" y2="285.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="164.69" x2="2430" y2="164.69" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+  </g>
+  <g data-category="Rooms">
+    <rect x="126.41" y="547.19" width="744.16" height="571.65" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Pocket Park 104</title></rect>
+    <rect x="1515.93" y="278.67" width="445.51" height="855.19" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Commercial/Retail 108</title></rect>
+    <rect x="1973.12" y="264.74" width="347.49" height="850.26" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Commercial/Retail 109</title></rect>
+    <rect x="995.72" y="542.92" width="1048.07" height="194.2" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Corridor 201</title></rect>
+    <rect x="1519.19" y="264.74" width="442.13" height="390.91" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Live/Work Unit 205</title></rect>
+    <rect x="384.88" y="337.05" width="475.39" height="315.71" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Café 101</title></rect>
+    <rect x="272.65" y="264.74" width="502.51" height="276.3" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Mezzanine Dining 200</title></rect>
+    <rect x="879.23" y="740.26" width="340.95" height="359.65" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Live/Work Unit 202</title></rect>
+    <rect x="1231.98" y="264.74" width="275.42" height="390.91" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Two Story Studio Unit 204</title></rect>
+    <rect x="1231.98" y="743.4" width="275.42" height="365.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Residential Lobby 106</title></rect>
+    <rect x="379.73" y="663.06" width="490.83" height="199.6" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Outdoor Covered Dining 103</title></rect>
+    <rect x="998.74" y="264.74" width="221.44" height="390.91" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Studio Unit 203</title></rect>
+    <rect x="882.62" y="252.06" width="100.93" height="277.68" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Stair S2</title></rect>
+    <rect x="156.54" y="264.11" width="100.93" height="265.63" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Stair S1</title></rect>
+    <rect x="1973.25" y="744.65" width="100.93" height="259.1" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Stair S3</title></rect>
+    <rect x="1406.84" y="440.36" width="100.43" height="89.38" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Elevator E2</title></rect>
+    <rect x="269.52" y="364.04" width="100.43" height="89.38" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Elevator E1</title></rect>
+  </g>
+  <g data-category="Walls">
+    <rect x="2231.62" y="387.4" width="101.97" height="680.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud (Alley)</title></rect>
+    <rect x="995.6" y="252.06" width="1232.45" height="12.68" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="263.49" y="252.06" width="607.08" height="12.68" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="2108.76" y="1083.07" width="198.72" height="37.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 43 Storefront</title></rect>
+    <rect x="864.54" y="652.76" width="14.69" height="432.84" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 14 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="379.73" y="653.01" width="484.81" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Storefront</title></rect>
+    <rect x="1961.32" y="258.4" width="11.8" height="400.32" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1220.17" y="258.4" width="11.8" height="400.32" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1507.39" y="737.18" width="11.8" height="392.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1220.17" y="737.18" width="11.8" height="361.97" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="2074.17" y="738.63" width="12.05" height="343.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1961.19" y="738.63" width="12.05" height="343.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="2215.15" y="258.36" width="29.04" height="130.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1513.29" y="655.65" width="576.07" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="126.41" y="246.04" width="12.05" height="289.73" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="870.57" y="258.59" width="12.05" height="285.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="257.47" y="258.4" width="12.05" height="283.39" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="983.55" y="258.59" width="12.05" height="277.18" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1236.56" y="1106.94" width="266.25" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 39 Storefront</title></rect>
+    <rect x="126.41" y="541.79" width="13.68" height="227.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 13 5/8&quot; Rainscreen (Two Sides) w Insultation on Metal Stud</title></rect>
+    <rect x="1525.34" y="1129.41" width="442.61" height="6.65" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="2148.89" y="1060.96" width="111.1" height="26.37" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — _Not Defined</title></rect>
+    <rect x="1226.07" y="731.85" width="275.17" height="10.54" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="900.69" y="1106.79" width="289.23" height="9.92" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 9 7/8&quot; EIFS on Mtl. Stud</title></rect>
+    <rect x="1507.39" y="734.11" width="446.21" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="990.2" y="655.65" width="419.78" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="870.57" y="330.71" width="12.05" height="213.78" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="680.13" y="324.37" width="196.46" height="12.68" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1232.1" y="1108.95" width="275.17" height="8.91" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - GWB on Metal Stud w Insulated Panel 8 7/8&quot;</title></rect>
+    <rect x="388.02" y="530.49" width="226.46" height="10.54" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="1771.39" y="1127.84" width="196.12" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 41 Storefront</title></rect>
+    <rect x="638.58" y="530.49" width="223.82" height="10.54" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="1550.45" y="1127.84" width="195.83" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 41 Storefront</title></rect>
+    <rect x="871.88" y="734.11" width="360.09" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="884.63" y="1099.91" width="329.46" height="6.65" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="385.89" y="263.85" width="230.73" height="9.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap 10 1/2&quot; (Two Sides)</title></rect>
+    <rect x="1507.39" y="258.4" width="11.8" height="170.35" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="126.41" y="240.01" width="143.11" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="126.41" y="529.74" width="137.08" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="860.27" y="284.95" width="4.27" height="365.86" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="869" y="529.74" width="126.6" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1961.19" y="1076.06" width="125.03" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1961.19" y="732.6" width="125.03" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1507.39" y="541.35" width="11.8" height="120.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1964.21" y="1003.75" width="115.99" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="680.13" y="330.71" width="7.28" height="190.81" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (1 hr)</title></rect>
+    <rect x="867.43" y="535.77" width="11.8" height="117" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="876.59" y="240.01" width="112.98" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="374.59" y="536.9" width="10.29" height="126.16" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="152.27" y="246.04" width="4.27" height="289.73" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1396.8" y="430.32" width="120.51" height="10.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="379.99" y="460.57" width="245.16" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="263.49" y="536.9" width="116.24" height="10.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1952.03" y="729.46" width="3.14" height="379.74" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1395.23" y="529.74" width="117.06" height="10.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="263.49" y="453.42" width="116.49" height="10.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="636.45" y="263.85" width="123.52" height="9.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap 10 1/2&quot; (Two Sides)</title></rect>
+    <rect x="1284.76" y="1101.67" width="169.83" height="6.65" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1507.27" y="427.62" width="10.04" height="112.16" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="2086.22" y="732.6" width="3.14" height="358.21" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="263.49" y="353.99" width="111.47" height="10.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="989.57" y="539.91" width="152.77" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="870.57" y="240.01" width="12.05" height="90.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1396.8" y="435.34" width="10.04" height="107.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="369.94" y="353.99" width="10.04" height="104.44" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="1405.71" y="541.35" width="8.54" height="120.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 8 1/2&quot; Partition (2-hr)</title></rect>
+    <rect x="990.2" y="543.36" width="8.54" height="115.36" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 8 1/2&quot; Partition (2-hr)</title></rect>
+    <rect x="918.02" y="543.36" width="4.9" height="193.82" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="771.52" y="330.71" width="4.9" height="193.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2063.75" y="258.4" width="4.9" height="193.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="424.3" y="335.54" width="192.82" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="168.34" y="240.01" width="76.83" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Glazing Wall - Stair</title></rect>
+    <rect x="894.42" y="240.01" width="76.83" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Glazing Wall - Stair</title></rect>
+    <rect x="995.6" y="258.4" width="3.14" height="286.53" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1749.67" y="606.19" width="121.26" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="962.83" y="792.1" width="7.28" height="120.89" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1863.65" y="488.94" width="7.28" height="120.89" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="272.84" y="263.85" width="93.21" height="9.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap 10 1/2&quot; (Two Sides)</title></rect>
+    <rect x="962.83" y="788.46" width="118.82" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="271.09" y="530.49" width="92.83" height="9.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="966.47" y="895.67" width="117.62" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1975.13" y="258.4" width="4.27" height="193.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1999.86" y="1073.55" width="68.29" height="12.05" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — _Not Defined</title></rect>
+    <rect x="2262.09" y="1083.07" width="45.38" height="17.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — _Not Defined</title></rect>
+    <rect x="2108.76" y="1103.26" width="45.38" height="17.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — _Not Defined</title></rect>
+    <rect x="126.41" y="234.61" width="148.5" height="5.4" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1287.33" y="535.64" width="106.33" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1577.57" y="481.47" width="6.15" height="122.58" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1764.67" y="498.99" width="102.62" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="133.25" y="541.79" width="137.83" height="5.4" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="865.17" y="234.61" width="135.83" height="5.4" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1706.24" y="488.94" width="7.28" height="94.34" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="2080.83" y="658.73" width="8.54" height="79.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 8 1/2&quot; Partition (2-hr)</title></rect>
+    <rect x="1120.25" y="821.04" width="7.28" height="91.95" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="269.52" y="258.4" width="6.65" height="94.02" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="269.52" y="258.4" width="6.65" height="93.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1990.13" y="1088.11" width="97.8" height="5.4" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="269.52" y="349.73" width="114.74" height="4.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1961.44" y="1088.11" width="11.8" height="41.3" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1967.22" y="446.76" width="98.98" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="379.99" y="352.43" width="4.27" height="112.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="379.99" y="351.86" width="4.27" height="111.16" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="2253.23" y="1066.15" width="15.62" height="29.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — _Not Defined</title></rect>
+    <rect x="2143.71" y="1080.57" width="15.62" height="29.45" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — _Not Defined</title></rect>
+    <rect x="680.13" y="519.07" width="93.84" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1106.19" y="543.55" width="7.28" height="62.52" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="378.73" y="463.46" width="6.15" height="73.75" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="2081.18" y="1088.11" width="15.95" height="28.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="683.77" y="425.8" width="90.2" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="759.97" y="284.95" width="102.43" height="4.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1977.26" y="353.49" width="88.94" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="990.2" y="658.73" width="5.52" height="78.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 5 1/2&quot; Partition (1-hr Smoke)</title></rect>
+    <rect x="1513.29" y="600.98" width="70.42" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1079.2" y="788.46" width="4.9" height="86.87" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1512.29" y="481.47" width="68.35" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1301.39" y="601.55" width="7.28" height="57.18" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1953.6" y="729.46" width="131.5" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="869" y="541.79" width="128.17" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1393.66" y="427.18" width="126.79" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1517.31" y="520.64" width="63.33" height="6.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1395.23" y="539.78" width="123.96" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1106.19" y="606.06" width="7.28" height="52.66" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="269.52" y="350.86" width="114.74" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="269.52" y="463.46" width="114.74" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1393.66" y="428.75" width="3.14" height="114.17" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="2043.79" y="658.73" width="4.9" height="72.31" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="269.52" y="463.46" width="112.29" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1232.1" y="1111.21" width="52.66" height="6.65" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1454.59" y="1111.21" width="52.66" height="6.65" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1283.7" y="539.28" width="4.9" height="64.71" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1081.65" y="871.69" width="42.24" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="622.7" y="418.39" width="61.07" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="1709.88" y="525.35" width="40.92" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1709.88" y="498.99" width="57.24" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2232.41" y="725.07" width="4.27" height="64.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1283.7" y="507.52" width="7.28" height="35.4" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1967.12" y="1125.92" width="25.72" height="9.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1987.43" y="1082.08" width="5.4" height="47.55" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1578.82" y="607.13" width="4.9" height="51.59" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2084.57" y="1110.58" width="25.26" height="9.81" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="269.52" y="465.03" width="3.14" height="76.76" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="269.52" y="465.03" width="3.14" height="76.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="2234.55" y="785.07" width="55.89" height="4.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="871.88" y="656.9" width="48.58" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1109.83" y="602.42" width="32.51" height="7.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="257.47" y="246.04" width="12.05" height="18.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="870.57" y="240.01" width="12.05" height="18.58" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="983.55" y="240.01" width="12.05" height="18.58" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="620.25" y="418.39" width="4.9" height="44.63" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="1081.65" y="818.59" width="43.43" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1708.69" y="580.83" width="43.43" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1081.65" y="898.05" width="42.24" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2234.55" y="725.07" width="47.99" height="4.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="994.47" y="578.45" width="40.42" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="994.47" y="619.5" width="40.42" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1370.69" y="579.07" width="39.29" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="860.27" y="1089.62" width="8.03" height="23.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 37 Pilaster</title></rect>
+    <rect x="1517.31" y="428.75" width="3.14" height="55.8" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1122.64" y="790.91" width="4.9" height="32.58" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1137.45" y="511.04" width="4.9" height="32.51" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="966.47" y="825.5" width="31.76" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1835.54" y="572.42" width="31.76" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1122.64" y="788.46" width="31.01" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1680.13" y="608.57" width="31.01" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1706.24" y="580.83" width="4.9" height="30.19" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1867.3" y="608.57" width="29.75" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1680.13" y="488.94" width="29.75" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="936.72" y="788.46" width="29.75" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1123.89" y="908.1" width="29.75" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1867.3" y="488.94" width="29.75" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="936.72" y="908.1" width="29.75" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1749.67" y="580.83" width="4.9" height="29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1276.54" y="601.55" width="28.5" height="4.9" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="757.84" y="258.4" width="4.27" height="30.82" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1762.23" y="501.43" width="4.9" height="25.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1079.2" y="875.33" width="4.9" height="23.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="269.52" y="237.31" width="5.4" height="21.09" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="865.17" y="237.31" width="5.4" height="21.09" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="995.6" y="237.31" width="5.4" height="21.09" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="884.63" y="1083.47" width="4.27" height="19.77" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="860.27" y="1108.8" width="10.29" height="8.03" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 37 Pilaster</title></rect>
+    <rect x="860.27" y="1085.6" width="10.29" height="8.03" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Block 37 Pilaster</title></rect>
+    <rect x="2308.7" y="1067.76" width="5" height="16.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1522.21" y="1106.69" width="3.14" height="23.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="871.88" y="1081.33" width="17.01" height="4.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="2306.1" y="1083.63" width="8.46" height="7.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="2308.29" y="1064.99" width="12.73" height="4.73" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1283.19" y="1101.67" width="3.14" height="16.19" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1453.03" y="1101.67" width="3.14" height="16.19" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="873.33" y="547.82" width="15.22" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="384.88" y="509.22" width="3.14" height="15.06" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1749.67" y="525.35" width="2.26" height="19.21" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1967.22" y="447.39" width="10.04" height="4.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="860.27" y="649.25" width="13.06" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1764.86" y="526.48" width="2.26" height="18.08" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1750.8" y="525.35" width="16.32" height="2.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1750.8" y="542.29" width="15.19" height="2.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1517.31" y="523.72" width="1.88" height="17.64" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Furring - GWB &amp; Channels 1 7/8&quot;</title></rect>
+    <rect x="1952.03" y="1107.63" width="9.41" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1234.99" y="1105.43" width="3.14" height="9.1" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1501.23" y="1105.43" width="3.14" height="9.1" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="381.81" y="507.65" width="6.21" height="3.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="885.41" y="543.36" width="3.14" height="6.03" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+  </g>
+  <g data-category="Railings">
+    <rect x="390.28" y="334.41" width="424.8" height="207" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Glass Panel - Bottom Fill (Extension Bottom)</title></rect>
+    <rect x="1239.51" y="727.96" width="259.85" height="173.61" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Glass Panel - Bottom Fill (Extension Top)</title></rect>
+    <rect x="1281.69" y="727.83" width="217.42" height="131.56" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Glass Panel - Bottom Fill</title></rect>
+    <rect x="760.1" y="287.71" width="109.05" height="255.59" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="870.44" y="187.66" width="236.75" height="47.2" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension Bottom)</title></rect>
+    <rect x="1231.35" y="356.3" width="71.81" height="71.76" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Spiral</title></rect>
+    <rect x="1577.44" y="202.85" width="102.43" height="49.58" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Handrail - Balcony</title></rect>
+    <rect x="1964.5" y="788.59" width="17.74" height="184.78" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="974.55" y="295.75" width="17.74" height="184.78" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="147.79" y="310.06" width="17.74" height="173.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="924.17" y="300.27" width="17.83" height="168.46" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="248.47" y="310.06" width="17.74" height="162.69" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="198.09" y="310.18" width="17.83" height="161.81" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="147.79" y="332.15" width="17.74" height="151.64" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="198.09" y="322.23" width="17.83" height="149.76" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="2065.18" y="788.59" width="17.74" height="140.6" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="873.87" y="336.17" width="17.74" height="140.6" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="2014.8" y="800.39" width="17.83" height="128.67" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="924.17" y="336.3" width="17.83" height="128.67" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="1281.69" y="727.83" width="6.78" height="240.65" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Glass Panel - Bottom Fill (Extension Bottom)</title></rect>
+    <rect x="1239.51" y="732.23" width="4.02" height="236.25" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Glass Panel - Bottom Fill (Extension Top and Bottom)</title></rect>
+    <rect x="938.48" y="229.59" width="168.72" height="3.77" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension Top and Bottom)</title></rect>
+    <rect x="2014.8" y="800.39" width="3.77" height="161.18" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="198.09" y="460.45" width="17.83" height="21.34" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="157.04" y="263.99" width="99.42" height="3.77" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Guardrail)</title></rect>
+    <rect x="157.29" y="263.99" width="99.42" height="3.77" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Guardrail)</title></rect>
+    <rect x="883.37" y="260.98" width="99.42" height="3.77" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Guardrail)</title></rect>
+    <rect x="924.17" y="464.46" width="17.83" height="12.8" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="2014.8" y="791.6" width="17.83" height="9.29" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+  </g>
+  <g data-category="Stairs">
+    <rect x="882.62" y="248.55" width="100.93" height="216.92" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="882.62" y="264.11" width="100.93" height="202.11" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="156.54" y="264.62" width="100.93" height="193.07" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="156.54" y="264.62" width="100.93" height="193.07" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="775.16" y="289.22" width="85.11" height="227.97" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1973.25" y="814.7" width="100.93" height="189.05" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="882.62" y="261.6" width="100.93" height="189.05" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1240.01" y="745.41" width="96.41" height="155.66" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1240.01" y="745.41" width="44.19" height="198.84" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="938.48" y="186.41" width="144.61" height="48.2" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1973.25" y="803.65" width="44.69" height="143.61" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1231.1" y="356" width="72.31" height="72.31" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1250.05" y="830.77" width="76.32" height="62.39" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Residential Lobby Stair Landing Support</title></rect>
+  </g>
+  <g data-category="Room Tags">
+    <rect x="1279.17" y="326.06" width="137.98" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1589.64" y="810.92" width="117.12" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="2066.6" y="519.54" width="117.12" height="42.26" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1313.68" y="878.96" width="112.47" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="389.82" y="397.26" width="110.89" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1002.21" y="879.04" width="95.01" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1775.66" y="381.03" width="95.01" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="228.19" y="951.74" width="75.52" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1074.21" y="356.6" width="70.51" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="856.08" y="229.78" width="60.26" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="2040.76" y="977.39" width="60.26" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1422.22" y="460.86" width="60.26" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="284.89" y="384.54" width="60.26" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1424.13" y="664.38" width="60.26" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="176.87" y="452.26" width="60.26" height="42.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+  </g>
+  <g data-category="Doors">
+    <rect x="2168.43" y="1068.18" width="76.64" height="47.02" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Door-Curtain-Wall-Double-Storefront [109A]</title></rect>
+    <rect x="1978.23" y="732.1" width="40.92" height="47.7" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (180 MIN) [S32]</title></rect>
+    <rect x="937.35" y="494.59" width="40.92" height="47.7" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (180 MIN) [S22B]</title></rect>
+    <rect x="1506.89" y="553.84" width="47.45" height="40.92" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (45 MIN) [201A]</title></rect>
+    <rect x="1582.71" y="251.56" width="40.92" height="43.81" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 89&quot; (90 MIN) [205D]</title></rect>
+    <rect x="1758.14" y="570.04" width="40.17" height="43.94" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (Cores) [205A]</title></rect>
+    <rect x="1035.77" y="787.96" width="40.17" height="43.94" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (Cores) [202A]</title></rect>
+    <rect x="1070.04" y="550.45" width="43.94" height="40.17" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (Cores) [203B]</title></rect>
+    <rect x="1712.14" y="619.5" width="40.17" height="42.81" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (60 MIN) [205B]</title></rect>
+    <rect x="1162.68" y="619.5" width="40.17" height="42.81" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (60 MIN) [203A]</title></rect>
+    <rect x="1098.66" y="733.61" width="40.17" height="42.81" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (60 MIN) [202B]</title></rect>
+    <rect x="1235.24" y="619.5" width="40.17" height="42.81" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (60 MIN) [204A]</title></rect>
+    <rect x="954.05" y="690.67" width="42.18" height="40.17" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (20 MIN) [201C]</title></rect>
+    <rect x="2007.64" y="665.06" width="41.55" height="40.17" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; [201B]</title></rect>
+    <rect x="1283.19" y="545.93" width="41.55" height="40.17" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (Cores) [204B]</title></rect>
+    <rect x="896.93" y="209.38" width="36.15" height="37.91" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Door-Curtain-Wall-Single-Storefront [S22A]</title></rect>
+    <rect x="1721.8" y="498.99" width="32.14" height="4.9" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 32&quot; x 84&quot; [205OPN]</title></rect>
+    <rect x="1086.11" y="898.05" width="32.14" height="4.9" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 32&quot; x 84&quot; [202OPN]</title></rect>
+  </g>
+  <g data-category="Windows">
+    <rect x="1324.62" y="241.67" width="55.74" height="24.33" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 60&quot; [122]</title></rect>
+    <rect x="1023.34" y="241.67" width="55.74" height="24.33" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 60&quot; [119]</title></rect>
+    <rect x="1123.77" y="241.67" width="55.74" height="24.33" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 60&quot; [120]</title></rect>
+    <rect x="1876.96" y="241.67" width="55.74" height="24.33" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 60&quot; [125]</title></rect>
+    <rect x="1425.04" y="241.67" width="55.74" height="24.33" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 60&quot; [126]</title></rect>
+    <rect x="1776.54" y="241.67" width="55.74" height="24.33" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 60&quot; [127]</title></rect>
+    <rect x="489.2" y="246.29" width="55.74" height="19.7" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 80&quot; [138]</title></rect>
+    <rect x="409.36" y="246.29" width="55.74" height="19.7" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 80&quot; [141]</title></rect>
+    <rect x="288.35" y="246.29" width="55.74" height="19.7" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 80&quot; [182]</title></rect>
+    <rect x="558.99" y="246.29" width="55.74" height="19.7" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 50&quot; x 80&quot; [183]</title></rect>
+    <rect x="1063.51" y="1084.61" width="43.18" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [112]</title></rect>
+    <rect x="985.18" y="1084.61" width="43.18" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [113]</title></rect>
+    <rect x="906.85" y="1084.61" width="43.18" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [115]</title></rect>
+    <rect x="1141.84" y="1084.61" width="43.18" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [111]</title></rect>
+    <rect x="1348.6" y="1086.37" width="42.18" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [139]</title></rect>
+    <rect x="1309.93" y="1086.37" width="27.12" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [140]</title></rect>
+    <rect x="1402.32" y="1086.37" width="27.12" height="21.95" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — Schematic Opening Cut [143]</title></rect>
+  </g>
+  <g data-category="Columns">
+    <rect x="1499.7" y="1124.99" width="22.97" height="26.8" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — Flex</title></rect>
+    <rect x="1433.42" y="1124.99" width="22.97" height="26.8" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — Flex</title></rect>
+    <rect x="1282.97" y="1124.99" width="22.97" height="26.8" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — Flex</title></rect>
+    <rect x="1216.68" y="1124.99" width="22.97" height="26.8" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — Flex</title></rect>
+    <rect x="1501.24" y="908.35" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1501.24" y="725.07" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1501.24" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1214.02" y="725.07" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1214.02" y="908.35" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1746.28" y="1087.11" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1746.28" y="908.35" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1746.28" y="725.07" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1955.17" y="523.72" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="2236.94" y="523.72" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="2287.58" y="908.35" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="2201.64" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="363.92" y="523.09" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1214.02" y="523.72" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1214.02" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="128.42" y="725.07" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1955.17" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1746.28" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="614.48" y="523.09" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="614.48" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="614.48" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="363.92" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="363.92" y="255.58" width="24.1" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="868.56" y="725.07" width="22.09" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 22&quot;W</title></rect>
+    <rect x="1501.24" y="1086.6" width="24.1" height="20.09" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 20&quot;D x 24&quot;W</title></rect>
+    <rect x="1214.02" y="1086.6" width="24.1" height="20.09" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 20&quot;D x 24&quot;W</title></rect>
+    <rect x="868.56" y="908.35" width="20.09" height="24.1" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 20&quot;W</title></rect>
+    <rect x="1265.24" y="390.14" width="4.02" height="4.02" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 4&quot; Diameter (Spiral Stair Post)</title></rect>
+  </g>
+  <g data-category="Wall Tags">
+    <rect x="605.9" y="665.06" width="32.42" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1261.95" y="446.51" width="24.6" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1261.95" y="906.12" width="24.6" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1549.17" y="921.37" width="24.6" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1549.17" y="331.52" width="24.6" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1452.76" y="589.53" width="24.6" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="2003.1" y="446.51" width="24.6" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="170.93" y="378.85" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="2048.56" y="898.3" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1718.45" y="687.11" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1039.88" y="687.11" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="818.03" y="455.83" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1893.34" y="907.28" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="2121.25" y="899.65" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1033.32" y="389.62" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1114.98" y="1042.98" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="281.57" y="388.05" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="2121.25" y="686.63" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1446.13" y="589.53" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="956.62" y="628.22" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="313.9" y="481.79" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="415.89" y="587.93" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="799.14" y="297.25" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="290.92" y="293.08" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="889.96" y="531.31" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="2013.42" y="342.98" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="2244.54" y="688.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1617.42" y="619.21" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="908.04" y="857.13" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="932.7" y="663.14" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+  </g>
+  <g data-category="Window Tags">
+    <rect x="1039.16" y="217.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1139.58" y="217.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1340.44" y="217.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1892.78" y="217.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1792.35" y="217.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="505.02" y="220.68" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="425.18" y="220.68" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="304.16" y="220.68" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="574.81" y="220.68" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1151.38" y="1122" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="994.72" y="1122" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="916.39" y="1122" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1311.44" y="1121.75" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1403.83" y="1121.75" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1440.86" y="217.92" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1357.63" y="1121.75" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+    <rect x="1073.05" y="1122" width="24.1" height="24.1" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — Window Tag</title></rect>
+  </g>
+  <g data-category="Door Tags">
+    <rect x="1714.15" y="659.73" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1164.69" y="659.73" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1489.19" y="565.27" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1980.61" y="719.55" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1037.78" y="772.52" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1760.15" y="609.33" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1100.67" y="718.1" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1114.62" y="561.5" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1283.63" y="556.98" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="2028.17" y="676.11" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="939.74" y="531.75" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="896.93" y="246.04" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1237.25" y="660.23" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="975.39" y="701.72" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1585.1" y="236.31" width="36.15" height="18.08" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+  </g>
+  <g>
+    <line x1="1999.07" y1="738.63" x2="1984.76" y2="738.63" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1778.23" y1="609.83" x2="1765.05" y2="609.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1118.74" y1="737.18" x2="1105.9" y2="737.18" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1732.22" y1="658.73" x2="1745.06" y2="658.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1109.83" y1="570.54" x2="1109.83" y2="557.36" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1182.77" y1="658.73" x2="1195.61" y2="658.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1286.14" y1="566.02" x2="1286.14" y2="553.55" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="2046.24" y1="685.15" x2="2046.24" y2="672.68" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="957.43" y1="535.77" x2="971.75" y2="535.77" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1513.29" y1="573.93" x2="1513.29" y2="588.16" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1255.32" y1="658.73" x2="1242.48" y2="658.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1737.87" y1="501.43" x2="1747.51" y2="501.43" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="992.96" y1="710.76" x2="992.96" y2="723.41" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1102.17" y1="900.5" x2="1092.53" y2="900.5" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1603.55" y1="258.4" x2="1590.41" y2="258.4" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+  </g>
+  <g text-anchor="middle" style="fill:rgb(200,240,210);font-size:9px;font-family:'Segoe UI',Arial,sans-serif;pointer-events:none">
+    <text x="207" y="396.93">Stair S1</text>
+    <text x="2023.71" y="874.2">Stair S3</text>
+    <text x="933.08" y="390.9">Stair S2</text>
+    <text x="319.73" y="408.73">Elevator E1</text>
+    <text x="1457.05" y="485.05">Elevator E2</text>
+    <text x="622.58" y="494.91">Café 101</text>
+    <text x="625.15" y="762.86">Outdoor Covered Dining 103</text>
+    <text x="498.49" y="833.02">Pocket Park 104</text>
+    <text x="1369.68" y="926.17">Residential Lobby 106</text>
+    <text x="1738.69" y="706.27">Commercial/Retail 108</text>
+    <text x="2146.87" y="689.87">Commercial/Retail 109</text>
+    <text x="1519.76" y="640.02">Corridor 201</text>
+    <text x="1049.7" y="920.08">Live/Work Unit 202</text>
+    <text x="1109.45" y="460.2">Studio Unit 203</text>
+    <text x="1369.68" y="460.2">Two Story Studio Unit 204</text>
+    <text x="1740.26" y="460.2">Live/Work Unit 205</text>
+    <text x="523.91" y="402.89">Mezzanine Dining 200</text>
+  </g>
+</g>
+<rect x="30" y="90" width="2400" height="1158.2" style="fill:none;stroke:rgba(100,100,160,0.5);stroke-width:1.5"/>
+<text text-anchor="middle" x="265" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-100</text>
+<text text-anchor="middle" x="506.02" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-80</text>
+<text text-anchor="middle" x="747.04" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-60</text>
+<text text-anchor="middle" x="988.07" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-40</text>
+<text text-anchor="middle" x="1229.09" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="middle" x="1470.11" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="middle" x="1711.13" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="middle" x="1952.16" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<text text-anchor="middle" x="2193.18" y="1260.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">60</text>
+<text text-anchor="end" x="26" y="1011.27" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="end" x="26" y="770.25" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="end" x="26" y="529.23" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="end" x="26" y="288.2" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<rect x="2442" y="90" width="216" height="260" rx="4" style="fill:rgba(30,30,60,0.5)"/>
+<text x="2450" y="108" style="fill:rgb(180,180,220);font-size:12px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif">Category</text>
+<rect x="2450" y="114" width="14" height="14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="126">Walls (203)</text>
+<rect x="2450" y="134" width="14" height="14" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2"/>
+<text class="legend-label" x="2470" y="146">Columns (32)</text>
+<rect x="2450" y="154" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="166">Wall Tags (30)</text>
+<rect x="2450" y="174" width="14" height="14" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1"/>
+<text class="legend-label" x="2470" y="186">Railings (29)</text>
+<rect x="2450" y="194" width="14" height="14" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5"/>
+<text class="legend-label" x="2470" y="206">Doors (18)</text>
+<rect x="2450" y="214" width="14" height="14" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1"/>
+<text class="legend-label" x="2470" y="226">Windows (17)</text>
+<rect x="2450" y="234" width="14" height="14" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2"/>
+<text class="legend-label" x="2470" y="246">Rooms (17)</text>
+<rect x="2450" y="254" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="266">Window Tags (17)</text>
+<rect x="2450" y="274" width="14" height="14" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2"/>
+<text class="legend-label" x="2470" y="286">Room Tags (15)</text>
+<rect x="2450" y="294" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="306">Door Tags (15)</text>
+<rect x="2450" y="314" width="14" height="14" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="326">Stairs (13)</text>
+</svg>
