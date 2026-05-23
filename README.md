@@ -25,8 +25,8 @@ All commands operate on the **active floor plan view** only. Commands that place
 
 | Button | Description |
 |--------|-------------|
-| Tag Next Room | Tags the next untagged room (sorted by room number). Click repeatedly to walk through all rooms one at a time. Tags are placed using pole-of-inaccessibility to find the largest clear space inside the room, then shifted to avoid existing annotations and furniture. |
-| Tag All Rooms | Tags every untagged room in one step. Larger rooms are tagged first so they claim the best positions. All placements are a single undo step. |
+| Tag Next Room | Tags the next untagged room (sorted by room number). Click repeatedly to walk through all rooms one at a time. |
+| Tag All Rooms | Tags every untagged room in one step. All placements are a single undo step. |
 
 ### Tagging — Doors
 
