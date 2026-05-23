@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2700" height="2240.53" viewBox="0 0 2700 2240.53">
+<rect x="0" y="0" width="2700" height="2240.53" fill="rgb(26,26,46)"/>
+<rect x="30" y="90" width="2400" height="2120.53" fill="rgb(22,33,62)"/>
+<text x="30" y="52" style="fill:rgb(204,204,238);font-size:20px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif;">Revit BBox Render — RevitCoords_Café Kitchen Plan Copy 1_20260511_132737</text>
+<text x="30" y="72" style="fill:rgb(140,140,180);font-size:11px;font-family:'Segoe UI',Arial,sans-serif;">251 elements | 0 tags | 2026-05-11 13:27</text>
+<g>
+  <g>
+    <line x1="243.35" y1="90" x2="243.35" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="467.94" y1="90" x2="467.94" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="692.52" y1="90" x2="692.52" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="917.1" y1="90" x2="917.1" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1141.69" y1="90" x2="1141.69" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1366.27" y1="90" x2="1366.27" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1590.85" y1="90" x2="1590.85" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1815.44" y1="90" x2="1815.44" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2040.02" y1="90" x2="2040.02" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2264.6" y1="90" x2="2264.6" y2="2210.53" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="2047.7" x2="2430" y2="2047.7" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1823.12" x2="2430" y2="1823.12" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1598.54" x2="2430" y2="1598.54" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1373.95" x2="2430" y2="1373.95" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1149.37" x2="2430" y2="1149.37" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="924.79" x2="2430" y2="924.79" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="700.2" x2="2430" y2="700.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="475.62" x2="2430" y2="475.62" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="251.04" x2="2430" y2="251.04" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+  </g>
+  <g data-category="Floors">
+    <rect x="227.68" y="944.67" width="1368.79" height="1071.92" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Concrete Slab 6&quot;</title></rect>
+    <rect x="1596.47" y="569.31" width="653.87" height="1436.23" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Finish Floor - Laminate</title></rect>
+    <rect x="209.67" y="963.86" width="1375.57" height="587.89" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Roof - Porcelain Float Deck 2&apos;x2&apos;</title></rect>
+    <rect x="476.36" y="436.32" width="1102.1" height="508.35" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Finish Floor - Polished Concrete (Grey)</title></rect>
+    <rect x="683.4" y="627.68" width="895.06" height="540.87" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Finish Floor - Ceramic Tile (Wood)</title></rect>
+    <rect x="484.78" y="963.86" width="187.39" height="1067" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Hardscape - Brick Walk</title></rect>
+    <rect x="1242.75" y="413.86" width="353.72" height="158.38" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Floors — Concrete Slab 4&quot;</title></rect>
+  </g>
+  <g data-category="Rooms">
+    <rect x="209.67" y="963.86" width="1386.8" height="1065.32" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Pocket Park 104</title></rect>
+    <rect x="691.35" y="572.24" width="885.93" height="588.36" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Café 101</title></rect>
+    <rect x="681.76" y="1179.78" width="914.71" height="371.97" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Outdoor Covered Dining 103</title></rect>
+    <rect x="488.76" y="437.49" width="752.82" height="364.95" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Café Kitchen 102</title></rect>
+    <rect x="476.36" y="622.54" width="187.15" height="166.56" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Elevator E1</title></rect>
+  </g>
+  <g data-category="Spaces">
+    <rect x="691.35" y="572.24" width="885.93" height="588.36" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Spaces — Cafe&apos; 70</title></rect>
+    <rect x="488.76" y="437.49" width="752.82" height="364.95" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Spaces — Cafe&apos; Kitchen 69</title></rect>
+    <rect x="476.36" y="622.54" width="187.15" height="166.56" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Spaces — Elevator 83</title></rect>
+  </g>
+  <g data-category="Railings">
+    <rect x="701.88" y="567.32" width="791.19" height="385.77" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Glass Panel - Bottom Fill (Extension Bottom)</title></rect>
+    <rect x="1390.6" y="480.3" width="203.22" height="476.31" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="1602.63" y="547.21" width="33.06" height="303.19" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="437.14" y="583.7" width="33.06" height="241.43" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="1602.63" y="503.46" width="33.06" height="179.67" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — Pipe-Wall Mount</title></rect>
+  </g>
+  <g data-category="Walls">
+    <rect x="465.13" y="413.86" width="1131.34" height="23.63" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1585.24" y="1160.6" width="27.37" height="806.63" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 14 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="681.76" y="1161.07" width="903.48" height="22.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Storefront</title></rect>
+    <rect x="1585.24" y="391.4" width="33.69" height="573.62" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 18&quot;</title></rect>
+    <rect x="681.76" y="1160.6" width="917.17" height="19.18" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="453.9" y="425.67" width="22.46" height="528.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1602.08" y="391.4" width="216.16" height="44.92" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Foundation - 24&quot; Concrete</title></rect>
+    <rect x="1596.47" y="560.42" width="22.46" height="398.4" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1241.58" y="548.61" width="366.12" height="23.63" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1602.08" y="931.34" width="216.16" height="33.69" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 18&quot;</title></rect>
+    <rect x="261.84" y="405.43" width="203.3" height="30.88" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="209.67" y="391.4" width="266.69" height="22.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="209.67" y="931.34" width="255.46" height="22.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1577.28" y="479.13" width="7.95" height="679.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1593.54" y="931.34" width="235.93" height="22.46" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1241.58" y="560.42" width="13.57" height="358.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 7 1/4&quot; Partition (1 hr)</title></rect>
+    <rect x="1590.62" y="942.57" width="21.99" height="218.03" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="672.17" y="944.67" width="19.18" height="235.11" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="465.13" y="944.67" width="218.27" height="19.18" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="682.23" y="802.44" width="456.89" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="465.13" y="789.1" width="217.1" height="18.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="1596.47" y="391.4" width="22.46" height="180.84" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="465.13" y="603.82" width="207.74" height="18.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="663.51" y="603.82" width="18.72" height="194.64" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="1241.58" y="417.13" width="23.63" height="153.93" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1411.89" y="560.42" width="9.12" height="360.15" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="764.81" y="569.43" width="359.33" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1487.45" y="560.42" width="9.12" height="330.32" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="222.42" y="953.8" width="256.87" height="10.06" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="476.36" y="425.67" width="12.4" height="174.17" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="476.36" y="595.87" width="213.82" height="7.95" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="682.23" y="597.03" width="7.95" height="209.96" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1241.58" y="911.45" width="178.26" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="679.89" y="807.82" width="11.46" height="138.02" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1248.36" y="737.64" width="168.09" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1586.41" y="413.86" width="10.06" height="146.56" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="681.76" y="940.69" width="142.47" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="476.36" y="807.82" width="209.26" height="5.85" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1131.16" y="723.83" width="117.2" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="476.36" y="810.74" width="5.85" height="141.88" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1129.99" y="723.83" width="9.12" height="86.56" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="453.9" y="402.63" width="22.46" height="34.86" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1416.45" y="619.73" width="75.56" height="9.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="815.1" y="878.93" width="9.12" height="66.32" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="476.36" y="386.37" width="10.06" height="39.3" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1586.41" y="386.37" width="10.06" height="39.3" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="691.35" y="891.33" width="5.85" height="29.83" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1601.62" y="965.03" width="28.36" height="5.85" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1577.28" y="1154.05" width="24.33" height="5.85" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="685.62" y="890.16" width="11.58" height="5.85" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+  </g>
+  <g data-category="Grids">
+    <rect x="372.74" y="420.41" width="1367.95" height="44.92" style="fill:rgb(200,200,50);stroke:rgb(90,90,6);stroke-width:1.5">
+<title>Grids — E</title></rect>
+    <rect x="372.74" y="920.11" width="1367.95" height="44.92" style="fill:rgb(200,200,50);stroke:rgb(90,90,6);stroke-width:1.5">
+<title>Grids — D</title></rect>
+    <rect x="652.28" y="269.67" width="44.92" height="1015.42" style="fill:rgb(200,200,50);stroke:rgb(90,90,6);stroke-width:1.5">
+<title>Grids — 2</title></rect>
+    <rect x="1119.23" y="269.67" width="44.92" height="1015.42" style="fill:rgb(200,200,50);stroke:rgb(90,90,6);stroke-width:1.5">
+<title>Grids — 3</title></rect>
+  </g>
+  <g data-category="Food Service Equipment">
+    <rect x="764.81" y="578.67" width="179.67" height="106.68" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Hood_wPSP</title></rect>
+    <rect x="944.48" y="578.67" width="179.67" height="106.68" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Hood_wPSP</title></rect>
+    <rect x="984.48" y="816.89" width="134.75" height="110.06" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 72&quot; Length</title></rect>
+    <rect x="690.42" y="745.59" width="157.21" height="83.38" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 84&quot; x 30&quot;</title></rect>
+    <rect x="827.27" y="441.23" width="127.26" height="94.88" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 72&quot; x 30&quot;</title></rect>
+    <rect x="699.07" y="441.23" width="127.26" height="94.88" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 72&quot; x 30&quot;</title></rect>
+    <rect x="825.63" y="584.91" width="78.6" height="107.81" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Refrig_Base_wDrawers</title></rect>
+    <rect x="868.57" y="739.02" width="134.75" height="58.25" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Refrig Prep</title></rect>
+    <rect x="1019.34" y="582.06" width="103.87" height="71.12" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 56&quot; x 38&quot;</title></rect>
+    <rect x="905.17" y="583.33" width="112.29" height="58.02" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 60&quot; x 31&quot;</title></rect>
+    <rect x="1004.31" y="715.19" width="72.99" height="80.7" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 39&quot; x 34&quot;</title></rect>
+    <rect x="770.19" y="440.06" width="112.29" height="50.53" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 60&quot; x 24&quot;</title></rect>
+    <rect x="764.81" y="573.99" width="58.95" height="93.95" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 31&quot;</title></rect>
+    <rect x="827.74" y="583.23" width="74.86" height="71.12" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 36&quot; x 38&quot;</title></rect>
+    <rect x="911.49" y="816.89" width="67.37" height="76.64" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Beverage Dispenser</title></rect>
+    <rect x="490.63" y="440.06" width="89.83" height="50.53" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 48&quot; x 24&quot;</title></rect>
+    <rect x="1077.94" y="711.12" width="51.23" height="84.06" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 28&quot; x 34&quot;</title></rect>
+    <rect x="882.48" y="440.06" width="71.12" height="50.53" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 38&quot; x 24&quot;</title></rect>
+    <rect x="580.46" y="440.06" width="71.12" height="50.53" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 38&quot; x 24&quot;</title></rect>
+    <rect x="699.07" y="440.06" width="71.12" height="50.53" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 38&quot; x 24&quot;</title></rect>
+    <rect x="831.46" y="578.67" width="67.37" height="40.55" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — 36&quot; x 19&quot;</title></rect>
+    <rect x="556.95" y="464.98" width="8.19" height="27.26" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Twist Waste</title></rect>
+    <rect x="603.27" y="464.98" width="8.19" height="27.26" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Twist Waste</title></rect>
+    <rect x="1000.97" y="461.23" width="8.19" height="27.25" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Twist Waste</title></rect>
+    <rect x="1066.47" y="461.23" width="8.19" height="27.25" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Twist Waste</title></rect>
+    <rect x="1033.72" y="461.23" width="8.19" height="27.25" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Food Service Equipment — Twist Waste</title></rect>
+  </g>
+  <g data-category="Slab Edges">
+    <rect x="1552.02" y="612.56" width="255" height="318.78" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Slab Edges — _Stair Landing Plate Stringer</title></rect>
+  </g>
+  <g data-category="Specialty Equipment">
+    <rect x="1297.73" y="772.96" width="112.29" height="112.29" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Wheel Chair Circle</title></rect>
+    <rect x="1297.73" y="599.14" width="112.29" height="112.29" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Wheel Chair Circle</title></rect>
+    <rect x="1289.81" y="792.11" width="103.22" height="103.22" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — ADA Clear Space</title></rect>
+    <rect x="1289.81" y="589.06" width="103.22" height="103.22" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — ADA Clear Space</title></rect>
+    <rect x="1254.68" y="827.23" width="106.68" height="84.22" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Grab Bar</title></rect>
+    <rect x="1254.68" y="572.94" width="106.68" height="84.22" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Grab Bar</title></rect>
+    <rect x="480.1" y="785.36" width="179.67" height="30.47" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — 48&quot; x 84&quot;</title></rect>
+    <rect x="692.75" y="1111" width="44.92" height="44.92" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — TrashContainer</title></rect>
+    <rect x="1255.15" y="679.62" width="29.14" height="52.4" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — 28&quot; x 48&quot;</title></rect>
+    <rect x="1255.15" y="752.37" width="29.14" height="52.4" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — 28&quot; x 48&quot;</title></rect>
+    <rect x="767.24" y="896.71" width="29.95" height="33.69" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — 16&quot; x 18&quot; x 19&quot; - Cash Drawer</title></rect>
+    <rect x="1093.03" y="447.55" width="20.59" height="37.43" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Trash Can</title></rect>
+    <rect x="495.22" y="455.97" width="20.59" height="37.43" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Trash Can</title></rect>
+    <rect x="614.85" y="558.44" width="20.59" height="37.43" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Trash Can</title></rect>
+    <rect x="847.86" y="754.95" width="20.59" height="37.43" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Trash Can</title></rect>
+    <rect x="611.11" y="577.55" width="28.07" height="18.32" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Motion_Towel_Dispenser</title></rect>
+    <rect x="669.22" y="587.86" width="9.36" height="8.01" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1">
+<title>Specialty Equipment — Soap Dispenser</title></rect>
+  </g>
+  <g data-category="Furniture">
+    <rect x="1454.99" y="1040.65" width="103.29" height="103.28" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="865.46" y="1040.65" width="103.29" height="103.28" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="1011.44" y="1040.65" width="103.29" height="103.28" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="1168.65" y="1040.65" width="103.29" height="103.28" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="1318.37" y="1040.65" width="103.28" height="103.28" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="1522.37" y="1076.35" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1454.99" y="1076.36" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="932.84" y="1076.35" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1078.82" y="1076.35" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1236.02" y="1076.35" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="865.46" y="1076.36" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1011.44" y="1076.36" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1168.65" y="1076.36" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="901.17" y="1040.65" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="901.18" y="1108.02" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1047.15" y="1040.65" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1047.16" y="1108.02" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1204.35" y="1040.65" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1204.37" y="1108.02" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1354.08" y="1040.65" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1385.75" y="1076.35" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1354.09" y="1108.02" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1490.7" y="1040.65" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1490.71" y="1108.02" width="31.86" height="35.91" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+    <rect x="1318.37" y="1076.36" width="35.91" height="31.86" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1">
+<title>Furniture — Chair-Breuer</title></rect>
+  </g>
+  <g data-category="Stairs">
+    <rect x="1418.67" y="483.11" width="158.61" height="424.84" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+  </g>
+  <g data-category="Doors">
+    <rect x="1240.64" y="455.03" width="101.3" height="87.5" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 42&quot; x 96&quot; (Exterior) [102A]</title></rect>
+    <rect x="1160.64" y="682.04" width="74.86" height="98.56" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 96&quot; [102B]</title></rect>
+    <rect x="452.96" y="843.84" width="88.9" height="76.27" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; [S11A]</title></rect>
+    <rect x="604.79" y="1025.38" width="87.5" height="74.86" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (90 MIN) [101D]</title></rect>
+    <rect x="525.72" y="943.74" width="74.86" height="87.5" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; (90 MIN) [S11B]</title></rect>
+    <rect x="1344.51" y="752.84" width="77.44" height="74.86" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; [101C]</title></rect>
+    <rect x="1344.51" y="656.69" width="77.44" height="74.86" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 36&quot; x 84&quot; [101B]</title></rect>
+    <rect x="1425.22" y="618.79" width="56.15" height="58.72" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 26&quot; x 84&quot; [101A]</title></rect>
+  </g>
+  <g data-category="Casework">
+    <rect x="697.2" y="893.91" width="117.91" height="124.19" style="fill:rgb(180,130,70);stroke:rgb(78,48,18);stroke-width:1.2">
+<title>Casework — 3&apos; Height</title></rect>
+    <rect x="708.43" y="798.46" width="112.29" height="124.19" style="fill:rgb(180,130,70);stroke:rgb(78,48,18);stroke-width:1.2">
+<title>Casework — 3&apos; 7 1/2&quot; Height</title></rect>
+    <rect x="697.2" y="877.06" width="138.49" height="84.22" style="fill:rgb(180,130,70);stroke:rgb(78,48,18);stroke-width:1.2">
+<title>Casework — 18&quot; Depth</title></rect>
+    <rect x="747.73" y="879.23" width="67.37" height="61.46" style="fill:rgb(180,130,70);stroke:rgb(78,48,18);stroke-width:1.2">
+<title>Casework — 36&quot;</title></rect>
+    <rect x="697.2" y="879.23" width="50.53" height="61.46" style="fill:rgb(180,130,70);stroke:rgb(78,48,18);stroke-width:1.2">
+<title>Casework — 27&quot;</title></rect>
+  </g>
+  <g data-category="Plumbing Fixtures">
+    <rect x="489.69" y="440.06" width="189.02" height="70.81" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 101&quot; Width [2]</title></rect>
+    <rect x="956.41" y="440.06" width="162.82" height="71.85" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 91&quot; Width [1]</title></rect>
+    <rect x="1255.15" y="685.23" width="69.96" height="41.18" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 22&quot; x 27&quot; [11]</title></rect>
+    <rect x="1255.15" y="757.99" width="69.96" height="41.17" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 22&quot; x 27&quot; [7]</title></rect>
+    <rect x="488.76" y="539.72" width="41.17" height="56.15" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 30&quot;x22&quot; [194]</title></rect>
+    <rect x="1255.15" y="859.05" width="54.27" height="37.43" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 19&quot; Seat Height [6]</title></rect>
+    <rect x="1255.15" y="587.91" width="54.27" height="37.43" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — 19&quot; Seat Height [10]</title></rect>
+    <rect x="643.16" y="568.26" width="35.32" height="27.61" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Hand Sink [193]</title></rect>
+    <rect x="568.8" y="442.84" width="28.42" height="32.99" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Faucet_Swing [197]</title></rect>
+    <rect x="1026.15" y="443.8" width="24.6" height="30.62" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Faucet_Combo [196]</title></rect>
+    <rect x="884.15" y="599.64" width="25.2" height="25.2" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Full Grate [5]</title></rect>
+    <rect x="992.47" y="452.73" width="25.2" height="25.2" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Partial Grate [3]</title></rect>
+    <rect x="548.45" y="456.47" width="25.2" height="25.2" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Partial Grate [4]</title></rect>
+    <rect x="488.75" y="555.68" width="19.89" height="24.22" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Mop Sink Faucet [195]</title></rect>
+    <rect x="1333.56" y="827.23" width="11.42" height="11.23" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Floor Drain-2D [9]</title></rect>
+    <rect x="1333.56" y="645.93" width="11.42" height="11.23" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2">
+<title>Plumbing Fixtures — Floor Drain-2D [12]</title></rect>
+  </g>
+  <g data-category="Shaft Openings">
+    <rect x="476.36" y="603.82" width="205.87" height="185.28" style="fill:rgb(255,60,60);stroke:rgb(120,12,12);stroke-width:2">
+<title>Shaft Openings — Opening Cut</title></rect>
+  </g>
+  <g data-category="Runs">
+    <rect x="1491.19" y="596.8" width="86.09" height="311.14" style="fill:rgb(240,120,80);stroke:rgb(114,48,24);stroke-width:1.2">
+<title>Runs — 2&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="1416.33" y="483.11" width="64.1" height="86.09" style="fill:rgb(240,120,80);stroke:rgb(114,48,24);stroke-width:1.2">
+<title>Runs — 2&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+  </g>
+  <g data-category="Vertical Circulation">
+    <rect x="476.36" y="630.02" width="187.15" height="155.34" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Vertical Circulation — 3500 lbs</title></rect>
+  </g>
+  <g data-category="Room Tags">
+    <rect x="882.57" y="1343.23" width="141.5" height="39.38" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="661.09" y="639.31" width="75.43" height="39.38" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="434.52" y="1740.31" width="70.37" height="39.38" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="940.13" y="981.78" width="56.15" height="39.38" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="533.09" y="683.28" width="56.15" height="39.38" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+  </g>
+  <g data-category="Landings">
+    <rect x="1478.56" y="486.85" width="94.98" height="112.29" style="fill:rgb(240,170,80);stroke:rgb(114,72,24);stroke-width:1.2">
+<title>Landings — Non-Monolithic Landing</title></rect>
+  </g>
+  <g data-category="Handrails">
+    <rect x="437.14" y="583.7" width="33.06" height="241.43" style="fill:rgb(170,110,220);stroke:rgb(72,36,108);stroke-width:0.8">
+<title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="1571.67" y="600.05" width="5.61" height="356.56" style="fill:rgb(170,110,220);stroke:rgb(72,36,108);stroke-width:0.8">
+<title>Handrails — Pipe - Wall Mount</title></rect>
+  </g>
+  <g data-category="Rectangular Straight Wall Opening">
+    <rect x="1253.39" y="413.86" width="354.3" height="23.63" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Rectangular Straight Wall Opening — Rectangular Straight Wall Opening</title></rect>
+    <rect x="708.43" y="802.44" width="112.29" height="9.12" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Rectangular Straight Wall Opening — Rectangular Straight Wall Opening</title></rect>
+  </g>
+  <g data-category="Curtain Wall Mullions">
+    <rect x="805.43" y="1167.62" width="107.06" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1364.11" y="1167.62" width="107.06" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1140.63" y="1167.62" width="107.06" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1252.37" y="1167.62" width="107.06" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="917.16" y="1167.62" width="107.06" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1028.9" y="1167.62" width="107.06" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="696.03" y="1167.62" width="104.72" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1475.84" y="1167.62" width="104.72" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1024.22" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1135.96" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1580.56" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1471.16" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="691.35" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="800.75" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="912.48" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1247.69" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1359.43" y="1167.62" width="4.68" height="9.36" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1">
+<title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+  </g>
+  <g data-category="Columns">
+    <rect x="652.28" y="918.94" width="44.92" height="44.92" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1119.23" y="918.94" width="44.92" height="44.92" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1119.23" y="420.41" width="44.92" height="44.92" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="652.28" y="420.41" width="44.92" height="44.92" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2">
+<title>Columns — 24&quot;D x 24&quot;W</title></rect>
+  </g>
+  <g data-category="Wall Tags">
+    <rect x="1118.37" y="1161.07" width="30.2" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="453.9" y="678.51" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1019.57" y="414.44" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1129.11" y="1158.96" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="899.44" y="795.77" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1590.85" y="666.98" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1596.47" y="748.4" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1570.03" y="807.7" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+    <rect x="1587.7" y="1552.68" width="22.46" height="22.46" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 1/4&quot;</title></rect>
+  </g>
+  <g data-category="Door Tags">
+    <rect x="1436.45" y="639.73" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="480.57" y="873.55" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1181.22" y="722.9" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="631.7" y="1054.39" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1366.39" y="781.85" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1366.39" y="685.7" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="546.31" y="979.06" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+    <rect x="1274.45" y="490.36" width="33.69" height="16.84" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — Door Tag</title></rect>
+  </g>
+  <g data-category="Supports">
+    <rect x="1487.45" y="588.4" width="3.74" height="319.54" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1573.54" y="588.4" width="3.74" height="319.54" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1573.54" y="483.11" width="3.74" height="116.04" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1480.43" y="483.11" width="96.85" height="3.74" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1418.67" y="483.11" width="78.03" height="3.74" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1418.67" y="569.2" width="72.52" height="3.74" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1487.45" y="569.2" width="3.74" height="29.94" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="1574.48" y="950.99" width="19.34" height="4.75" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Metal - Circular</title></rect>
+    <rect x="1572.53" y="882.08" width="4.75" height="19.34" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6">
+<title>Supports — Metal - Circular</title></rect>
+  </g>
+  <g data-category="Top Rails">
+    <rect x="1487.45" y="600.28" width="5.61" height="352.82" style="fill:rgb(190,130,230);stroke:rgb(78,48,114);stroke-width:0.8">
+<title>Top Rails — Elliptical - 1 1/2&quot; x 1 1/8&quot; (Extension Bottom)</title></rect>
+  </g>
+  <g data-category="Curtain Panels">
+    <rect x="805.43" y="1173.7" width="107.06" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="1364.11" y="1173.7" width="107.06" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="1140.63" y="1173.7" width="107.06" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="1252.37" y="1173.7" width="107.06" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="917.16" y="1173.7" width="107.06" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="1028.9" y="1173.7" width="107.06" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="696.03" y="1173.7" width="104.72" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+    <rect x="1475.84" y="1173.7" width="104.72" height="1.87" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8">
+<title>Curtain Panels — Glazed</title></rect>
+  </g>
+  <g data-category="Curtain Wall Grids">
+  </g>
+  <g>
+    <line x1="465.13" y1="882.68" x2="465.13" y2="856.01" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="569.94" y1="798.46" x2="623.84" y2="798.46" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="917.11" y1="1058.75" x2="905.88" y2="1058.75" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="883.56" y1="1092.29" x2="883.56" y2="1103.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="950.65" y1="1092.29" x2="950.65" y2="1081.06" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="917.1" y1="1125.83" x2="928.33" y2="1125.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1063.09" y1="1058.75" x2="1051.86" y2="1058.75" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1029.54" y1="1092.29" x2="1029.54" y2="1103.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1096.62" y1="1092.29" x2="1096.62" y2="1081.06" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1063.08" y1="1125.83" x2="1074.31" y2="1125.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1220.3" y1="1058.75" x2="1209.07" y2="1058.75" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1186.75" y1="1092.29" x2="1186.75" y2="1103.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1253.83" y1="1092.29" x2="1253.83" y2="1081.06" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1220.29" y1="1125.83" x2="1231.52" y2="1125.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1370.02" y1="1058.75" x2="1358.79" y2="1058.75" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1336.47" y1="1092.29" x2="1336.47" y2="1103.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1403.56" y1="1092.29" x2="1403.56" y2="1081.06" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1370.01" y1="1125.83" x2="1381.24" y2="1125.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1506.64" y1="1058.75" x2="1495.41" y2="1058.75" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1473.09" y1="1092.29" x2="1473.09" y2="1103.52" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1540.18" y1="1092.29" x2="1540.18" y2="1081.06" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1506.63" y1="1125.83" x2="1517.86" y2="1125.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1198.07" y1="728.39" x2="1227.63" y2="728.39" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1253.39" y1="498.08" x2="1253.39" y2="528.47" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="681.76" y1="1062.81" x2="681.76" y2="1036.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1103.56" y1="763.72" x2="1078.34" y2="763.72" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1036.84" y1="766.56" x2="1012.63" y2="766.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1003.32" y1="795.4" x2="962.89" y2="795.4" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="660.82" y1="595.87" x2="649.59" y2="595.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="737.67" y1="1155.92" x2="737.67" y2="1142.45" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="673.9" y1="595.87" x2="662.67" y2="595.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="625.15" y1="595.87" x2="613.92" y2="595.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="488.76" y1="567.79" x2="488.76" y2="550.95" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="782.8" y1="940.69" x2="762.59" y2="940.69" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="723.85" y1="940.69" x2="705.41" y2="940.69" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="488.76" y1="567.79" x2="488.76" y2="556.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="561.05" y1="469.07" x2="561.05" y2="480.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="607.37" y1="469.07" x2="607.37" y2="480.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1005.07" y1="465.33" x2="1005.07" y2="476.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1037.82" y1="465.33" x2="1037.82" y2="476.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1070.57" y1="465.33" x2="1070.57" y2="476.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="782.22" y1="913.56" x2="770.99" y2="913.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="835.69" y1="961.28" x2="794.14" y2="961.28" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1573.07" y1="884.89" x2="1573.07" y2="896.12" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1416.45" y1="790.27" x2="1416.45" y2="767.04" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1416.45" y1="694.12" x2="1416.45" y2="717.35" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1254.68" y1="911.45" x2="1254.68" y2="943.45" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1248.36" y1="877.76" x2="1248.36" y2="894.05" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1248.36" y1="778.57" x2="1248.36" y2="799.56" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1248.36" y1="778.57" x2="1248.36" y2="794.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1339.37" y1="832.85" x2="1328.14" y2="832.85" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1254.68" y1="572.94" x2="1254.68" y2="540.94" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1248.36" y1="606.63" x2="1248.36" y2="590.34" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1248.36" y1="705.82" x2="1248.36" y2="684.83" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1248.36" y1="705.82" x2="1248.36" y2="690.1" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1339.37" y1="651.54" x2="1328.14" y2="651.54" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1453.3" y1="624.29" x2="1470.91" y2="624.29" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="563.15" y1="954.26" x2="536.9" y2="954.26" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1353.87" y1="829.11" x2="1387.56" y2="829.11" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1341.42" y1="843.72" x2="1363.31" y2="821.82" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1353.87" y1="655.29" x2="1387.56" y2="655.29" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1341.42" y1="640.68" x2="1363.31" y2="662.57" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="696.03" y1="1172.3" x2="664.61" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1585.24" y1="1172.3" x2="1574.01" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="805.43" y1="1172.3" x2="773.31" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="917.16" y1="1172.3" x2="885.05" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1028.9" y1="1172.3" x2="996.78" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1140.63" y1="1172.3" x2="1108.52" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1252.37" y1="1172.3" x2="1220.25" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1364.11" y1="1172.3" x2="1331.99" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1475.84" y1="1172.3" x2="1444.43" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="691.35" y1="1172.3" x2="680.12" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="803.09" y1="1172.3" x2="791.86" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="914.82" y1="1172.3" x2="903.59" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1026.56" y1="1172.3" x2="1015.33" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1138.3" y1="1172.3" x2="1127.07" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1250.03" y1="1172.3" x2="1238.8" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1361.77" y1="1172.3" x2="1350.54" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1473.5" y1="1172.3" x2="1462.27" y2="1172.3" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+  </g>
+  <g text-anchor="middle" style="fill:rgb(200,240,210);font-size:9px;font-family:'Segoe UI',Arial,sans-serif;pointer-events:none">
+    <text x="569.94" y="705.82">Elevator E1</text>
+    <text x="1134.32" y="866.42">Café 101</text>
+    <text x="865.17" y="619.96">Café Kitchen 102</text>
+    <text x="1139.11" y="1365.77">Outdoor Covered Dining 103</text>
+    <text x="903.07" y="1496.52">Pocket Park 104</text>
+  </g>
+</g>
+<rect x="30" y="90" width="2400" height="2120.53" style="fill:none;stroke:rgba(100,100,160,0.5);stroke-width:1.5"/>
+<text text-anchor="middle" x="467.94" y="2222.53" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-100</text>
+<text text-anchor="middle" x="917.1" y="2222.53" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-80</text>
+<text text-anchor="middle" x="1366.27" y="2222.53" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-60</text>
+<text text-anchor="middle" x="1815.44" y="2222.53" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-40</text>
+<text text-anchor="middle" x="2264.6" y="2222.53" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="end" x="26" y="1826.12" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="end" x="26" y="1376.95" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="end" x="26" y="927.79" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="end" x="26" y="478.62" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<rect x="2442" y="90" width="216" height="620" rx="4" style="fill:rgba(30,30,60,0.5)"/>
+<text x="2450" y="108" style="fill:rgb(180,180,220);font-size:12px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif">Category</text>
+<rect x="2450" y="114" width="14" height="14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="126">Walls (50)</text>
+<rect x="2450" y="134" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="146">Food Service Equipment (26)</text>
+<rect x="2450" y="154" width="14" height="14" style="fill:rgb(210,175,110);stroke:rgb(96,75,36);stroke-width:1"/>
+<text class="legend-label" x="2470" y="166">Furniture (25)</text>
+<rect x="2450" y="174" width="14" height="14" style="fill:rgb(200,140,50);stroke:rgb(90,54,12);stroke-width:1"/>
+<text class="legend-label" x="2470" y="186">Specialty Equipment (17)</text>
+<rect x="2450" y="194" width="14" height="14" style="fill:rgb(80,140,200);stroke:rgb(30,54,90);stroke-width:1"/>
+<text class="legend-label" x="2470" y="206">Curtain Wall Mullions (17)</text>
+<rect x="2450" y="214" width="14" height="14" style="fill:rgb(80,210,230);stroke:rgb(18,90,108);stroke-width:1.2"/>
+<text class="legend-label" x="2470" y="226">Plumbing Fixtures (16)</text>
+<rect x="2450" y="234" width="14" height="14" style="fill:rgb(160,160,160);stroke:rgb(66,66,66);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="246">Supports (10)</text>
+<rect x="2450" y="254" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="266">Wall Tags (9)</text>
+<rect x="2450" y="274" width="14" height="14" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5"/>
+<text class="legend-label" x="2470" y="286">Doors (8)</text>
+<rect x="2450" y="294" width="14" height="14" style="fill:rgb(160,210,240);stroke:rgb(60,96,120);stroke-width:0.8"/>
+<text class="legend-label" x="2470" y="306">Curtain Panels (8)</text>
+<rect x="2450" y="314" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="326">Door Tags (8)</text>
+<rect x="2450" y="334" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="346">Floors (7)</text>
+<rect x="2450" y="354" width="14" height="14" style="fill:rgb(120,170,220);stroke:rgb(48,72,108);stroke-width:0.8"/>
+<text class="legend-label" x="2470" y="366">Curtain Wall Grids (7)</text>
+<rect x="2450" y="374" width="14" height="14" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2"/>
+<text class="legend-label" x="2470" y="386">Rooms (5)</text>
+<rect x="2450" y="394" width="14" height="14" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1"/>
+<text class="legend-label" x="2470" y="406">Railings (5)</text>
+<rect x="2450" y="414" width="14" height="14" style="fill:rgb(180,130,70);stroke:rgb(78,48,18);stroke-width:1.2"/>
+<text class="legend-label" x="2470" y="426">Casework (5)</text>
+<rect x="2450" y="434" width="14" height="14" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2"/>
+<text class="legend-label" x="2470" y="446">Room Tags (5)</text>
+<rect x="2450" y="454" width="14" height="14" style="fill:rgb(200,200,50);stroke:rgb(90,90,6);stroke-width:1.5"/>
+<text class="legend-label" x="2470" y="466">Grids (4)</text>
+<rect x="2450" y="474" width="14" height="14" style="fill:rgb(80,80,80);stroke:rgb(24,24,24);stroke-width:2"/>
+<text class="legend-label" x="2470" y="486">Columns (4)</text>
+<rect x="2450" y="494" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="506">Spaces (3)</text>
+<rect x="2450" y="514" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="526">Rectangular Straight Wa… (2)</text>
+<rect x="2450" y="534" width="14" height="14" style="fill:rgb(170,110,220);stroke:rgb(72,36,108);stroke-width:0.8"/>
+<text class="legend-label" x="2470" y="546">Handrails (2)</text>
+<rect x="2450" y="554" width="14" height="14" style="fill:rgb(240,120,80);stroke:rgb(114,48,24);stroke-width:1.2"/>
+<text class="legend-label" x="2470" y="566">Runs (2)</text>
+<rect x="2450" y="574" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="586">Vertical Circulation (1)</text>
+<rect x="2450" y="594" width="14" height="14" style="fill:rgb(255,60,60);stroke:rgb(120,12,12);stroke-width:2"/>
+<text class="legend-label" x="2470" y="606">Shaft Openings (1)</text>
+<rect x="2450" y="614" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="626">Slab Edges (1)</text>
+<rect x="2450" y="634" width="14" height="14" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="646">Stairs (1)</text>
+<rect x="2450" y="654" width="14" height="14" style="fill:rgb(240,170,80);stroke:rgb(114,72,24);stroke-width:1.2"/>
+<text class="legend-label" x="2470" y="666">Landings (1)</text>
+<rect x="2450" y="674" width="14" height="14" style="fill:rgb(190,130,230);stroke:rgb(78,48,114);stroke-width:0.8"/>
+<text class="legend-label" x="2470" y="686">Top Rails (1)</text>
+</svg>

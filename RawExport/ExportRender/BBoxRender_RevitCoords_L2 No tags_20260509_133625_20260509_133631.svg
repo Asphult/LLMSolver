@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2700" height="1746.61" viewBox="0 0 2700 1746.61">
+<defs><style type="text/css"><![CDATA[
+  svg { font-family: 'Segoe UI', Arial, sans-serif; }
+  .bg        { fill: rgb(26,26,46); }
+  .plot-bg   { fill: rgb(22,33,62); }
+  .plot-edge { fill: none; stroke: rgba(100,100,160,0.5); stroke-width: 1.5; }
+  .grid      { stroke: rgba(255,255,255,0.07); stroke-width: 0.5; fill: none; }
+  .tick      { fill: rgba(170,170,200,0.7); font-size: 9px; }
+  .title     { fill: rgb(204,204,238); font-size: 20px; font-weight: bold; }
+  .subtitle  { fill: rgb(140,140,180); font-size: 11px; }
+  .legend-hdr   { fill: rgb(180,180,220); font-size: 12px; font-weight: bold; }
+  .legend-label { fill: rgb(200,200,220); font-size: 10px; }
+  .legend-panel { fill: rgba(30,30,60,0.5); }
+  .room-label { fill: rgb(200,240,210); font-size: 9px; pointer-events: none; }
+  .rotation-arrow { stroke: rgba(255,100,100,0.85); stroke-width: 1.5; fill: none; }
+  .tag-box   { stroke: rgba(255,200,100,0.85); stroke-width: 1; fill: none; }
+  .tag-head  { fill: rgb(255,200,100); }
+  .loc-dot   { stroke: none; }
+  .cat-default { fill: rgba(180,180,180,0.2); stroke: rgb(120,120,120); stroke-width: 0.6; }
+  .cat-rooms { fill: rgba(100,200,120,0.196); stroke: rgba(60,120,72,0.824); stroke-width: 2; }
+  .cat-room-tags { fill: rgba(255,210,0,0.863); stroke: rgba(120,96,0,0.824); stroke-width: 2; }
+  .cat-walls { fill: rgba(70,100,160,0.353); stroke: rgba(42,60,96,0.824); stroke-width: 1.8; }
+  .cat-curtain-panels { fill: rgba(160,210,240,0.294); stroke: rgba(60,96,120,0.824); stroke-width: 0.8; }
+  .cat-curtain-wall-mullions { fill: rgba(80,140,200,0.471); stroke: rgba(30,54,90,0.824); stroke-width: 1; }
+  .cat-curtain-wall-grids { fill: rgba(120,170,220,0.353); stroke: rgba(48,72,108,0.824); stroke-width: 0.8; }
+  .cat-doors { fill: rgba(50,160,255,0.667); stroke: rgba(18,60,120,0.824); stroke-width: 1.5; }
+  .cat-windows { fill: rgba(180,230,255,0.471); stroke: rgba(60,102,132,0.824); stroke-width: 1; }
+  .cat-stairs { fill: rgba(220,60,60,0.549); stroke: rgba(108,18,18,0.824); stroke-width: 1.8; }
+  .cat-multistory-stairs { fill: rgba(180,40,40,0.549); stroke: rgba(84,12,12,0.824); stroke-width: 1.8; }
+  .cat-runs { fill: rgba(240,120,80,0.588); stroke: rgba(114,48,24,0.824); stroke-width: 1.2; }
+  .cat-landings { fill: rgba(240,170,80,0.549); stroke: rgba(114,72,24,0.824); stroke-width: 1.2; }
+  .cat-railings { fill: rgba(160,90,210,0.431); stroke: rgba(66,30,102,0.824); stroke-width: 1; }
+  .cat-top-rails { fill: rgba(190,130,230,0.392); stroke: rgba(78,48,114,0.824); stroke-width: 0.8; }
+  .cat-handrails { fill: rgba(170,110,220,0.392); stroke: rgba(72,36,108,0.824); stroke-width: 0.8; }
+  .cat-supports { fill: rgba(160,160,160,0.235); stroke: rgba(66,66,66,0.824); stroke-width: 0.6; }
+  .cat-columns { fill: rgba(80,80,80,0.706); stroke: rgba(24,24,24,0.824); stroke-width: 2; }
+  .cat-structural-columns { fill: rgba(60,60,60,0.784); stroke: rgba(12,12,12,0.824); stroke-width: 2; }
+  .cat-furniture { fill: rgba(210,175,110,0.431); stroke: rgba(96,75,36,0.824); stroke-width: 1; }
+  .cat-furniture-systems { fill: rgba(220,185,120,0.392); stroke: rgba(102,81,42,0.824); stroke-width: 1; }
+  .cat-casework { fill: rgba(180,130,70,0.471); stroke: rgba(78,48,18,0.824); stroke-width: 1.2; }
+  .cat-plumbing-fixtures { fill: rgba(80,210,230,0.588); stroke: rgba(18,90,108,0.824); stroke-width: 1.2; }
+  .cat-specialty-equipment { fill: rgba(200,140,50,0.549); stroke: rgba(90,54,12,0.824); stroke-width: 1; }
+  .cat-mechanical-equipment { fill: rgba(220,110,50,0.549); stroke: rgba(102,36,12,0.824); stroke-width: 1; }
+  .cat-electrical-equipment { fill: rgba(255,200,50,0.549); stroke: rgba(120,90,6,0.824); stroke-width: 1; }
+  .cat-shaft-openings { fill: rgba(255,60,60,0.647); stroke: rgba(120,12,12,0.824); stroke-width: 2; }
+  .cat-grids { fill: rgba(200,200,50,0.784); stroke: rgba(90,90,6,0.824); stroke-width: 1.5; }
+  .cat-wall-sweeps { fill: rgba(180,180,180,0.196); stroke: rgba(72,72,72,0.824); stroke-width: 0.5; }
+]]></style></defs>
+<rect class="bg" x="0" y="0" width="2700" height="1746.61"/>
+<defs>
+  <clipPath id="plotClip"><rect x="30" y="90" width="2400" height="1626.61"/></clipPath>
+</defs>
+<rect class="plot-bg" x="30" y="90" width="2400" height="1626.61"/>
+<text class="title" x="30" y="52">Revit BBox Render — RevitCoords_L2 No tags_20260509_133625</text>
+<text class="subtitle" x="30" y="72">1061 elements | 0 tags | 2026-05-09 13:36</text>
+<g clip-path="url(#plotClip)">
+  <g class="grid">
+    <line x1="35.95" y1="90" x2="35.95" y2="1716.61"/>
+    <line x1="155.05" y1="90" x2="155.05" y2="1716.61"/>
+    <line x1="274.14" y1="90" x2="274.14" y2="1716.61"/>
+    <line x1="393.23" y1="90" x2="393.23" y2="1716.61"/>
+    <line x1="512.32" y1="90" x2="512.32" y2="1716.61"/>
+    <line x1="631.41" y1="90" x2="631.41" y2="1716.61"/>
+    <line x1="750.51" y1="90" x2="750.51" y2="1716.61"/>
+    <line x1="869.6" y1="90" x2="869.6" y2="1716.61"/>
+    <line x1="988.69" y1="90" x2="988.69" y2="1716.61"/>
+    <line x1="1107.78" y1="90" x2="1107.78" y2="1716.61"/>
+    <line x1="1226.87" y1="90" x2="1226.87" y2="1716.61"/>
+    <line x1="1345.97" y1="90" x2="1345.97" y2="1716.61"/>
+    <line x1="1465.06" y1="90" x2="1465.06" y2="1716.61"/>
+    <line x1="1584.15" y1="90" x2="1584.15" y2="1716.61"/>
+    <line x1="1703.24" y1="90" x2="1703.24" y2="1716.61"/>
+    <line x1="1822.33" y1="90" x2="1822.33" y2="1716.61"/>
+    <line x1="1941.43" y1="90" x2="1941.43" y2="1716.61"/>
+    <line x1="2060.52" y1="90" x2="2060.52" y2="1716.61"/>
+    <line x1="2179.61" y1="90" x2="2179.61" y2="1716.61"/>
+    <line x1="2298.7" y1="90" x2="2298.7" y2="1716.61"/>
+    <line x1="2417.79" y1="90" x2="2417.79" y2="1716.61"/>
+    <line x1="30" y1="1698.01" x2="2430" y2="1698.01"/>
+    <line x1="30" y1="1578.92" x2="2430" y2="1578.92"/>
+    <line x1="30" y1="1459.83" x2="2430" y2="1459.83"/>
+    <line x1="30" y1="1340.73" x2="2430" y2="1340.73"/>
+    <line x1="30" y1="1221.64" x2="2430" y2="1221.64"/>
+    <line x1="30" y1="1102.55" x2="2430" y2="1102.55"/>
+    <line x1="30" y1="983.46" x2="2430" y2="983.46"/>
+    <line x1="30" y1="864.37" x2="2430" y2="864.37"/>
+    <line x1="30" y1="745.27" x2="2430" y2="745.27"/>
+    <line x1="30" y1="626.18" x2="2430" y2="626.18"/>
+    <line x1="30" y1="507.09" x2="2430" y2="507.09"/>
+    <line x1="30" y1="388" x2="2430" y2="388"/>
+    <line x1="30" y1="268.91" x2="2430" y2="268.91"/>
+    <line x1="30" y1="149.82" x2="2430" y2="149.82"/>
+  </g>
+  <g class="cat-rooms" data-category="Rooms">
+    <rect x="137.18" y="885.08" width="735.39" height="564.92"><title>Rooms — Pocket Park 104</title></rect>
+    <rect x="1510.34" y="619.73" width="440.27" height="845.12"><title>Rooms — Commercial/Retail 108</title></rect>
+    <rect x="1962.14" y="605.96" width="343.4" height="840.25"><title>Rooms — Commercial/Retail 109</title></rect>
+    <rect x="996.26" y="880.87" width="1035.73" height="191.91"><title>Rooms — Corridor 201</title></rect>
+    <rect x="1513.56" y="605.96" width="436.92" height="386.3"><title>Rooms — Live/Work Unit 205</title></rect>
+    <rect x="392.61" y="677.42" width="469.79" height="312"><title>Rooms — Café 101</title></rect>
+    <rect x="281.71" y="605.96" width="496.59" height="273.04"><title>Rooms — Mezzanine Dining 200</title></rect>
+    <rect x="881.14" y="1075.88" width="336.93" height="355.42"><title>Rooms — Live/Work Unit 202</title></rect>
+    <rect x="1229.73" y="605.96" width="272.18" height="386.3"><title>Rooms — Two Story Studio Unit 204</title></rect>
+    <rect x="1229.73" y="1078.98" width="272.18" height="361.25"><title>Rooms — Residential Lobby 106</title></rect>
+    <rect x="387.52" y="999.59" width="485.05" height="197.25"><title>Rooms — Outdoor Covered Dining 103</title></rect>
+    <rect x="999.23" y="605.96" width="218.83" height="386.3"><title>Rooms — Studio Unit 203</title></rect>
+    <rect x="884.48" y="593.43" width="99.74" height="274.41"><title>Rooms — Stair S2</title></rect>
+    <rect x="166.96" y="605.34" width="99.74" height="262.5"><title>Rooms — Stair S1</title></rect>
+    <rect x="1962.27" y="1080.22" width="99.74" height="256.05"><title>Rooms — Stair S3</title></rect>
+    <rect x="1402.53" y="779.51" width="99.24" height="88.33"><title>Rooms — Elevator E2</title></rect>
+    <rect x="278.6" y="704.09" width="99.24" height="88.33"><title>Rooms — Elevator E1</title></rect>
+  </g>
+  <g class="cat-default" data-category="Floors">
+    <rect x="880.52" y="821.38" width="1193.4" height="274.47"><title>Floors — Finish Floor - Polished Concrete (Brown)</title></rect>
+    <rect x="1512.32" y="605.34" width="439.4" height="388.17"><title>Floors — Finish Floor - Laminate</title></rect>
+    <rect x="278.6" y="605.34" width="499.69" height="273.66"><title>Floors — Finish Floor - Ceramic Tile (Wood)</title></rect>
+    <rect x="880.52" y="1074.64" width="338.79" height="357.5"><title>Floors — Finish Floor - Laminate</title></rect>
+    <rect x="1228.49" y="605.34" width="274.66" height="388.16"><title>Floors — Finish Floor - Laminate</title></rect>
+    <rect x="996.13" y="605.34" width="223.17" height="388.16"><title>Floors — Finish Floor - Laminate</title></rect>
+    <rect x="970.33" y="1130.09" width="155.56" height="99.99"><title>Floors — Finish Floor - Polished Concrete (Brown)</title></rect>
+    <rect x="1704.98" y="844.02" width="149.61" height="99.99"><title>Floors — Finish Floor - Polished Concrete (Brown)</title></rect>
+    <rect x="1285.06" y="880.25" width="117.6" height="113.26"><title>Floors — Finish Floor - Polished Concrete (Brown)</title></rect>
+    <rect x="996.13" y="884.46" width="109.91" height="109.04"><title>Floors — Finish Floor - Polished Concrete (Brown)</title></rect>
+    <rect x="884.73" y="788.45" width="99.24" height="79.15"><title>Floors — Stair Landing Steel Plate</title></rect>
+    <rect x="167.2" y="795.39" width="99.24" height="72.2"><title>Floors — Stair Landing Steel Plate</title></rect>
+    <rect x="1962.51" y="1080.47" width="99.24" height="70.22"><title>Floors — Stair Landing Steel Plate</title></rect>
+    <rect x="1572.12" y="545.8" width="99.24" height="47.64"><title>Floors — Concrete Slab 4&quot;</title></rect>
+    <rect x="871.21" y="528.55" width="74.22" height="47.64"><title>Floors — Concrete Slab 6&quot;</title></rect>
+  </g>
+  <g class="cat-grids" data-category="Grids">
+    <rect x="2122.46" y="185.27" width="212.27" height="1436.06"><title>Grids — 9</title></rect>
+    <rect x="125.27" y="187.97" width="47.64" height="1433.36"><title>Grids — 1</title></rect>
+    <rect x="854.71" y="187.97" width="47.64" height="1433.36"><title>Grids — 4</title></rect>
+    <rect x="1200.08" y="187.97" width="47.64" height="1433.36"><title>Grids — 5</title></rect>
+    <rect x="1483.91" y="187.97" width="47.64" height="1433.36"><title>Grids — 6</title></rect>
+    <rect x="1932.49" y="187.97" width="47.64" height="1433.36"><title>Grids — 8</title></rect>
+    <rect x="1726.07" y="187.97" width="47.64" height="1433.36"><title>Grids — 7</title></rect>
+    <rect x="359.98" y="187.97" width="47.64" height="1433.36"><title>Grids — 2</title></rect>
+    <rect x="607.6" y="187.97" width="47.64" height="1433.36"><title>Grids — 3</title></rect>
+  </g>
+  <g class="cat-default" data-category="Planting">
+    <rect x="511.71" y="1134.7" width="183.84" height="186.71"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="511.71" y="1323.94" width="183.84" height="186.71"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="131.48" y="1324.05" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="131.48" y="1134.74" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="607.59" y="1228.97" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="702.46" y="1134.7" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="702.46" y="1323.94" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="321.31" y="1134.7" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="321.31" y="1323.94" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+    <rect x="417.05" y="1228.97" width="183.6" height="186.59"><title>Planting — 15&apos; Canopy</title></rect>
+  </g>
+  <g class="cat-walls" data-category="Walls">
+    <rect x="2217.6" y="727.18" width="100.77" height="672.68"><title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud (Alley)</title></rect>
+    <rect x="996.13" y="593.43" width="1217.93" height="12.53"><title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="272.65" y="593.43" width="599.93" height="12.53"><title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="2096.18" y="1414.66" width="196.38" height="37.46"><title>Walls — Block 43 Storefront</title></rect>
+    <rect x="866.62" y="989.41" width="14.51" height="427.74"><title>Walls — Exterior - 14 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="387.52" y="989.66" width="479.1" height="11.91"><title>Walls — Storefront</title></rect>
+    <rect x="1950.48" y="599.7" width="11.66" height="395.61"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1218.07" y="599.7" width="11.66" height="395.61"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1501.9" y="1072.84" width="11.66" height="387.86"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1218.07" y="1072.84" width="11.66" height="357.71"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="2062.01" y="1074.27" width="11.91" height="339.41"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1950.36" y="1074.27" width="11.91" height="339.41"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="2201.32" y="599.66" width="28.7" height="129.16"><title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1507.73" y="992.27" width="569.28" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="137.18" y="587.48" width="11.91" height="286.32"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="872.58" y="599.88" width="11.91" height="282.53"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="266.7" y="599.7" width="11.91" height="280.05"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="984.22" y="599.88" width="11.91" height="273.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1234.26" y="1438.24" width="263.12" height="11.91"><title>Walls — Block 39 Storefront</title></rect>
+    <rect x="137.18" y="879.75" width="13.52" height="224.8"><title>Walls — Exterior - 13 5/8&quot; Rainscreen (Two Sides) w Insultation on Metal Stud</title></rect>
+    <rect x="1519.64" y="1460.45" width="437.39" height="6.58"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="2135.85" y="1392.8" width="109.79" height="26.06"><title>Walls — _Not Defined</title></rect>
+    <rect x="1223.9" y="1067.57" width="271.93" height="10.42"><title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="902.35" y="1438.09" width="285.82" height="9.8"><title>Walls — Exterior - 9 7/8&quot; EIFS on Mtl. Stud</title></rect>
+    <rect x="1501.9" y="1069.8" width="440.95" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="990.8" y="992.27" width="414.84" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="872.58" y="671.15" width="11.91" height="211.26"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="684.39" y="664.89" width="194.14" height="12.53"><title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1229.85" y="1440.23" width="271.93" height="8.81"><title>Walls — Exterior - GWB on Metal Stud w Insulated Panel 8 7/8&quot;</title></rect>
+    <rect x="395.71" y="868.58" width="223.79" height="10.42"><title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="1762.79" y="1458.9" width="193.81" height="11.91"><title>Walls — Block 41 Storefront</title></rect>
+    <rect x="643.32" y="868.58" width="221.19" height="10.42"><title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="1544.45" y="1458.9" width="193.52" height="11.91"><title>Walls — Block 41 Storefront</title></rect>
+    <rect x="873.88" y="1069.8" width="355.85" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="886.47" y="1431.29" width="325.58" height="6.57"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="393.6" y="605.08" width="228.01" height="9.18"><title>Walls — Soffit - Beam Wrap 10 1/2&quot; (Two Sides)</title></rect>
+    <rect x="1501.9" y="599.7" width="11.66" height="168.34"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="137.18" y="581.52" width="141.42" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="137.18" y="867.84" width="135.47" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="862.4" y="625.94" width="4.22" height="361.55"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="871.02" y="867.84" width="125.11" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1950.36" y="1407.72" width="123.56" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1950.36" y="1068.31" width="123.56" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1501.9" y="879.32" width="11.66" height="119.03"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1953.33" y="1336.27" width="114.63" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="684.39" y="671.15" width="7.2" height="188.56"><title>Walls — Interior - 7 1/4&quot; Partition (1 hr)</title></rect>
+    <rect x="869.47" y="873.8" width="11.66" height="115.62"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="878.53" y="581.52" width="111.65" height="11.91"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="382.44" y="874.91" width="10.17" height="124.67"><title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="162.74" y="587.48" width="4.22" height="286.32"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1392.61" y="769.59" width="119.09" height="9.92"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="387.77" y="799.49" width="242.28" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="272.65" y="874.91" width="114.87" height="10.17"><title>Walls — Exterior - 10 1/4&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="1941.3" y="1065.21" width="3.1" height="375.26"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1391.06" y="867.84" width="115.68" height="9.92"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="272.65" y="792.41" width="115.12" height="9.93"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="641.21" y="605.08" width="122.07" height="9.18"><title>Walls — Soffit - Beam Wrap 10 1/2&quot; (Two Sides)</title></rect>
+    <rect x="1281.89" y="1433.03" width="167.83" height="6.58"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1501.78" y="766.92" width="9.93" height="110.84"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="2073.92" y="1068.31" width="3.1" height="353.99"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="272.65" y="694.16" width="110.16" height="9.93"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="990.18" y="877.89" width="150.97" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="872.58" y="581.52" width="11.91" height="89.63"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="1392.61" y="774.55" width="9.92" height="105.88"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="377.85" y="694.16" width="9.93" height="103.21"><title>Walls — Core - Concrete 10&quot;</title></rect>
+    <rect x="1401.42" y="879.32" width="8.44" height="119.03"><title>Walls — Interior - 8 1/2&quot; Partition (2-hr)</title></rect>
+    <rect x="990.8" y="881.3" width="8.44" height="114.01"><title>Walls — Interior - 8 1/2&quot; Partition (2-hr)</title></rect>
+    <rect x="919.47" y="881.3" width="4.84" height="191.54"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="774.7" y="671.15" width="4.84" height="190.98"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2051.71" y="599.7" width="4.84" height="190.98"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="431.56" y="675.93" width="190.55" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="178.62" y="581.52" width="75.92" height="11.91"><title>Walls — Glazing Wall - Stair</title></rect>
+    <rect x="896.15" y="581.52" width="75.92" height="11.91"><title>Walls — Glazing Wall - Stair</title></rect>
+    <rect x="996.13" y="599.7" width="3.1" height="283.15"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1741.33" y="943.39" width="119.84" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="963.75" y="1127.11" width="7.2" height="119.46"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1853.97" y="827.52" width="7.2" height="119.46"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="281.89" y="605.08" width="92.11" height="9.18"><title>Walls — Soffit - Beam Wrap 10 1/2&quot; (Two Sides)</title></rect>
+    <rect x="963.75" y="1123.52" width="117.42" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="280.15" y="868.58" width="91.74" height="9.18"><title>Walls — Soffit - Beam Wrap (Both Sides)</title></rect>
+    <rect x="967.35" y="1229.46" width="116.24" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1964.13" y="599.7" width="4.22" height="190.98"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1988.57" y="1405.24" width="67.49" height="11.91"><title>Walls — _Not Defined</title></rect>
+    <rect x="2247.71" y="1414.66" width="44.85" height="17.51"><title>Walls — _Not Defined</title></rect>
+    <rect x="2096.18" y="1434.6" width="44.85" height="17.51"><title>Walls — _Not Defined</title></rect>
+    <rect x="137.18" y="576.19" width="146.76" height="5.33"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1284.43" y="873.67" width="105.07" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1571.25" y="820.14" width="6.08" height="121.14"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1756.15" y="837.45" width="101.41" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="143.94" y="879.75" width="136.21" height="5.33"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="867.24" y="576.19" width="134.23" height="5.33"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1698.4" y="827.52" width="7.19" height="93.23"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="2068.58" y="995.31" width="8.44" height="78.96"><title>Walls — Interior - 8 1/2&quot; Partition (2-hr)</title></rect>
+    <rect x="1119.32" y="1155.71" width="7.2" height="90.87"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="278.6" y="599.7" width="6.58" height="92.92"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="278.6" y="599.7" width="6.58" height="92.36"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1978.96" y="1419.63" width="96.65" height="5.33"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="278.6" y="689.95" width="113.39" height="4.22"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1950.6" y="1419.63" width="11.66" height="40.81"><title>Walls — Party - 6 1/8&quot; (2-hr)</title></rect>
+    <rect x="1956.31" y="785.84" width="97.82" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="387.77" y="692.61" width="4.22" height="111.28"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="387.77" y="692.05" width="4.22" height="109.85"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="2238.95" y="1397.93" width="15.43" height="29.1"><title>Walls — _Not Defined</title></rect>
+    <rect x="2130.72" y="1412.18" width="15.43" height="29.1"><title>Walls — _Not Defined</title></rect>
+    <rect x="684.39" y="857.29" width="92.73" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1105.43" y="881.49" width="7.19" height="61.78"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="386.53" y="802.34" width="6.08" height="72.88"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="2068.93" y="1419.63" width="15.76" height="27.87"><title>Walls — Exterior - 12 5/8&quot; Rainscreen w Insultation on Metal Stud</title></rect>
+    <rect x="687.98" y="765.12" width="89.13" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="763.28" y="625.94" width="101.23" height="4.22"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1966.24" y="693.67" width="87.89" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="990.8" y="995.31" width="5.46" height="77.53"><title>Walls — Interior - 5 1/2&quot; Partition (1-hr Smoke)</title></rect>
+    <rect x="1507.73" y="938.24" width="69.59" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1078.75" y="1123.52" width="4.84" height="85.85"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1506.74" y="820.14" width="67.55" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1298.33" y="938.8" width="7.2" height="56.51"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1942.85" y="1065.21" width="129.95" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="871.02" y="879.75" width="126.66" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1389.51" y="766.49" width="125.29" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1511.7" y="858.85" width="62.59" height="6.08"><title>Walls — Interior - 6 1/8&quot; Partition (2-hr)</title></rect>
+    <rect x="1391.06" y="877.76" width="122.5" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1105.43" y="943.27" width="7.19" height="52.04"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="278.6" y="691.06" width="113.39" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="278.6" y="802.34" width="113.39" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1389.51" y="768.04" width="3.1" height="112.83"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="2031.99" y="995.31" width="4.84" height="71.46"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="278.6" y="802.34" width="110.97" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1229.85" y="1442.46" width="52.04" height="6.58"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1449.72" y="1442.46" width="52.04" height="6.58"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1280.84" y="877.27" width="4.84" height="63.95"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1081.17" y="1205.76" width="41.74" height="7.19"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="627.63" y="757.8" width="60.35" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="1702" y="863.5" width="40.44" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1702" y="837.45" width="56.57" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2218.38" y="1060.87" width="4.22" height="63.52"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1280.84" y="845.88" width="7.19" height="34.98"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="1956.21" y="1457" width="25.41" height="9.86"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="1976.29" y="1413.68" width="5.33" height="46.99"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="1572.49" y="944.32" width="4.84" height="50.99"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2072.28" y="1441.84" width="24.97" height="9.69"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="278.6" y="803.89" width="3.1" height="75.86"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="278.6" y="803.89" width="3.1" height="75.24"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="2220.49" y="1120.17" width="55.23" height="4.22"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="873.88" y="993.51" width="48.01" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1109.02" y="939.67" width="32.13" height="7.2"><title>Walls — Interior - 7 1/4&quot; Partition (NR)</title></rect>
+    <rect x="266.7" y="587.48" width="11.91" height="18.48"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="872.58" y="581.52" width="11.91" height="18.36"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="984.22" y="581.52" width="11.91" height="18.36"><title>Walls — Core - Concrete 12&quot;</title></rect>
+    <rect x="625.21" y="757.8" width="4.84" height="44.1"><title>Walls — Interior - 4 7/8&quot; Partition (1-hr)</title></rect>
+    <rect x="1081.17" y="1153.29" width="42.92" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1700.82" y="918.33" width="42.92" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1081.17" y="1231.82" width="41.74" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="2220.49" y="1060.87" width="47.42" height="4.22"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="995.02" y="915.97" width="39.95" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="995.02" y="956.54" width="39.95" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1366.81" y="916.59" width="38.83" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="862.4" y="1421.12" width="7.94" height="22.93"><title>Walls — Block 37 Pilaster</title></rect>
+    <rect x="1511.7" y="768.04" width="3.1" height="55.14"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1121.68" y="1125.93" width="4.84" height="32.19"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1136.31" y="849.36" width="4.84" height="32.13"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="967.35" y="1160.11" width="31.39" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1826.18" y="910.02" width="31.39" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1121.68" y="1123.52" width="30.64" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1672.6" y="945.75" width="30.64" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1698.4" y="918.33" width="4.84" height="29.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1857.56" y="945.75" width="29.4" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1672.6" y="827.52" width="29.4" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="937.95" y="1123.52" width="29.4" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1122.92" y="1241.74" width="29.4" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1857.56" y="827.52" width="29.4" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="937.95" y="1241.74" width="29.4" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1741.33" y="918.33" width="4.84" height="28.66"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1273.77" y="938.8" width="28.16" height="4.84"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="761.17" y="599.7" width="4.22" height="30.46"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="1753.73" y="839.87" width="4.84" height="24.75"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="1078.75" y="1209.36" width="4.84" height="23.69"><title>Walls — Interior - 4 7/8&quot; Partition (NR)</title></rect>
+    <rect x="278.6" y="578.86" width="5.33" height="20.84"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="867.24" y="578.86" width="5.33" height="20.84"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="996.13" y="578.86" width="5.33" height="20.84"><title>Walls — Exterior - 5 3/8&quot; Rainscreen w Insultation (for Concrete Core Walls)</title></rect>
+    <rect x="886.47" y="1415.04" width="4.22" height="19.54"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="862.4" y="1440.08" width="10.17" height="7.94"><title>Walls — Block 37 Pilaster</title></rect>
+    <rect x="862.4" y="1417.15" width="10.17" height="7.94"><title>Walls — Block 37 Pilaster</title></rect>
+    <rect x="2293.77" y="1399.52" width="4.94" height="16.09"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1516.54" y="1437.99" width="3.1" height="22.92"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="873.88" y="1412.93" width="16.81" height="4.22"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="2291.2" y="1415.2" width="8.36" height="7.51"><title>Walls — Chase - GWB &amp; Metal Stud 6 5/8&quot;</title></rect>
+    <rect x="2293.36" y="1396.79" width="12.58" height="4.68"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1280.34" y="1433.03" width="3.1" height="16"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1448.17" y="1433.03" width="3.1" height="16"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="875.3" y="885.7" width="15.04" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="392.61" y="847.56" width="3.1" height="14.89"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1741.33" y="863.5" width="2.23" height="18.98"><title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1956.31" y="786.46" width="9.92" height="4.22"><title>Walls — Chase - GWB &amp; Metal Stud 4 1/4&quot;</title></rect>
+    <rect x="862.4" y="985.94" width="12.9" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1756.34" y="864.61" width="2.23" height="17.86"><title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1742.44" y="863.5" width="16.13" height="2.23"><title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1742.44" y="880.25" width="15.01" height="2.23"><title>Walls — Chase - GWB &amp; Metal Stud 2 1/4&quot;</title></rect>
+    <rect x="1511.7" y="861.89" width="1.86" height="17.43"><title>Walls — Furring - GWB &amp; Channels 1 7/8&quot;</title></rect>
+    <rect x="1941.3" y="1438.92" width="9.3" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1232.7" y="1436.75" width="3.1" height="8.99"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="1495.81" y="1436.75" width="3.1" height="8.99"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="389.57" y="846.01" width="6.14" height="3.1"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+    <rect x="887.24" y="881.3" width="3.1" height="5.95"><title>Walls — Chase - GWB &amp; Metal Stud 3 1/8&quot;</title></rect>
+  </g>
+  <g class="cat-railings" data-category="Railings">
+    <rect x="397.94" y="674.81" width="419.8" height="204.57"><title>Railings — Glass Panel - Bottom Fill (Extension Bottom)</title></rect>
+    <rect x="1237.17" y="1063.72" width="256.79" height="171.57"><title>Railings — Glass Panel - Bottom Fill (Extension Top)</title></rect>
+    <rect x="1278.85" y="1063.6" width="214.86" height="130.01"><title>Railings — Glass Panel - Bottom Fill</title></rect>
+    <rect x="763.41" y="628.66" width="107.76" height="252.57"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="872.45" y="529.79" width="233.97" height="46.64"><title>Railings — _IBC-Pipe-Plate Stringer (Extension Bottom)</title></rect>
+    <rect x="1229.11" y="696.44" width="70.96" height="70.91"><title>Railings — Pipe-Spiral</title></rect>
+    <rect x="1571.12" y="544.8" width="101.23" height="49"><title>Railings — Handrail - Balcony</title></rect>
+    <rect x="1953.63" y="1123.64" width="17.53" height="182.61"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="975.33" y="636.6" width="17.53" height="182.61"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="158.31" y="650.75" width="17.53" height="171.69"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="925.55" y="641.07" width="17.62" height="166.48"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="257.8" y="650.75" width="17.53" height="160.77"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="208.02" y="650.87" width="17.62" height="159.91"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="158.31" y="672.58" width="17.53" height="149.86"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="208.02" y="662.78" width="17.62" height="148"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="2053.12" y="1123.64" width="17.53" height="138.94"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="875.84" y="676.55" width="17.53" height="138.94"><title>Railings — Pipe-Wall Mount</title></rect>
+    <rect x="2003.33" y="1135.3" width="17.62" height="127.16"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="925.55" y="676.67" width="17.62" height="127.16"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="1278.85" y="1063.6" width="6.7" height="237.81"><title>Railings — Glass Panel - Bottom Fill (Extension Bottom)</title></rect>
+    <rect x="1237.17" y="1067.94" width="3.97" height="233.47"><title>Railings — Glass Panel - Bottom Fill (Extension Top and Bottom)</title></rect>
+    <rect x="939.69" y="571.23" width="166.73" height="3.72"><title>Railings — _IBC-Pipe-Plate Stringer (Extension Top and Bottom)</title></rect>
+    <rect x="2003.33" y="1135.3" width="3.72" height="159.29"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="208.02" y="799.36" width="17.62" height="21.09"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="167.45" y="605.22" width="98.25" height="3.72"><title>Railings — _IBC-Pipe-Plate Stringer (Guardrail)</title></rect>
+    <rect x="167.7" y="605.22" width="98.25" height="3.72"><title>Railings — _IBC-Pipe-Plate Stringer (Guardrail)</title></rect>
+    <rect x="885.23" y="602.24" width="98.25" height="3.72"><title>Railings — _IBC-Pipe-Plate Stringer (Guardrail)</title></rect>
+    <rect x="925.55" y="803.33" width="17.62" height="12.65"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+    <rect x="2003.33" y="1126.62" width="17.62" height="9.18"><title>Railings — _IBC-Pipe-Plate Stringer (Extension None)</title></rect>
+  </g>
+  <g class="cat-stairs" data-category="Stairs">
+    <rect x="884.48" y="589.96" width="99.74" height="214.37"><title>Stairs — Stair</title></rect>
+    <rect x="884.48" y="605.34" width="99.74" height="199.73"><title>Stairs — Stair</title></rect>
+    <rect x="166.96" y="605.84" width="99.74" height="190.79"><title>Stairs — Stair</title></rect>
+    <rect x="166.96" y="605.84" width="99.74" height="190.79"><title>Stairs — Stair</title></rect>
+    <rect x="778.29" y="630.15" width="84.11" height="225.28"><title>Stairs — Stair</title></rect>
+    <rect x="1962.27" y="1149.44" width="99.74" height="186.83"><title>Stairs — Stair</title></rect>
+    <rect x="884.48" y="602.86" width="99.74" height="186.83"><title>Stairs — Stair</title></rect>
+    <rect x="1237.67" y="1080.97" width="95.27" height="153.83"><title>Stairs — Stair</title></rect>
+    <rect x="1237.67" y="1080.97" width="43.67" height="196.5"><title>Stairs — Stair</title></rect>
+    <rect x="939.69" y="528.55" width="142.91" height="47.64"><title>Stairs — Stair</title></rect>
+    <rect x="1962.27" y="1138.53" width="44.16" height="141.92"><title>Stairs — Stair</title></rect>
+    <rect x="1228.86" y="696.14" width="71.46" height="71.46"><title>Stairs — Stair</title></rect>
+    <rect x="1247.59" y="1165.32" width="75.42" height="61.66"><title>Stairs — Residential Lobby Stair Landing Support</title></rect>
+  </g>
+  <g class="cat-top-rails" data-category="Top Rails">
+    <rect x="398.19" y="674.81" width="419.55" height="204.57"><title>Top Rails — Elliptical - 1 1/2&quot; x 1 1/8&quot; (Extension Bottom)</title></rect>
+    <rect x="1237.17" y="1065.58" width="256.54" height="169.71"><title>Top Rails — Elliptical - 1 1/2&quot; x 1 1/8&quot; (Extension Top)</title></rect>
+    <rect x="872.45" y="529.79" width="226.03" height="46.4"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension Bottom)</title></rect>
+    <rect x="1229.19" y="696.47" width="70.8" height="70.8"><title>Top Rails — Circular - 1 1/2&quot; (Spiral)</title></rect>
+    <rect x="1571.12" y="544.8" width="101.23" height="48.63"><title>Top Rails — Rectangular - 2&quot; x 2&quot;</title></rect>
+    <rect x="927.78" y="643.3" width="13.15" height="164"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="210.25" y="653.1" width="13.15" height="157.43"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="1278.85" y="1063.6" width="12.9" height="130.01"><title>Top Rails — Elliptical - 1 1/2&quot; x 1 1/8&quot;</title></rect>
+    <rect x="1278.85" y="1063.6" width="6.45" height="237.81"><title>Top Rails — Elliptical - 1 1/2&quot; x 1 1/8&quot; (Extension Bottom)</title></rect>
+    <rect x="1237.17" y="1067.94" width="2.98" height="233.47"><title>Top Rails — Elliptical - 1 1/2&quot; x 1 1/8&quot; (Extension Top and Bottom)</title></rect>
+    <rect x="210.25" y="799.61" width="13.15" height="18.61"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="2005.56" y="1135.55" width="1.49" height="158.79"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="948.62" y="573.46" width="149.86" height="1.49"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension Top and Bottom)</title></rect>
+    <rect x="210.25" y="687.9" width="1.49" height="122.62"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="2017.22" y="1135.55" width="1.49" height="111.67"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="927.78" y="691.91" width="1.49" height="111.67"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="927.78" y="803.58" width="13.15" height="10.17"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="2005.56" y="1128.85" width="13.15" height="6.7"><title>Top Rails — _IBC-Circular - 1 1/2&quot; (Extension None)</title></rect>
+  </g>
+  <g class="cat-default" data-category="Model Groups">
+    <rect x="923.97" y="1116.14" width="264.38" height="136.95"><title>Model Groups — Live_Work Core - Standard</title></rect>
+    <rect x="1636.56" y="821.01" width="264.39" height="136.46"><title>Model Groups — Live_Work Core - Standard B</title></rect>
+    <rect x="984.22" y="816.04" width="163.44" height="189.03"><title>Model Groups — Live_Work Core - Studio</title></rect>
+    <rect x="1267.81" y="811.83" width="143.78" height="189.43"><title>Model Groups — Live_Work Core - Studio Two Story</title></rect>
+    <rect x="1561.91" y="537.37" width="151.13" height="104.82"><title>Model Groups — Live Work - Balcony</title></rect>
+  </g>
+  <g class="cat-furniture" data-category="Furniture">
+    <rect x="491.93" y="683.65" width="76.51" height="78.59"><title>Furniture — 60&quot; Diameter</title></rect>
+    <rect x="589.93" y="683.65" width="76.51" height="78.59"><title>Furniture — 60&quot; Diameter</title></rect>
+    <rect x="689.18" y="683.65" width="76.51" height="78.59"><title>Furniture — 60&quot; Diameter</title></rect>
+    <rect x="567.38" y="794.5" width="77.46" height="77.46"><title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="446.3" y="794.5" width="77.46" height="77.46"><title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="506.37" y="760.76" width="77.46" height="77.46"><title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="706.32" y="800.46" width="77.46" height="77.46"><title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="634.4" y="764.73" width="77.46" height="77.46"><title>Furniture — 36&quot; Diameter</title></rect>
+    <rect x="452.2" y="606.33" width="56.73" height="43.67"><title>Furniture — Banquette - Double</title></rect>
+    <rect x="533.58" y="606.33" width="56.73" height="43.67"><title>Furniture — Banquette - Double</title></rect>
+    <rect x="391.87" y="727.91" width="65.5" height="35.73"><title>Furniture — 66&quot; x 36&quot;</title></rect>
+    <rect x="391.87" y="700.12" width="65.5" height="30.35"><title>Furniture — Banquette - Single</title></rect>
+    <rect x="391.87" y="761.07" width="65.5" height="30.35"><title>Furniture — Banquette - Single</title></rect>
+    <rect x="340.18" y="606.33" width="30.35" height="43.67"><title>Furniture — Banquette - Single</title></rect>
+    <rect x="397.2" y="606.33" width="30.35" height="43.67"><title>Furniture — Banquette - Single</title></rect>
+    <rect x="285.18" y="606.33" width="30.35" height="43.67"><title>Furniture — Banquette - Single</title></rect>
+    <rect x="312.97" y="606.33" width="29.77" height="43.67"><title>Furniture — 44&quot; x 30&quot;</title></rect>
+    <rect x="424.99" y="606.33" width="29.77" height="43.67"><title>Furniture — 44&quot; x 30&quot;</title></rect>
+    <rect x="506.37" y="606.33" width="29.77" height="43.67"><title>Furniture — 44&quot; x 30&quot;</title></rect>
+    <rect x="587.75" y="606.33" width="29.77" height="43.67"><title>Furniture — 44&quot; x 30&quot;</title></rect>
+    <rect x="1206.16" y="897.12" width="11.91" height="95.27"><title>Furniture — 96&quot; x 12&quot; x 84&quot;</title></rect>
+    <rect x="614.96" y="620.23" width="30.35" height="29.77"><title>Furniture — Banquette - Single</title></rect>
+    <rect x="1206.16" y="754.21" width="11.91" height="71.46"><title>Furniture — 72&quot; x 12&quot; x 72&quot;</title></rect>
+    <rect x="484.95" y="807.89" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="519.76" y="799.41" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="580.77" y="807.89" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="647.78" y="778.12" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="484.96" y="833.15" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="519.76" y="774.15" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="606.03" y="833.15" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="719.71" y="813.85" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="744.98" y="839.11" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="459.69" y="807.89" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="545.03" y="799.41" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="606.03" y="807.89" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="673.05" y="803.38" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="647.79" y="803.38" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="719.71" y="839.11" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="744.97" y="813.84" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="580.77" y="833.16" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="673.05" y="778.12" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="459.7" y="833.16" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="545.02" y="774.15" width="25.41" height="25.41"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="641.51" y="725.75" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="543.5" y="695.98" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="491.93" y="695.99" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="740.74" y="695.98" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="689.18" y="695.99" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="491.93" y="725.76" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="543.5" y="725.75" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="689.18" y="725.76" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="740.75" y="725.75" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="641.5" y="695.98" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="589.93" y="695.99" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="589.94" y="725.76" width="24.94" height="24.15"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="521.73" y="683.65" width="16.9" height="19.04"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="619.74" y="683.65" width="16.9" height="19.04"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="718.98" y="683.65" width="16.9" height="19.04"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="521.74" y="743.2" width="16.9" height="19.04"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="619.75" y="743.2" width="16.9" height="19.04"><title>Furniture — Chair-Breuer</title></rect>
+    <rect x="718.99" y="743.2" width="16.9" height="19.04"><title>Furniture — Chair-Breuer</title></rect>
+  </g>
+  <g class="cat-runs" data-category="Runs">
+    <rect x="1236.67" y="1077.99" width="45.65" height="199.48"><title>Runs — 2 1/2&quot; Tread Square Nosing No Riser</title></rect>
+    <rect x="816.75" y="690.44" width="45.65" height="164.99"><title>Runs — 2&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="939.69" y="528.55" width="142.91" height="47.64"><title>Runs — 3/4&quot; Nosing</title></rect>
+    <rect x="1962.51" y="1137.25" width="43.67" height="143.2"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="940.31" y="662.41" width="43.67" height="143.2"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="167.2" y="664.35" width="43.67" height="132.28"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="222.78" y="676.55" width="43.67" height="121.36"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="1228.86" y="696.14" width="71.46" height="71.46"><title>Runs — Spiral</title></rect>
+    <rect x="167.2" y="686.18" width="43.67" height="110.45"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="222.78" y="687.47" width="43.67" height="110.45"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="1288.28" y="1081.96" width="45.65" height="101.23"><title>Runs — 2 1/2&quot; Tread Square Nosing No Riser</title></rect>
+    <rect x="884.73" y="690.16" width="43.67" height="99.53"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="2018.09" y="1149.44" width="43.67" height="99.53"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="1236.67" y="1077.99" width="45.65" height="90.31"><title>Runs — 2 1/2&quot; Tread Square Nosing No Riser</title></rect>
+    <rect x="1962.51" y="1148.16" width="43.67" height="88.61"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="940.31" y="702.35" width="43.67" height="88.61"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="884.73" y="654.55" width="43.67" height="55.86"><title>Runs — 1/4&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+    <rect x="777.05" y="630.15" width="33.99" height="45.65"><title>Runs — 2&quot; Tread 1&quot; Nosing 1/4&quot; Riser</title></rect>
+  </g>
+  <g class="cat-handrails" data-category="Handrails">
+    <rect x="763.41" y="630.15" width="99" height="251.09"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="872.45" y="529.79" width="225.03" height="46.4"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="874.68" y="532.03" width="231.73" height="44.16"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension Bottom)</title></rect>
+    <rect x="1229.19" y="696.47" width="70.8" height="70.84"><title>Handrails — Bottom Rail Circular - 1 1/2&quot; (Spiral)</title></rect>
+    <rect x="925.55" y="641.07" width="17.62" height="166.23"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="257.8" y="650.75" width="17.53" height="160.77"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="208.02" y="650.87" width="17.62" height="159.66"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="927.78" y="643.3" width="13.15" height="164"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="210.25" y="653.1" width="13.15" height="157.67"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="165.59" y="687.9" width="10.26" height="134.53"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="2053.12" y="1123.64" width="10.26" height="123.58"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="883.12" y="691.91" width="10.26" height="123.57"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="1962.39" y="1123.64" width="2.98" height="182.61"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="981.12" y="636.6" width="2.98" height="182.61"><title>Handrails — Pipe - Wall Mount</title></rect>
+    <rect x="208.02" y="799.61" width="17.62" height="20.84"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="939.69" y="571.23" width="166.73" height="1.49"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension Top and Bottom)</title></rect>
+    <rect x="210.25" y="799.61" width="13.15" height="18.61"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="2005.56" y="1135.55" width="1.49" height="158.79"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="2003.33" y="1135.55" width="1.49" height="158.79"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="948.62" y="573.46" width="148.86" height="1.49"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="925.55" y="803.58" width="17.62" height="12.41"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="210.25" y="687.9" width="1.49" height="122.87"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="208.02" y="687.9" width="1.49" height="122.62"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="927.78" y="691.91" width="1.49" height="111.91"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="2017.22" y="1135.3" width="1.49" height="111.91"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="2019.46" y="1135.55" width="1.49" height="111.67"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="925.55" y="691.91" width="1.49" height="111.67"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="2003.33" y="1126.62" width="17.62" height="8.93"><title>Handrails — _IBC-Handrail Circular - 1 1/2&quot; (Extension None)</title></rect>
+    <rect x="927.78" y="803.58" width="13.15" height="10.17"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+    <rect x="2005.56" y="1128.85" width="13.15" height="6.7"><title>Handrails — _IBC-Bottom Rail Circular - 1 1/2&quot;</title></rect>
+  </g>
+  <g class="cat-specialty-equipment" data-category="Specialty Equipment">
+    <rect x="1288.78" y="817.78" width="100.73" height="57.88"><title>Specialty Equipment — Kitchenette - Medium</title></rect>
+    <rect x="1035.58" y="822" width="100.73" height="57.88"><title>Specialty Equipment — Kitchenette - Medium</title></rect>
+    <rect x="1124.53" y="1141.01" width="57.88" height="100.73"><title>Specialty Equipment — Kitchenette - Medium</title></rect>
+    <rect x="1642.51" y="832.36" width="57.88" height="100.73"><title>Specialty Equipment — Kitchenette - Medium</title></rect>
+    <rect x="1003.95" y="1142.81" width="59.55" height="59.55"><title>Specialty Equipment — Wheel Chair Circle</title></rect>
+    <rect x="1511.66" y="866.85" width="59.55" height="59.55"><title>Specialty Equipment — Wheel Chair Circle</title></rect>
+    <rect x="1763.41" y="871.75" width="59.55" height="59.55"><title>Specialty Equipment — Wheel Chair Circle</title></rect>
+    <rect x="1186.21" y="628.17" width="31.85" height="75.42"><title>Specialty Equipment — 18&quot; x 72&quot;</title></rect>
+    <rect x="999.09" y="954.93" width="47.78" height="44.19"><title>Specialty Equipment — 24&quot;</title></rect>
+    <rect x="1353.78" y="916.13" width="47.78" height="44.19"><title>Specialty Equipment — 24&quot;</title></rect>
+    <rect x="1806.95" y="907.33" width="47.78" height="44.19"><title>Specialty Equipment — 24&quot;</title></rect>
+    <rect x="970.8" y="1122.09" width="47.78" height="44.19"><title>Specialty Equipment — 24&quot;</title></rect>
+    <rect x="1307.37" y="817.78" width="32.57" height="55.96"><title>Specialty Equipment — 24&quot; x 24&quot; x 34&quot;</title></rect>
+    <rect x="1642.51" y="881.93" width="55.96" height="32.57"><title>Specialty Equipment — 24&quot; x 24&quot; x 34&quot;</title></rect>
+    <rect x="1054.17" y="822" width="32.57" height="55.96"><title>Specialty Equipment — 24&quot; x 24&quot; x 34&quot;</title></rect>
+    <rect x="1126.44" y="1159.6" width="55.96" height="32.57"><title>Specialty Equipment — 24&quot; x 24&quot; x 34&quot;</title></rect>
+    <rect x="1861.16" y="893.15" width="31.85" height="51.61"><title>Specialty Equipment — 18&quot; x 48&quot;</title></rect>
+    <rect x="931.9" y="1129.35" width="31.85" height="51.61"><title>Specialty Equipment — 18&quot; x 48&quot;</title></rect>
+    <rect x="1404.52" y="865.86" width="95.27" height="16.16"><title>Specialty Equipment — 48&quot; x 84&quot;</title></rect>
+    <rect x="280.59" y="790.43" width="95.27" height="16.16"><title>Specialty Equipment — 48&quot; x 84&quot;</title></rect>
+    <rect x="1521.63" y="829.2" width="27.79" height="36.22"><title>Specialty Equipment — Trash Chute</title></rect>
+    <rect x="1124.53" y="1136.03" width="29" height="32.57"><title>Specialty Equipment — 24&quot; x 25&quot; LH</title></rect>
+    <rect x="1671.39" y="905.5" width="29" height="32.57"><title>Specialty Equipment — 24&quot; x 25&quot; LH</title></rect>
+    <rect x="1030.6" y="850.87" width="32.57" height="29"><title>Specialty Equipment — 24&quot; x 25&quot; LH</title></rect>
+    <rect x="1283.8" y="846.66" width="32.57" height="29"><title>Specialty Equipment — 24&quot; x 25&quot; LH</title></rect>
+    <rect x="1015.67" y="1214.01" width="53.59" height="15.45"><title>Specialty Equipment — 54&quot; x 48&quot;</title></rect>
+    <rect x="1768.06" y="844.64" width="53.59" height="15.45"><title>Specialty Equipment — 54&quot; x 48&quot;</title></rect>
+    <rect x="646.8" y="608.32" width="23.82" height="23.82"><title>Specialty Equipment — TrashContainer</title></rect>
+    <rect x="283.07" y="849.11" width="23.82" height="23.82"><title>Specialty Equipment — TrashContainer</title></rect>
+    <rect x="1674.83" y="833.35" width="22.83" height="24.81"><title>Specialty Equipment — 22&quot; x 20&quot;</title></rect>
+    <rect x="1127.26" y="1215.94" width="22.83" height="24.81"><title>Specialty Equipment — 22&quot; x 20&quot;</title></rect>
+    <rect x="1363.71" y="850.1" width="24.81" height="22.83"><title>Specialty Equipment — 22&quot; x 20&quot;</title></rect>
+    <rect x="1110.51" y="854.32" width="24.81" height="22.83"><title>Specialty Equipment — 22&quot; x 20&quot;</title></rect>
+    <rect x="1089.97" y="938.92" width="15.45" height="35.73"><title>Specialty Equipment — 36&quot; x 48&quot;</title></rect>
+    <rect x="1305.52" y="950.71" width="15.45" height="35.73"><title>Specialty Equipment — 36&quot; x 48&quot;</title></rect>
+    <rect x="1567.86" y="553.29" width="5.36" height="40.14"><title>Specialty Equipment — Balcony Wall Brace</title></rect>
+    <rect x="1670.26" y="553.29" width="5.36" height="40.14"><title>Specialty Equipment — Balcony Wall Brace</title></rect>
+  </g>
+  <g class="cat-multistory-stairs" data-category="Multistory Stairs">
+    <rect x="161" y="599.88" width="111.65" height="202.7"><title>Multistory Stairs — Multistory Stairs</title></rect>
+    <rect x="1956.31" y="1143.49" width="111.65" height="198.73"><title>Multistory Stairs — Multistory Stairs</title></rect>
+    <rect x="878.53" y="596.91" width="111.65" height="198.73"><title>Multistory Stairs — Multistory Stairs</title></rect>
+  </g>
+  <g class="cat-landings" data-category="Landings">
+    <rect x="884.73" y="603.11" width="99.24" height="100.52"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="1962.51" y="1235.5" width="99.24" height="100.52"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="167.2" y="606.09" width="99.24" height="82.67"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="884.73" y="605.59" width="99.24" height="80.68"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="884.73" y="589.96" width="99.24" height="73.73"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="167.2" y="606.09" width="99.24" height="71.74"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="1236.67" y="1165.32" width="97.26" height="70.46"><title>Landings — Non-Monolithic Landing</title></rect>
+    <rect x="810.05" y="632.14" width="50.37" height="59.55"><title>Landings — Non-Monolithic Landing</title></rect>
+  </g>
+  <g class="cat-default" data-category="Slab Edges">
+    <rect x="884.48" y="777.89" width="135.22" height="89.95"><title>Slab Edges — _Stair Landing Plate Stringer</title></rect>
+    <rect x="166.96" y="784.74" width="135.22" height="83.1"><title>Slab Edges — _Stair Landing Plate Stringer</title></rect>
+    <rect x="1926.79" y="1080.22" width="135.22" height="81.02"><title>Slab Edges — _Stair Landing Plate Stringer</title></rect>
+    <rect x="1926.79" y="1080.22" width="135.22" height="80.62"><title>Slab Edges — _Stair Landing Plate Stringer</title></rect>
+    <rect x="1569.65" y="543.32" width="137.44" height="50.11"><title>Slab Edges — _Balcony C Channel</title></rect>
+    <rect x="1235.68" y="1078.98" width="47.64" height="36.72"><title>Slab Edges — Lobby Stair Nosing</title></rect>
+  </g>
+  <g class="cat-casework" data-category="Casework">
+    <rect x="1184.24" y="629.16" width="33.83" height="125.05"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1861.16" y="831.49" width="33.83" height="114.25"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="929.93" y="1128.35" width="33.83" height="113.39"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1658.99" y="832.36" width="39.41" height="77.41"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1312.1" y="834.26" width="77.41" height="39.41"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1126.51" y="1164.33" width="39.41" height="77.41"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1058.9" y="838.48" width="77.41" height="39.41"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1007.3" y="1191.03" width="71.46" height="38.43"><title>Casework — 72&quot;</title></rect>
+    <rect x="1758.57" y="844.64" width="71.46" height="38.43"><title>Casework — 72&quot;</title></rect>
+    <rect x="970.95" y="1204.65" width="107.8" height="24.81"><title>Casework — 72&quot;</title></rect>
+    <rect x="1758.57" y="844.64" width="95.4" height="24.81"><title>Casework — 72&quot;</title></rect>
+    <rect x="1068.27" y="932.72" width="37.28" height="59.55"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1305.52" y="944.63" width="38.43" height="47.64"><title>Casework — 48&quot;</title></rect>
+    <rect x="1067.12" y="932.97" width="38.43" height="47.64"><title>Casework — 48&quot;</title></rect>
+    <rect x="1305.52" y="944.63" width="37.28" height="47.64"><title>Casework — 24&quot; Depth</title></rect>
+    <rect x="1003.82" y="842.45" width="29.77" height="32.78"><title>Casework — 30&quot;</title></rect>
+    <rect x="1126.51" y="1140.51" width="26.41" height="26.8"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1671.99" y="906.36" width="26.41" height="26.8"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1126.51" y="1191.13" width="25.23" height="26.8"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1673.17" y="855.74" width="25.23" height="26.8"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1085.7" y="852.66" width="26.8" height="25.23"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1035.09" y="852.66" width="26.8" height="25.23"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1338.9" y="848.44" width="26.8" height="25.23"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1288.28" y="848.44" width="26.8" height="25.23"><title>Casework — 27&quot;W x 28&quot;H</title></rect>
+    <rect x="1674.33" y="831.93" width="24.07" height="23.82"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1674.33" y="882.54" width="24.07" height="23.82"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1365.69" y="849.6" width="23.82" height="24.07"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1315.08" y="849.6" width="23.82" height="24.07"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1126.51" y="1217.92" width="24.07" height="23.82"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1126.51" y="1167.31" width="24.07" height="23.82"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1112.5" y="853.82" width="23.82" height="24.07"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+    <rect x="1061.88" y="853.82" width="23.82" height="24.07"><title>Casework — 24&quot;W x 40&quot;H</title></rect>
+  </g>
+  <g class="cat-default" data-category="Ceilings">
+    <rect x="1968.34" y="605.96" width="83.36" height="87.71"><title>Ceilings — 5/8&quot; GWB on Mtl. Stud</title></rect>
+    <rect x="691.58" y="677.42" width="83.12" height="87.71"><title>Ceilings — 5/8&quot; GWB on Mtl. Stud</title></rect>
+    <rect x="281.71" y="805.44" width="104.83" height="69.47"><title>Ceilings — 5/8&quot; GWB on Mtl. Stud</title></rect>
+    <rect x="1968.34" y="698.51" width="83.36" height="87.33"><title>Ceilings — 5/8&quot; GWB on Mtl. Stud</title></rect>
+    <rect x="691.58" y="769.96" width="83.12" height="87.33"><title>Ceilings — 5/8&quot; GWB on Mtl. Stud</title></rect>
+    <rect x="1229.85" y="1439.61" width="271.93" height="26.27"><title>Ceilings — Exterior Soffit</title></rect>
+    <rect x="2139.41" y="1401.49" width="106.15" height="35.12"><title>Ceilings — 5/8&quot; GWB on Mtl. Stud</title></rect>
+  </g>
+  <g class="cat-wall-sweeps" data-category="Wall Sweeps">
+    <rect x="937.39" y="1122.96" width="215.48" height="30.33"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1672.04" y="923.17" width="215.48" height="27.97"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="937.39" y="1123.52" width="26.36" height="123.06"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1126.51" y="1128.35" width="26.36" height="118.22"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1672.04" y="832.36" width="26.36" height="113.39"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1861.16" y="832.36" width="26.36" height="113.39"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1109.39" y="848.8" width="32.32" height="90.87"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1672.04" y="826.96" width="215.48" height="10.79"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1273.21" y="938.8" width="25.12" height="53.47"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1112.62" y="946.86" width="28.53" height="45.4"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1705.6" y="837.45" width="48.13" height="26.05"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1273.21" y="845.32" width="7.63" height="93.48"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1083.59" y="1212.96" width="35.73" height="18.86"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="970.95" y="1231.82" width="115.18" height="5.4"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1118.76" y="1236.65" width="34.12" height="10.48"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="937.39" y="1236.65" width="34.12" height="10.48"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1280.84" y="845.32" width="7.75" height="28.35"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1126.51" y="1123.52" width="26.36" height="5.4"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1112.62" y="939.11" width="28.53" height="0.56"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1853.41" y="826.96" width="0.56" height="10.48"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1135.76" y="848.8" width="0.56" height="7.75"><title>Wall Sweeps — Base_Simple</title></rect>
+    <rect x="1118.08" y="1236.65" width="1.24" height="0.56"><title>Wall Sweeps — Base_Simple</title></rect>
+  </g>
+  <g class="cat-shaft-openings" data-category="Shaft Openings">
+    <rect x="1392.61" y="769.59" width="119.09" height="98.25"><title>Shaft Openings — Opening Cut</title></rect>
+    <rect x="278.6" y="694.16" width="109.17" height="98.25"><title>Shaft Openings — Opening Cut</title></rect>
+    <rect x="149.09" y="593.43" width="13.65" height="274.41"><title>Shaft Openings — Opening Cut</title></rect>
+    <rect x="2222.6" y="1065.09" width="46.52" height="55.08"><title>Shaft Openings — Opening Cut</title></rect>
+    <rect x="1513.56" y="944.32" width="57.69" height="11.79"><title>Shaft Openings — Opening Cut</title></rect>
+    <rect x="1526.75" y="834.26" width="17.54" height="17.54"><title>Shaft Openings — Opening Cut</title></rect>
+  </g>
+  <g class="cat-doors" data-category="Doors">
+    <rect x="2155.16" y="1399.94" width="75.73" height="46.47"><title>Doors — Door-Curtain-Wall-Double-Storefront [109A]</title></rect>
+    <rect x="1967.19" y="1067.81" width="40.44" height="47.14"><title>Doors — 36&quot; x 84&quot; (180 MIN) [S32]</title></rect>
+    <rect x="938.57" y="833.11" width="40.44" height="47.14"><title>Doors — 36&quot; x 84&quot; (180 MIN) [S22B]</title></rect>
+    <rect x="1501.41" y="891.66" width="46.89" height="40.44"><title>Doors — 36&quot; x 84&quot; (45 MIN) [201A]</title></rect>
+    <rect x="1576.33" y="592.94" width="40.44" height="43.29"><title>Doors — 36&quot; x 89&quot; (90 MIN) [205D]</title></rect>
+    <rect x="1749.7" y="907.66" width="39.7" height="43.42"><title>Doors — 36&quot; x 84&quot; (Cores) [205A]</title></rect>
+    <rect x="1035.83" y="1123.02" width="39.7" height="43.42"><title>Doors — 36&quot; x 84&quot; (Cores) [202A]</title></rect>
+    <rect x="1069.7" y="888.31" width="43.42" height="39.7"><title>Doors — 36&quot; x 84&quot; (Cores) [203B]</title></rect>
+    <rect x="1704.23" y="956.54" width="39.7" height="42.3"><title>Doors — 36&quot; x 84&quot; (60 MIN) [205B]</title></rect>
+    <rect x="1161.25" y="956.54" width="39.7" height="42.3"><title>Doors — 36&quot; x 84&quot; (60 MIN) [203A]</title></rect>
+    <rect x="1097.98" y="1069.3" width="39.7" height="42.3"><title>Doors — 36&quot; x 84&quot; (60 MIN) [202B]</title></rect>
+    <rect x="1232.95" y="956.54" width="39.7" height="42.3"><title>Doors — 36&quot; x 84&quot; (60 MIN) [204A]</title></rect>
+    <rect x="955.07" y="1026.88" width="41.68" height="39.7"><title>Doors — 36&quot; x 84&quot; (20 MIN) [201C]</title></rect>
+    <rect x="1996.26" y="1001.57" width="41.06" height="39.7"><title>Doors — 36&quot; x 84&quot; [201B]</title></rect>
+    <rect x="1280.34" y="883.84" width="41.06" height="39.7"><title>Doors — 36&quot; x 84&quot; (Cores) [204B]</title></rect>
+    <rect x="898.63" y="551.25" width="35.73" height="37.47"><title>Doors — Door-Curtain-Wall-Single-Storefront [S22A]</title></rect>
+    <rect x="1713.79" y="837.45" width="31.76" height="4.84"><title>Doors — 32&quot; x 84&quot; [205OPN]</title></rect>
+    <rect x="1085.58" y="1231.82" width="31.76" height="4.84"><title>Doors — 32&quot; x 84&quot; [202OPN]</title></rect>
+  </g>
+  <g class="cat-windows" data-category="Windows">
+    <rect x="1321.28" y="583.16" width="55.08" height="24.04"><title>Windows — 50&quot; x 60&quot; [122]</title></rect>
+    <rect x="1023.55" y="583.16" width="55.08" height="24.04"><title>Windows — 50&quot; x 60&quot; [119]</title></rect>
+    <rect x="1122.79" y="583.16" width="55.08" height="24.04"><title>Windows — 50&quot; x 60&quot; [120]</title></rect>
+    <rect x="1867.12" y="583.16" width="55.08" height="24.04"><title>Windows — 50&quot; x 60&quot; [125]</title></rect>
+    <rect x="1420.52" y="583.16" width="55.08" height="24.04"><title>Windows — 50&quot; x 60&quot; [126]</title></rect>
+    <rect x="1767.87" y="583.16" width="55.08" height="24.04"><title>Windows — 50&quot; x 60&quot; [127]</title></rect>
+    <rect x="495.7" y="587.73" width="55.08" height="19.47"><title>Windows — 50&quot; x 80&quot; [138]</title></rect>
+    <rect x="416.8" y="587.73" width="55.08" height="19.47"><title>Windows — 50&quot; x 80&quot; [141]</title></rect>
+    <rect x="297.21" y="587.73" width="55.08" height="19.47"><title>Windows — 50&quot; x 80&quot; [182]</title></rect>
+    <rect x="564.67" y="587.73" width="55.08" height="19.47"><title>Windows — 50&quot; x 80&quot; [183]</title></rect>
+    <rect x="1063.25" y="1416.17" width="42.67" height="21.7"><title>Windows — Schematic Opening Cut [112]</title></rect>
+    <rect x="985.84" y="1416.17" width="42.67" height="21.7"><title>Windows — Schematic Opening Cut [113]</title></rect>
+    <rect x="908.43" y="1416.17" width="42.67" height="21.7"><title>Windows — Schematic Opening Cut [115]</title></rect>
+    <rect x="1140.66" y="1416.17" width="42.67" height="21.7"><title>Windows — Schematic Opening Cut [111]</title></rect>
+    <rect x="1344.97" y="1417.91" width="41.68" height="21.7"><title>Windows — Schematic Opening Cut [139]</title></rect>
+    <rect x="1306.76" y="1417.91" width="26.8" height="21.7"><title>Windows — Schematic Opening Cut [140]</title></rect>
+    <rect x="1398.07" y="1417.91" width="26.8" height="21.7"><title>Windows — Schematic Opening Cut [143]</title></rect>
+  </g>
+  <g class="cat-columns" data-category="Columns">
+    <rect x="1494.3" y="1456.08" width="22.7" height="26.49"><title>Columns — Flex</title></rect>
+    <rect x="1428.8" y="1456.08" width="22.7" height="26.49"><title>Columns — Flex</title></rect>
+    <rect x="1280.12" y="1456.08" width="22.7" height="26.49"><title>Columns — Flex</title></rect>
+    <rect x="1214.62" y="1456.08" width="22.7" height="26.49"><title>Columns — Flex</title></rect>
+    <rect x="1495.82" y="1241.99" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1495.82" y="1060.87" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1495.82" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1211.99" y="1060.87" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1211.99" y="1241.99" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1737.98" y="1418.64" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1737.98" y="1241.99" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1737.98" y="1060.87" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1944.4" y="861.89" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="2222.86" y="861.89" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="2272.9" y="1241.99" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="2187.97" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="371.89" y="861.27" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1211.99" y="861.89" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1211.99" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="139.17" y="1060.87" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1944.4" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="1737.98" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="619.51" y="861.27" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="619.51" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="619.51" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="371.89" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="371.89" y="596.91" width="23.82" height="23.82"><title>Columns — 24&quot;D x 24&quot;W</title></rect>
+    <rect x="870.59" y="1060.87" width="21.83" height="23.82"><title>Columns — 24&quot;D x 22&quot;W</title></rect>
+    <rect x="1495.82" y="1418.14" width="23.82" height="19.85"><title>Columns — 20&quot;D x 24&quot;W</title></rect>
+    <rect x="1211.99" y="1418.14" width="23.82" height="19.85"><title>Columns — 20&quot;D x 24&quot;W</title></rect>
+    <rect x="870.59" y="1241.99" width="19.85" height="23.82"><title>Columns — 24&quot;D x 20&quot;W</title></rect>
+    <rect x="1262.6" y="729.89" width="3.97" height="3.97"><title>Columns — 4&quot; Diameter (Spiral Stair Post)</title></rect>
+  </g>
+  <g class="cat-default" data-category="Vertical Circulation">
+    <rect x="278.6" y="708.06" width="99.24" height="82.37"><title>Vertical Circulation — 3500 lbs</title></rect>
+    <rect x="1402.53" y="781.5" width="99.24" height="82.37"><title>Vertical Circulation — 3500 lbs</title></rect>
+  </g>
+  <g class="cat-plumbing-fixtures" data-category="Plumbing Fixtures">
+    <rect x="1083.59" y="1158.13" width="35.73" height="47.64"><title>Plumbing Fixtures — 48&quot;x36&quot; - Private [34]</title></rect>
+    <rect x="1705.6" y="870.69" width="35.73" height="47.64"><title>Plumbing Fixtures — 48&quot;x36&quot; - Private [54]</title></rect>
+    <rect x="999.23" y="920.81" width="35.73" height="35.73"><title>Plumbing Fixtures — 36&quot;x36&quot; - Private [111]</title></rect>
+    <rect x="1366.81" y="880.87" width="35.73" height="35.73"><title>Plumbing Fixtures — 36&quot;x36&quot; - Private [139]</title></rect>
+    <rect x="1364.56" y="967.48" width="36.86" height="19.8"><title>Plumbing Fixtures — Toilet-Domestic-3D [138]</title></rect>
+    <rect x="1816.74" y="885.23" width="36.86" height="19.8"><title>Plumbing Fixtures — Toilet-Domestic-3D [55]</title></rect>
+    <rect x="999.73" y="890.81" width="36.86" height="19.8"><title>Plumbing Fixtures — Toilet-Domestic-3D [112]</title></rect>
+    <rect x="971.45" y="1169.94" width="36.86" height="19.8"><title>Plumbing Fixtures — Toilet-Domestic-3D [35]</title></rect>
+    <rect x="1129.99" y="1193.11" width="24.56" height="17.86"><title>Plumbing Fixtures — 18&quot; x 18&quot; [38]</title></rect>
+    <rect x="1670.37" y="863.13" width="24.56" height="17.86"><title>Plumbing Fixtures — 18&quot; x 18&quot; [58]</title></rect>
+    <rect x="1340.88" y="845.64" width="17.86" height="24.56"><title>Plumbing Fixtures — 18&quot; x 18&quot; [135]</title></rect>
+    <rect x="1087.69" y="849.86" width="17.86" height="24.56"><title>Plumbing Fixtures — 18&quot; x 18&quot; [107]</title></rect>
+    <rect x="1051.52" y="1207.87" width="18.86" height="18.86"><title>Plumbing Fixtures — 19&quot; x 19&quot; [36]</title></rect>
+    <rect x="1018.77" y="1207.87" width="18.86" height="18.86"><title>Plumbing Fixtures — 19&quot; x 19&quot; [37]</title></rect>
+    <rect x="1083.72" y="947.36" width="18.86" height="18.86"><title>Plumbing Fixtures — 19&quot; x 19&quot; [106]</title></rect>
+    <rect x="1767.07" y="847.37" width="18.86" height="18.86"><title>Plumbing Fixtures — 19&quot; x 19&quot; [212]</title></rect>
+    <rect x="1799.82" y="847.37" width="18.86" height="18.86"><title>Plumbing Fixtures — 19&quot; x 19&quot; [213]</title></rect>
+    <rect x="1308.5" y="959.02" width="18.86" height="18.86"><title>Plumbing Fixtures — 19&quot; x 19&quot; [133]</title></rect>
+  </g>
+  <g class="cat-default" data-category="Door Tags">
+    <rect x="1713.62" y="824.98" width="43.92" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1085.41" y="1219.35" width="43.92" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1105.92" y="1075.57" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1169.19" y="962.8" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1975.5" y="1076.5" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1043.77" y="1129.84" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1757.64" y="914.48" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1712.17" y="962.8" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1079.5" y="893.27" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1288.96" y="888.81" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="2004.88" y="1006.53" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="946.88" y="841.79" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1512.94" y="896.99" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="904.58" y="555.1" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1240.89" y="962.8" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="964" y="1031.84" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="2181.11" y="1408.29" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+    <rect x="1584.65" y="599.7" width="35.73" height="17.86"><title>Door Tags — Door Tag</title></rect>
+  </g>
+  <g class="cat-supports" data-category="Supports">
+    <rect x="1247.59" y="1077.99" width="23.82" height="199.48"><title>Supports — Carriage - 24&quot; Width</title></rect>
+    <rect x="1299.2" y="1081.96" width="23.82" height="101.23"><title>Supports — Carriage - 24&quot; Width</title></rect>
+    <rect x="1247.59" y="1077.99" width="23.82" height="90.31"><title>Supports — Carriage - 24&quot; Width</title></rect>
+    <rect x="814.77" y="685.99" width="1.99" height="169.45"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="860.42" y="685.99" width="1.98" height="169.45"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="860.42" y="630.15" width="1.98" height="61.53"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="811.04" y="630.15" width="51.36" height="1.99"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="778.29" y="630.15" width="41.38" height="1.99"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="778.29" y="675.8" width="38.46" height="1.98"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="983.98" y="651.28" width="0.25" height="153.05"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="940.06" y="651.28" width="0.25" height="153.05"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="1962.27" y="1138.53" width="0.25" height="141.92"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2006.18" y="1138.53" width="0.25" height="141.92"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="166.96" y="662.72" width="0.25" height="133.91"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="210.87" y="662.72" width="0.25" height="133.91"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="266.45" y="665.19" width="0.25" height="131.44"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="222.53" y="665.19" width="0.25" height="131.44"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="814.77" y="675.8" width="1.99" height="15.88"><title>Supports — Stringer - 2&quot; Width</title></rect>
+    <rect x="266.45" y="674.93" width="0.25" height="121.7"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="222.53" y="674.93" width="0.25" height="121.7"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="166.96" y="686.11" width="0.25" height="110.52"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="210.87" y="686.11" width="0.25" height="110.52"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="1962.39" y="1152.43" width="2.52" height="10.26"><title>Supports — Metal - Circular</title></rect>
+    <rect x="799.95" y="630.15" width="10.26" height="2.52"><title>Supports — Metal - Circular</title></rect>
+    <rect x="981.58" y="780.14" width="2.52" height="10.26"><title>Supports — Metal - Circular</title></rect>
+    <rect x="839.08" y="630.15" width="10.25" height="2.52"><title>Supports — Metal - Circular</title></rect>
+    <rect x="982.61" y="816.23" width="10.25" height="2.52"><title>Supports — Metal - Circular</title></rect>
+    <rect x="859.88" y="732.84" width="2.52" height="10.25"><title>Supports — Metal - Circular</title></rect>
+    <rect x="859.88" y="696.55" width="2.52" height="10.25"><title>Supports — Metal - Circular</title></rect>
+    <rect x="859.88" y="654.9" width="2.52" height="10.25"><title>Supports — Metal - Circular</title></rect>
+    <rect x="1953.63" y="1124.1" width="10.25" height="2.52"><title>Supports — Metal - Circular</title></rect>
+    <rect x="2061.76" y="1149.44" width="0.25" height="101.27"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2017.84" y="1149.44" width="0.25" height="101.27"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="688.42" width="0.25" height="101.27"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="928.4" y="688.42" width="0.25" height="101.27"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="166.96" y="605.84" width="99.74" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="166.96" y="605.84" width="99.74" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="1962.27" y="1336.02" width="99.74" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="602.86" width="99.74" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="605.34" width="99.74" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="1962.27" y="1236.78" width="0.25" height="99.49"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="983.98" y="602.86" width="0.25" height="99.49"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="1962.27" y="1149.44" width="0.25" height="98.61"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2006.18" y="1149.44" width="0.25" height="98.61"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="983.98" y="691.07" width="0.25" height="98.61"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="940.06" y="691.07" width="0.25" height="98.61"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2061.76" y="1247.33" width="0.25" height="88.94"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="602.86" width="0.25" height="88.94"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="166.96" y="605.84" width="0.25" height="83.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="266.45" y="605.84" width="0.25" height="81.63"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="983.98" y="605.34" width="0.25" height="79.64"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="605.34" width="0.25" height="74.12"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="266.45" y="605.84" width="0.25" height="70.71"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="983.98" y="593.43" width="0.25" height="68.97"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="593.43" width="0.25" height="62.61"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="166.96" y="605.84" width="0.25" height="60.24"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="652.61" width="0.25" height="57.81"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="928.4" y="652.61" width="0.25" height="57.81"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="210.87" y="665.63" width="0.25" height="23.45"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2006.18" y="1236.78" width="0.25" height="22.83"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="222.53" y="653.72" width="0.25" height="22.83"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="940.06" y="679.53" width="0.25" height="22.83"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="222.53" y="665.63" width="0.25" height="21.83"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="940.06" y="643.92" width="0.25" height="18.48"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="971.82" y="593.43" width="12.41" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="210.87" y="653.72" width="0.25" height="12.35"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2017.84" y="1247.33" width="0.25" height="12.27"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="928.4" y="679.53" width="0.25" height="12.27"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="928.4" y="643.92" width="0.25" height="12.12"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="928.4" y="643.92" width="11.91" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="210.87" y="653.72" width="11.91" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="210.87" y="665.63" width="11.91" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="928.4" y="679.53" width="11.91" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="2006.18" y="1259.36" width="11.91" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="884.48" y="593.43" width="11.91" height="0.25"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="971.82" y="589.96" width="0.25" height="3.72"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="896.15" y="589.96" width="0.25" height="3.72"><title>Supports — _Stringer - 1/4&quot; Plate</title></rect>
+    <rect x="1288.99" y="755.89" width="0.7" height="0.7"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1286.39" y="758.28" width="0.7" height="0.7"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1291.33" y="753.25" width="0.7" height="0.7"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1283.56" y="760.39" width="0.69" height="0.69"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1293.41" y="750.4" width="0.69" height="0.69"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1246.72" y="761.52" width="0.68" height="0.68"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1280.54" y="762.21" width="0.67" height="0.67"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1295.18" y="747.35" width="0.67" height="0.67"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1249.87" y="763.16" width="0.66" height="0.66"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1277.35" y="763.72" width="0.65" height="0.65"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1296.64" y="744.14" width="0.64" height="0.64"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1253.17" y="764.47" width="0.63" height="0.63"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1274.03" y="764.9" width="0.62" height="0.62"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1256.58" y="765.44" width="0.59" height="0.59"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1270.62" y="765.74" width="0.58" height="0.58"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="212.34" y="817.16" width="0.58" height="0.58"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1260.08" y="766.07" width="0.55" height="0.55"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1267.14" y="766.22" width="0.53" height="0.53"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="1263.63" y="766.35" width="0.51" height="0.51"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="810.64" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="742.9" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="749.6" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="766.36" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="783.11" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="789.82" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="752.95" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="756.31" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="763.01" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="769.71" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="776.41" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="779.76" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="793.17" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="796.52" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="803.22" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="807.05" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="807.05" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="210.75" y="814.14" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2011.89" y="1129.35" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="222.41" y="803.22" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="222.41" y="807.09" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="222.41" y="810.95" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="222.41" y="814.81" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="937.62" y="812.76" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="934.04" y="812.76" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="930.45" y="812.76" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="759.66" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="799.87" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="210.75" y="810.28" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="983.98" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="746.25" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="773.06" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="939.94" y="786.47" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="928.28" y="806.92" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1186.15" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1182.79" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1179.43" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1131.66" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2008.24" y="1129.35" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2015.53" y="1129.35" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2017.72" y="1131.66" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2017.72" y="1135.3" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1142.49" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1139.13" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1135.3" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1135.3" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1176.07" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1172.71" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1169.36" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1166" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1162.64" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1159.28" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1155.92" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1152.56" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1149.21" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1145.85" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="220.1" y="817.23" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="216.24" y="817.23" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="928.28" y="803.33" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="980.45" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="973.4" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="969.87" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="966.34" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="962.81" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="955.75" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="952.22" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="222.41" y="799.36" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="976.93" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1196.22" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1192.87" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1189.51" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="2006.06" y="1199.58" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="928.28" y="810.5" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="959.28" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+    <rect x="948.37" y="573.96" width="0.5" height="0.5"><title>Supports — 2&apos;-8&quot; Picket</title></rect>
+  </g>
+  <g class="cat-default" data-category="Food Service Equipment">
+    <rect x="431.56" y="680.83" width="95.27" height="56.57"><title>Food Service Equipment — Hood_wPSP</title></rect>
+    <rect x="526.84" y="680.83" width="95.27" height="56.57"><title>Food Service Equipment — Hood_wPSP</title></rect>
+  </g>
+  <g class="cat-curtain-wall-mullions" data-category="Curtain Wall Mullions">
+    <rect x="2155" y="1398.71" width="71.49" height="14.25"><title>Curtain Wall Mullions — 4&quot; x 5&quot; rectangular (Off Center)</title></rect>
+    <rect x="1304.28" y="1441.71" width="118.1" height="4.96"><title>Curtain Wall Mullions — 3&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2137.32" y="1432.15" width="39.68" height="11.27"><title>Curtain Wall Mullions — 4&quot; x 6.25&quot; rectangular (Off Center)</title></rect>
+    <rect x="2211.61" y="1422.37" width="39.68" height="11.27"><title>Curtain Wall Mullions — 4&quot; x 6.25&quot; rectangular (Off Center)</title></rect>
+    <rect x="2098.95" y="1437.27" width="39.18" height="11.2"><title>Curtain Wall Mullions — 4&quot; x 6.25&quot; rectangular (Off Center)</title></rect>
+    <rect x="2250.47" y="1417.32" width="39.18" height="11.2"><title>Curtain Wall Mullions — 4&quot; x 6.25&quot; rectangular (Off Center)</title></rect>
+    <rect x="2176.19" y="1427.49" width="36.23" height="10.81"><title>Curtain Wall Mullions — 4&quot; x 6.25&quot; rectangular (Off Center)</title></rect>
+    <rect x="2211.75" y="1423.64" width="38.28" height="9.87"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2138.7" y="1433.26" width="38.28" height="9.87"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2176.33" y="1428.59" width="36.07" height="9.58"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="194" y="585" width="45.16" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="194" y="585" width="45.16" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="1453.63" y="1441.71" width="39.71" height="4.96"><title>Curtain Wall Mullions — 3&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1238.29" y="1441.71" width="39.7" height="4.96"><title>Curtain Wall Mullions — 3&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1660.57" y="1462.37" width="37.96" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1586.88" y="1462.37" width="37.96" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1765.27" y="1462.37" width="37.47" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1546.93" y="1462.37" width="37.46" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1805.21" y="1462.37" width="36.78" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1880.2" y="1462.37" width="36.66" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1991.05" y="1408.72" width="35.73" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1624.84" y="1462.37" width="35.73" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1919.34" y="1462.37" width="34.77" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1701.01" y="1462.37" width="34.49" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2242.72" y="1400.84" width="7.74" height="22.05"><title>Curtain Wall Mullions — 4&quot; x 5&quot; rectangular (Off Center)</title></rect>
+    <rect x="2134.49" y="1415.09" width="7.74" height="22.05"><title>Curtain Wall Mullions — 4&quot; x 5&quot; rectangular (Off Center)</title></rect>
+    <rect x="1844.48" y="1462.37" width="33.25" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1424.86" y="1441.71" width="26.29" height="4.96"><title>Curtain Wall Mullions — 3&quot; x 5&quot; rectangular</title></rect>
+    <rect x="934.35" y="585" width="23.57" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="1280.47" y="1441.71" width="21.34" height="4.96"><title>Curtain Wall Mullions — 3&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2228.3" y="1396.57" width="14.42" height="6.73"><title>Curtain Wall Mullions — 4&quot; x 5&quot; rectangular (Off Center)</title></rect>
+    <rect x="2138.76" y="1408.36" width="14.42" height="6.73"><title>Curtain Wall Mullions — 4&quot; x 5&quot; rectangular (Off Center)</title></rect>
+    <rect x="957.92" y="585" width="14.14" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="181.1" y="585" width="10.42" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="181.1" y="585" width="10.42" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="241.64" y="585" width="10.42" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="241.64" y="585" width="10.42" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="2245.54" y="1422.08" width="6.96" height="6.96"><title>Curtain Wall Mullions — 5&quot; V Corner</title></rect>
+    <rect x="2136.08" y="1436.49" width="6.96" height="6.96"><title>Curtain Wall Mullions — 5&quot; V Corner</title></rect>
+    <rect x="2242.07" y="1395.93" width="5.57" height="5.57"><title>Curtain Wall Mullions — 5&quot; x 5&quot; Quad Corner</title></rect>
+    <rect x="2133.84" y="1410.17" width="5.57" height="5.57"><title>Curtain Wall Mullions — 5&quot; x 5&quot; Quad Corner</title></rect>
+    <rect x="2136.09" y="1437.1" width="3.27" height="6.47"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="2136.09" y="1437.1" width="3.27" height="6.47"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="2249.25" y="1422.21" width="3.27" height="6.47"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="2249.25" y="1422.21" width="3.27" height="6.47"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="2152.53" y="1408.04" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2096.63" y="1443.42" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2096.63" y="1443.42" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2096.63" y="1443.42" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2175.1" y="1433.09" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2210.52" y="1428.43" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2289" y="1418.1" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2225.84" y="1398.39" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2289" y="1418.1" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2289" y="1418.1" width="3.11" height="5.24"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1584.4" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1584.4" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1698.53" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1698.53" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1916.86" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1916.86" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1802.73" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="1802.73" y="1461.25" width="2.48" height="6.2"><title>Curtain Wall Mullions — 2.5&quot; x 6.25&quot; rectangular</title></rect>
+    <rect x="569.12" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1842" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1735.5" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1735.5" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1877.72" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1988.57" y="1408.72" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1988.57" y="1408.72" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="252.06" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="252.06" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="969.59" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="628.37" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="864.14" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="806.13" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1954.12" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1954.12" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1762.79" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1659.33" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1762.79" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2026.77" y="1408.72" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2053.57" y="1408.72" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2026.77" y="1408.72" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="2053.57" y="1408.72" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1544.45" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1544.45" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1623.6" y="1462.37" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="450.62" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="509.87" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="687.63" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="746.88" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="392.61" y="993.13" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="896.15" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="956.68" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="934.35" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="1235.81" y="1441.71" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1493.34" y="1441.71" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1451.15" y="1441.71" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1422.38" y="1441.71" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1277.98" y="1441.71" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="1301.8" y="1441.71" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular</title></rect>
+    <rect x="178.62" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="178.62" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Orange)</title></rect>
+    <rect x="191.52" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="191.52" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="239.16" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+    <rect x="239.16" y="585" width="2.48" height="4.96"><title>Curtain Wall Mullions — 2.5&quot; x 5&quot; rectangular (Black)</title></rect>
+  </g>
+  <g class="cat-default" data-category="Window Tags">
+    <rect x="1045.13" y="577.32" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1144.38" y="577.32" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1342.86" y="577.32" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1888.7" y="577.32" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1442.11" y="577.32" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1789.46" y="577.32" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="517.28" y="579.6" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="438.39" y="579.6" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="318.8" y="579.6" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="586.26" y="579.6" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1156.04" y="1409.16" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1001.22" y="1409.16" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="923.81" y="1409.16" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1314.21" y="1410.89" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1405.51" y="1410.89" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1359.86" y="1410.89" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+    <rect x="1078.63" y="1409.16" width="23.82" height="23.82"><title>Window Tags — Window Tag</title></rect>
+  </g>
+  <g class="cat-curtain-panels" data-category="Curtain Panels">
+    <rect x="2138.92" y="1425.36" width="111.02" height="17.03"><title>Curtain Panels — Solid</title></rect>
+    <rect x="1805.21" y="1464.11" width="111.65" height="2.48"><title>Curtain Panels — Solid</title></rect>
+    <rect x="1586.88" y="1464.11" width="111.65" height="2.48"><title>Curtain Panels — Solid</title></rect>
+    <rect x="2099.32" y="1440.26" width="37.47" height="7.35"><title>Curtain Panels — Solid</title></rect>
+    <rect x="2252.08" y="1420.14" width="37.47" height="7.35"><title>Curtain Panels — Solid</title></rect>
+    <rect x="2099.52" y="1441.73" width="37.27" height="5.87"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="2252.27" y="1421.62" width="37.27" height="5.87"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="2213.41" y="1426.84" width="36.54" height="5.78"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="2139.12" y="1436.62" width="36.54" height="5.78"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="2177.98" y="1431.95" width="33.09" height="5.32"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1304.28" y="1444.94" width="118.1" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="2136.21" y="1415.19" width="5.28" height="21.72"><title>Curtain Panels — Solid</title></rect>
+    <rect x="2243.46" y="1401.07" width="5.28" height="21.72"><title>Curtain Panels — Solid</title></rect>
+    <rect x="1765.27" y="1464.11" width="37.47" height="2.48"><title>Curtain Panels — Solid</title></rect>
+    <rect x="1546.93" y="1464.11" width="37.46" height="2.48"><title>Curtain Panels — Solid</title></rect>
+    <rect x="1919.34" y="1464.11" width="34.77" height="2.48"><title>Curtain Panels — Solid</title></rect>
+    <rect x="1701.01" y="1464.11" width="34.49" height="2.48"><title>Curtain Panels — Solid</title></rect>
+    <rect x="2138.99" y="1410.08" width="14.1" height="4.27"><title>Curtain Panels — Solid</title></rect>
+    <rect x="2228.53" y="1398.3" width="14.1" height="4.27"><title>Curtain Panels — Solid</title></rect>
+    <rect x="453.1" y="996.36" width="56.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="749.36" y="996.36" width="56.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="630.86" y="996.36" width="56.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="690.11" y="996.36" width="56.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="512.35" y="996.36" width="56.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="571.61" y="996.36" width="56.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="395.09" y="996.36" width="55.53" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="808.61" y="996.36" width="55.53" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="194" y="585.74" width="45.16" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1453.63" y="1444.94" width="39.71" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1238.29" y="1444.94" width="39.7" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1765.27" y="1465.6" width="37.47" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1546.93" y="1465.6" width="37.46" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1805.21" y="1465.6" width="36.78" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1661.81" y="1465.6" width="36.72" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1586.88" y="1465.6" width="36.72" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1880.2" y="1465.6" width="36.66" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1991.05" y="1411.94" width="35.73" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1991.05" y="1411.94" width="35.73" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1919.34" y="1465.6" width="34.77" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1701.01" y="1465.6" width="34.49" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1626.08" y="1465.6" width="33.25" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1844.48" y="1465.6" width="33.25" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1424.86" y="1444.94" width="26.29" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="2029.26" y="1411.94" width="24.31" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="1280.47" y="1444.94" width="21.34" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="936.83" y="585.74" width="19.85" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="181.1" y="585.74" width="10.42" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="241.64" y="585.74" width="10.42" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+    <rect x="959.16" y="585.74" width="10.42" height="0.99"><title>Curtain Panels — Glazed</title></rect>
+  </g>
+  <g class="cat-default" data-category="Lighting Fixtures">
+    <rect x="1483.91" y="1325.85" width="17.99" height="23.82"><title>Lighting Fixtures — 100W - 120V [311]</title></rect>
+    <rect x="1483.91" y="1159.12" width="17.99" height="23.82"><title>Lighting Fixtures — 100W - 120V [312]</title></rect>
+    <rect x="1229.73" y="1325.85" width="17.99" height="23.82"><title>Lighting Fixtures — 100W - 120V [313]</title></rect>
+    <rect x="1229.73" y="1159.12" width="17.99" height="23.82"><title>Lighting Fixtures — 100W - 120V [314]</title></rect>
+    <rect x="1959.3" y="1290.2" width="20.69" height="20.69"><title>Lighting Fixtures — 100W - 120V [353]</title></rect>
+    <rect x="2044.28" y="1290.2" width="20.69" height="20.69"><title>Lighting Fixtures — 100W - 120V [354]</title></rect>
+    <rect x="163.99" y="618.94" width="20.69" height="20.69"><title>Lighting Fixtures — 100W - 120V [420]</title></rect>
+    <rect x="248.97" y="618.94" width="20.69" height="20.69"><title>Lighting Fixtures — 100W - 120V [432]</title></rect>
+    <rect x="881.52" y="618.94" width="20.69" height="20.69"><title>Lighting Fixtures — 100W - 120V [372]</title></rect>
+    <rect x="966.5" y="618.94" width="20.69" height="20.69"><title>Lighting Fixtures — 100W - 120V [384]</title></rect>
+    <rect x="1960.52" y="1371.8" width="18.25" height="18.25"><title>Lighting Fixtures — 150W - 120V [332]</title></rect>
+    <rect x="2045.5" y="1371.8" width="18.25" height="18.25"><title>Lighting Fixtures — 150W - 120V [333]</title></rect>
+  </g>
+  <g class="cat-default" data-category="Generic Models">
+    <rect x="1280.47" y="943.64" width="17.86" height="48.63"><title>Generic Models — 18&quot; Deep</title></rect>
+    <rect x="1112.62" y="946.86" width="17.86" height="45.4"><title>Generic Models — 18&quot; Deep</title></rect>
+    <rect x="1083.59" y="1135.42" width="38.09" height="17.86"><title>Generic Models — 18&quot; Deep</title></rect>
+    <rect x="1703.24" y="923.17" width="38.08" height="17.86"><title>Generic Models — 18&quot; Deep</title></rect>
+    <rect x="2167.08" y="1431.48" width="55.15" height="8.23"><title>Generic Models — 10&quot; Trebuchet MS</title></rect>
+    <rect x="178.55" y="885.08" width="186.35" height="0.99"><title>Generic Models — 18&quot; Trebuchet MS</title></rect>
+    <rect x="1309.08" y="1477.79" width="103.53" height="0.99"><title>Generic Models — 10&quot; Trebuchet MS</title></rect>
+    <rect x="1311.16" y="1445.93" width="99.37" height="0.99"><title>Generic Models — 10&quot; Trebuchet MS</title></rect>
+    <rect x="1833.12" y="1466.59" width="55.84" height="0.99"><title>Generic Models — 10&quot; Trebuchet MS</title></rect>
+    <rect x="1624.32" y="1466.59" width="36.76" height="0.99"><title>Generic Models — 10&quot; Trebuchet MS</title></rect>
+  </g>
+  <g class="cat-default" data-category="Entourage">
+    <rect x="993.31" y="1184.58" width="28.23" height="28.23"><title>Entourage — Alex</title></rect>
+    <rect x="406.19" y="849.63" width="26.5" height="26.5"><title>Entourage — YinYin</title></rect>
+    <rect x="432.97" y="845.48" width="26.23" height="26.23"><title>Entourage — Dwayne</title></rect>
+  </g>
+  <g class="cat-default" data-category="Rectangular Straight Wall Opening">
+    <rect x="1078.75" y="1159.99" width="4.84" height="43.67"><title>Rectangular Straight Wall Opening — Rectangular Straight Wall Opening</title></rect>
+  </g>
+  <g class="cat-curtain-wall-grids" data-category="Curtain Wall Grids">
+    <rect x="2153.31" y="1404.75" width="1.55" height="11.81"><title>Curtain Wall Grids — Grid Line</title></rect>
+    <rect x="2175.88" y="1429.81" width="1.55" height="11.81"><title>Curtain Wall Grids — Grid Line</title></rect>
+    <rect x="2211.3" y="1425.15" width="1.55" height="11.81"><title>Curtain Wall Grids — Grid Line</title></rect>
+    <rect x="2226.62" y="1395.1" width="1.55" height="11.81"><title>Curtain Wall Grids — Grid Line</title></rect>
+    <rect x="2250.17" y="1420.03" width="1.55" height="11.81"><title>Curtain Wall Grids — Grid Line</title></rect>
+    <rect x="2137.01" y="1434.93" width="1.55" height="11.81"><title>Curtain Wall Grids — Grid Line</title></rect>
+  </g>
+  <g class="cat-default" data-category="&lt;Space Separation&gt;">
+  </g>
+  <g class="rotation-arrow">
+    <line x1="222.66" y1="799.61" x2="222.66" y2="793.66"/>
+    <line x1="222.66" y1="803.47" x2="222.66" y2="797.52"/>
+    <line x1="222.66" y1="807.34" x2="222.66" y2="801.38"/>
+    <line x1="222.66" y1="811.2" x2="222.66" y2="805.24"/>
+    <line x1="222.66" y1="815.06" x2="222.66" y2="809.11"/>
+    <line x1="220.35" y1="817.47" x2="226.31" y2="817.47"/>
+    <line x1="216.49" y1="817.47" x2="222.44" y2="817.47"/>
+    <line x1="212.63" y1="817.44" x2="218.49" y2="818.5"/>
+    <line x1="210.99" y1="814.39" x2="210.99" y2="820.34"/>
+    <line x1="2006.31" y1="1131.9" x2="2006.31" y2="1137.86"/>
+    <line x1="2008.49" y1="1129.59" x2="2002.54" y2="1129.59"/>
+    <line x1="2012.14" y1="1129.59" x2="2006.18" y2="1129.59"/>
+    <line x1="2015.78" y1="1129.59" x2="2009.83" y2="1129.59"/>
+    <line x1="2017.97" y1="1131.9" x2="2017.97" y2="1125.95"/>
+    <line x1="2017.97" y1="1135.55" x2="2017.97" y2="1129.59"/>
+    <line x1="1987.78" y1="1074.27" x2="1973.64" y2="1074.27"/>
+    <line x1="2006.31" y1="1199.83" x2="2006.31" y2="1205.79"/>
+    <line x1="2006.31" y1="1196.47" x2="2006.31" y2="1202.43"/>
+    <line x1="2006.31" y1="1193.11" x2="2006.31" y2="1199.07"/>
+    <line x1="2006.31" y1="1189.76" x2="2006.31" y2="1195.71"/>
+    <line x1="2006.31" y1="1186.4" x2="2006.31" y2="1192.35"/>
+    <line x1="2006.31" y1="1183.04" x2="2006.31" y2="1188.99"/>
+    <line x1="2006.31" y1="1179.68" x2="2006.31" y2="1185.63"/>
+    <line x1="2006.31" y1="1176.32" x2="2006.31" y2="1182.28"/>
+    <line x1="2006.31" y1="1172.96" x2="2006.31" y2="1178.92"/>
+    <line x1="2006.31" y1="1169.61" x2="2006.31" y2="1175.56"/>
+    <line x1="2006.31" y1="1166.25" x2="2006.31" y2="1172.2"/>
+    <line x1="2006.31" y1="1162.89" x2="2006.31" y2="1168.84"/>
+    <line x1="2006.31" y1="1159.53" x2="2006.31" y2="1165.48"/>
+    <line x1="2006.31" y1="1156.17" x2="2006.31" y2="1162.13"/>
+    <line x1="2006.31" y1="1152.81" x2="2006.31" y2="1158.77"/>
+    <line x1="2006.31" y1="1149.45" x2="2006.31" y2="1155.41"/>
+    <line x1="2006.31" y1="1146.1" x2="2006.31" y2="1152.05"/>
+    <line x1="2006.31" y1="1142.74" x2="2006.31" y2="1148.69"/>
+    <line x1="2006.31" y1="1139.38" x2="2006.31" y2="1145.33"/>
+    <line x1="1964.62" y1="1161.19" x2="1964.62" y2="1155.24"/>
+    <line x1="1962.39" y1="1124.38" x2="1956.44" y2="1124.38"/>
+    <line x1="1452.16" y1="872.8" x2="1480.74" y2="872.8"/>
+    <line x1="1119.32" y1="1158.13" x2="1105.03" y2="1158.13"/>
+    <line x1="970.95" y1="1144.54" x2="970.95" y2="1130.21"/>
+    <line x1="990.78" y1="1179.84" x2="990.78" y2="1168.78"/>
+    <line x1="1060.95" y1="1213.97" x2="1055" y2="1213.97"/>
+    <line x1="1028.2" y1="1213.97" x2="1022.25" y2="1213.97"/>
+    <line x1="1043.03" y1="1229.46" x2="1021.59" y2="1229.46"/>
+    <line x1="1126.51" y1="1215.68" x2="1126.51" y2="1185.46"/>
+    <line x1="1126.51" y1="1241.74" x2="1126.51" y2="1218.52"/>
+    <line x1="1138.22" y1="1152.67" x2="1138.22" y2="1142.9"/>
+    <line x1="1126.51" y1="1176.24" x2="1126.51" y2="1159.45"/>
+    <line x1="1138.92" y1="1202.04" x2="1138.92" y2="1194.67"/>
+    <line x1="1138.67" y1="1228.34" x2="1138.67" y2="1235.78"/>
+    <line x1="963.75" y1="1128.35" x2="963.75" y2="1162.37"/>
+    <line x1="1122.92" y1="1229.83" x2="1122.92" y2="1237.05"/>
+    <line x1="1122.92" y1="1204.52" x2="1122.92" y2="1212.56"/>
+    <line x1="1122.92" y1="1179.22" x2="1122.92" y2="1186.44"/>
+    <line x1="1124.1" y1="1153.91" x2="1124.1" y2="1161.95"/>
+    <line x1="955.7" y1="1185.16" x2="955.7" y2="1169.67"/>
+    <line x1="1705.6" y1="918.33" x2="1719.89" y2="918.33"/>
+    <line x1="1854.59" y1="929.06" x2="1854.59" y2="943.4"/>
+    <line x1="1793.18" y1="901.52" x2="1811.04" y2="901.52"/>
+    <line x1="1769.55" y1="946.99" x2="1756.52" y2="946.99"/>
+    <line x1="1834.27" y1="895.13" x2="1834.27" y2="906.19"/>
+    <line x1="1794.86" y1="841.04" x2="1778.78" y2="841.04"/>
+    <line x1="1698.4" y1="858.42" x2="1698.4" y2="888.64"/>
+    <line x1="1698.4" y1="832.36" x2="1698.4" y2="855.58"/>
+    <line x1="1686.69" y1="921.43" x2="1686.69" y2="931.2"/>
+    <line x1="1698.4" y1="897.86" x2="1698.4" y2="914.65"/>
+    <line x1="1686" y1="872.06" x2="1686" y2="879.42"/>
+    <line x1="1686.25" y1="845.76" x2="1686.25" y2="838.32"/>
+    <line x1="1861.16" y1="945.75" x2="1861.16" y2="911.47"/>
+    <line x1="1702" y1="843.84" x2="1702" y2="836.61"/>
+    <line x1="1702" y1="869.14" x2="1702" y2="861.1"/>
+    <line x1="1702" y1="894.45" x2="1702" y2="887.23"/>
+    <line x1="1700.82" y1="919.76" x2="1700.82" y2="911.72"/>
+    <line x1="1869.21" y1="888.94" x2="1869.21" y2="904.43"/>
+    <line x1="1117.83" y1="1072.84" x2="1105.14" y2="1072.84"/>
+    <line x1="1724.08" y1="995.31" x2="1736.77" y2="995.31"/>
+    <line x1="1105.55" y1="956.79" x2="1105.55" y2="971.08"/>
+    <line x1="1109.02" y1="956.79" x2="1109.02" y2="946.07"/>
+    <line x1="1124.4" y1="881.49" x2="1131.63" y2="881.49"/>
+    <line x1="1099.1" y1="881.49" x2="1107.14" y2="881.49"/>
+    <line x1="1073.79" y1="881.49" x2="1081.01" y2="881.49"/>
+    <line x1="1048.48" y1="881.49" x2="1056.52" y2="881.49"/>
+    <line x1="1218.07" y1="629.16" x2="1218.07" y2="666.67"/>
+    <line x1="1210.02" y1="683.98" x2="1210.02" y2="661.35"/>
+    <line x1="1105.55" y1="992.27" x2="1105.55" y2="974.4"/>
+    <line x1="1089.82" y1="956.79" x2="1089.82" y2="962.74"/>
+    <line x1="1109.02" y1="908.16" x2="1109.02" y2="895.13"/>
+    <line x1="999.23" y1="956.54" x2="1009.95" y2="956.54"/>
+    <line x1="1019.06" y1="900.71" x2="1019.06" y2="889.66"/>
+    <line x1="999.23" y1="977.38" x2="999.23" y2="963.05"/>
+    <line x1="1110.25" y1="877.89" x2="1080.03" y2="877.89"/>
+    <line x1="1136.31" y1="877.89" x2="1113.09" y2="877.89"/>
+    <line x1="1047.24" y1="866.18" x2="1037.47" y2="866.18"/>
+    <line x1="1070.81" y1="877.89" x2="1054.03" y2="877.89"/>
+    <line x1="1096.62" y1="865.48" x2="1089.25" y2="865.48"/>
+    <line x1="1122.92" y1="865.73" x2="1130.36" y2="865.73"/>
+    <line x1="1212.11" y1="944.75" x2="1212.11" y2="916.17"/>
+    <line x1="1212.11" y1="789.93" x2="1212.11" y2="768.5"/>
+    <line x1="1181.1" y1="995.31" x2="1193.79" y2="995.31"/>
+    <line x1="1019.44" y1="875.22" x2="1009.61" y2="875.22"/>
+    <line x1="1305.52" y1="968.45" x2="1305.52" y2="982.74"/>
+    <line x1="1301.93" y1="968.57" x2="1301.93" y2="957.85"/>
+    <line x1="1305.52" y1="992.27" x2="1305.52" y2="977.98"/>
+    <line x1="1321.26" y1="968.45" x2="1321.26" y2="974.4"/>
+    <line x1="1377.6" y1="877.27" x2="1384.82" y2="877.27"/>
+    <line x1="1352.29" y1="877.27" x2="1360.33" y2="877.27"/>
+    <line x1="1326.99" y1="877.27" x2="1334.21" y2="877.27"/>
+    <line x1="1301.68" y1="877.27" x2="1309.72" y2="877.27"/>
+    <line x1="1363.44" y1="873.67" x2="1333.23" y2="873.67"/>
+    <line x1="1389.51" y1="873.67" x2="1366.29" y2="873.67"/>
+    <line x1="1300.44" y1="861.96" x2="1290.67" y2="861.96"/>
+    <line x1="1324.01" y1="873.67" x2="1307.22" y2="873.67"/>
+    <line x1="1349.81" y1="861.27" x2="1342.44" y2="861.27"/>
+    <line x1="1376.11" y1="861.51" x2="1383.55" y2="861.51"/>
+    <line x1="1283.26" y1="903.69" x2="1283.26" y2="891.37"/>
+    <line x1="1382.09" y1="977.38" x2="1382.09" y2="988.44"/>
+    <line x1="1402.53" y1="880.87" x2="1391.82" y2="880.87"/>
+    <line x1="1401.42" y1="937.87" x2="1401.42" y2="952.2"/>
+    <line x1="2034.4" y1="1021.42" x2="2034.4" y2="1009.1"/>
+    <line x1="958.42" y1="873.8" x2="972.56" y2="873.8"/>
+    <line x1="940.19" y1="810.89" x2="940.19" y2="804.93"/>
+    <line x1="937.87" y1="813.01" x2="943.82" y2="813.01"/>
+    <line x1="934.29" y1="813.01" x2="940.24" y2="813.01"/>
+    <line x1="930.7" y1="813.01" x2="936.66" y2="813.01"/>
+    <line x1="928.52" y1="810.75" x2="928.52" y2="816.7"/>
+    <line x1="928.52" y1="807.16" x2="928.52" y2="813.12"/>
+    <line x1="928.52" y1="803.58" x2="928.52" y2="809.53"/>
+    <line x1="940.19" y1="743.15" x2="940.19" y2="737.2"/>
+    <line x1="940.19" y1="746.5" x2="940.19" y2="740.55"/>
+    <line x1="940.19" y1="749.85" x2="940.19" y2="743.9"/>
+    <line x1="940.19" y1="753.2" x2="940.19" y2="747.25"/>
+    <line x1="940.19" y1="756.55" x2="940.19" y2="750.6"/>
+    <line x1="940.19" y1="759.91" x2="940.19" y2="753.95"/>
+    <line x1="940.19" y1="763.26" x2="940.19" y2="757.3"/>
+    <line x1="940.19" y1="766.61" x2="940.19" y2="760.65"/>
+    <line x1="940.19" y1="769.96" x2="940.19" y2="764"/>
+    <line x1="940.19" y1="773.31" x2="940.19" y2="767.35"/>
+    <line x1="940.19" y1="776.66" x2="940.19" y2="770.71"/>
+    <line x1="940.19" y1="780.01" x2="940.19" y2="774.06"/>
+    <line x1="940.19" y1="783.36" x2="940.19" y2="777.41"/>
+    <line x1="940.19" y1="786.71" x2="940.19" y2="780.76"/>
+    <line x1="940.19" y1="790.06" x2="940.19" y2="784.11"/>
+    <line x1="940.19" y1="793.41" x2="940.19" y2="787.46"/>
+    <line x1="940.19" y1="796.77" x2="940.19" y2="790.81"/>
+    <line x1="940.19" y1="800.12" x2="940.19" y2="794.16"/>
+    <line x1="940.19" y1="803.47" x2="940.19" y2="797.51"/>
+    <line x1="1507.73" y1="911.51" x2="1507.73" y2="925.57"/>
+    <line x1="328.23" y1="797.38" x2="356.81" y2="797.38"/>
+    <line x1="254.54" y1="587.48" x2="248.58" y2="587.48"/>
+    <line x1="254.54" y1="587.48" x2="248.58" y2="587.48"/>
+    <line x1="178.62" y1="587.48" x2="172.66" y2="587.48"/>
+    <line x1="178.62" y1="587.48" x2="172.66" y2="587.48"/>
+    <line x1="191.52" y1="587.48" x2="185.56" y2="587.48"/>
+    <line x1="239.16" y1="587.48" x2="225.61" y2="587.48"/>
+    <line x1="191.52" y1="587.48" x2="185.56" y2="587.48"/>
+    <line x1="239.16" y1="587.48" x2="225.61" y2="587.48"/>
+    <line x1="192.76" y1="587.48" x2="186.8" y2="587.48"/>
+    <line x1="192.76" y1="587.48" x2="186.8" y2="587.48"/>
+    <line x1="252.06" y1="587.48" x2="246.1" y2="587.48"/>
+    <line x1="252.06" y1="587.48" x2="246.1" y2="587.48"/>
+    <line x1="240.4" y1="587.48" x2="234.44" y2="587.48"/>
+    <line x1="240.4" y1="587.48" x2="234.44" y2="587.48"/>
+    <line x1="972.07" y1="587.48" x2="966.11" y2="587.48"/>
+    <line x1="896.15" y1="587.48" x2="890.19" y2="587.48"/>
+    <line x1="957.92" y1="587.48" x2="951.97" y2="587.48"/>
+    <line x1="957.92" y1="587.48" x2="951.97" y2="587.48"/>
+    <line x1="934.35" y1="587.48" x2="927.28" y2="587.48"/>
+    <line x1="935.6" y1="587.48" x2="929.64" y2="587.48"/>
+    <line x1="1252.8" y1="995.31" x2="1240.11" y2="995.31"/>
+    <line x1="1247.06" y1="761.86" x2="1241.92" y2="758.86"/>
+    <line x1="1250.2" y1="763.49" x2="1244.78" y2="761.02"/>
+    <line x1="1253.48" y1="764.78" x2="1247.84" y2="762.88"/>
+    <line x1="1256.88" y1="765.74" x2="1251.07" y2="764.42"/>
+    <line x1="1260.36" y1="766.35" x2="1254.45" y2="765.62"/>
+    <line x1="1263.88" y1="766.6" x2="1257.93" y2="766.48"/>
+    <line x1="1267.41" y1="766.49" x2="1261.47" y2="766.97"/>
+    <line x1="1270.91" y1="766.03" x2="1265.05" y2="767.11"/>
+    <line x1="1274.34" y1="765.21" x2="1268.63" y2="766.88"/>
+    <line x1="1277.68" y1="764.04" x2="1272.16" y2="766.29"/>
+    <line x1="1280.87" y1="762.55" x2="1275.62" y2="765.34"/>
+    <line x1="1283.9" y1="760.74" x2="1278.96" y2="764.05"/>
+    <line x1="1286.74" y1="758.63" x2="1282.15" y2="762.43"/>
+    <line x1="1289.34" y1="756.24" x2="1285.16" y2="760.48"/>
+    <line x1="1291.68" y1="753.6" x2="1287.96" y2="758.25"/>
+    <line x1="1293.75" y1="750.74" x2="1290.51" y2="755.74"/>
+    <line x1="1295.51" y1="747.68" x2="1292.8" y2="752.98"/>
+    <line x1="1296.96" y1="744.46" x2="1294.8" y2="750.01"/>
+    <line x1="860.17" y1="734.33" x2="860.17" y2="740.29"/>
+    <line x1="860.17" y1="698.04" x2="860.17" y2="703.99"/>
+    <line x1="860.17" y1="656.39" x2="860.17" y2="662.34"/>
+    <line x1="801.43" y1="632.39" x2="807.39" y2="632.39"/>
+    <line x1="457.37" y1="704.09" x2="457.37" y2="723.74"/>
+    <line x1="457.37" y1="787.45" x2="457.37" y2="767.8"/>
+    <line x1="289.15" y1="606.33" x2="302.25" y2="606.33"/>
+    <line x1="327.85" y1="628.17" x2="327.85" y2="615.07"/>
+    <line x1="366.56" y1="606.33" x2="353.46" y2="606.33"/>
+    <line x1="478.58" y1="650" x2="461.56" y2="650"/>
+    <line x1="401.17" y1="606.33" x2="414.27" y2="606.33"/>
+    <line x1="439.88" y1="628.17" x2="439.88" y2="615.07"/>
+    <line x1="641.34" y1="620.23" x2="632.23" y2="620.23"/>
+    <line x1="521.25" y1="628.17" x2="521.25" y2="615.07"/>
+    <line x1="559.96" y1="650" x2="542.94" y2="650"/>
+    <line x1="602.63" y1="628.17" x2="602.63" y2="615.07"/>
+    <line x1="646.8" y1="632.14" x2="653.94" y2="632.14"/>
+    <line x1="306.89" y1="872.93" x2="306.89" y2="865.78"/>
+    <line x1="1729.67" y1="839.87" x2="1739.19" y2="839.87"/>
+    <line x1="993.53" y1="1046.73" x2="993.53" y2="1059.23"/>
+    <line x1="1541.44" y1="896.62" x2="1559.3" y2="896.62"/>
+    <line x1="555.9" y1="708.1" x2="552.16" y2="701.62"/>
+    <line x1="530.19" y1="693.25" x2="524.23" y2="693.25"/>
+    <line x1="504.47" y1="708.1" x2="500.73" y2="714.58"/>
+    <line x1="504.47" y1="737.79" x2="508.21" y2="744.27"/>
+    <line x1="555.9" y1="737.79" x2="559.64" y2="731.31"/>
+    <line x1="530.19" y1="752.64" x2="536.14" y2="752.64"/>
+    <line x1="653.91" y1="708.1" x2="650.17" y2="701.62"/>
+    <line x1="628.19" y1="693.25" x2="622.23" y2="693.25"/>
+    <line x1="602.47" y1="708.1" x2="598.73" y2="714.58"/>
+    <line x1="602.47" y1="737.79" x2="606.21" y2="744.27"/>
+    <line x1="653.91" y1="737.79" x2="657.65" y2="731.31"/>
+    <line x1="628.19" y1="752.64" x2="634.14" y2="752.64"/>
+    <line x1="753.15" y1="708.1" x2="749.41" y2="701.62"/>
+    <line x1="727.43" y1="693.25" x2="721.48" y2="693.25"/>
+    <line x1="701.72" y1="708.1" x2="697.97" y2="714.58"/>
+    <line x1="701.72" y1="737.79" x2="705.46" y2="744.27"/>
+    <line x1="753.15" y1="737.79" x2="756.89" y2="731.31"/>
+    <line x1="727.43" y1="752.64" x2="733.39" y2="752.64"/>
+    <line x1="485.03" y1="833.23" x2="501.46" y2="816.8"/>
+    <line x1="472.46" y1="820.65" x2="467.06" y2="826.04"/>
+    <line x1="472.45" y1="845.8" x2="477.84" y2="851.2"/>
+    <line x1="497.61" y1="820.65" x2="492.22" y2="815.26"/>
+    <line x1="497.61" y1="845.81" x2="503" y2="840.42"/>
+    <line x1="545.1" y1="799.49" x2="561.53" y2="783.06"/>
+    <line x1="532.52" y1="786.91" x2="527.13" y2="792.3"/>
+    <line x1="532.52" y1="812.06" x2="537.91" y2="817.45"/>
+    <line x1="557.68" y1="786.91" x2="552.29" y2="781.52"/>
+    <line x1="557.67" y1="812.07" x2="563.07" y2="806.67"/>
+    <line x1="606.11" y1="833.23" x2="622.54" y2="816.8"/>
+    <line x1="593.53" y1="820.65" x2="588.14" y2="826.04"/>
+    <line x1="593.53" y1="845.8" x2="598.92" y2="851.2"/>
+    <line x1="618.69" y1="820.65" x2="613.3" y2="815.26"/>
+    <line x1="618.68" y1="845.81" x2="624.07" y2="840.42"/>
+    <line x1="745.05" y1="839.18" x2="761.48" y2="822.75"/>
+    <line x1="732.47" y1="826.6" x2="727.08" y2="832"/>
+    <line x1="732.47" y1="851.76" x2="737.86" y2="857.15"/>
+    <line x1="757.63" y1="826.61" x2="752.23" y2="821.22"/>
+    <line x1="757.62" y1="851.76" x2="763.01" y2="846.37"/>
+    <line x1="673.12" y1="803.46" x2="689.55" y2="787.03"/>
+    <line x1="660.55" y1="790.88" x2="655.16" y2="796.27"/>
+    <line x1="660.55" y1="816.03" x2="665.94" y2="821.42"/>
+    <line x1="685.7" y1="790.88" x2="680.31" y2="785.49"/>
+    <line x1="685.7" y1="816.03" x2="691.09" y2="810.64"/>
+    <line x1="1101.45" y1="1234.23" x2="1091.93" y2="1234.23"/>
+    <line x1="1235.81" y1="1444.2" x2="1229.85" y2="1444.2"/>
+    <line x1="1493.34" y1="1444.2" x2="1481.43" y2="1444.2"/>
+    <line x1="1277.98" y1="1444.2" x2="1266.08" y2="1444.2"/>
+    <line x1="1451.15" y1="1444.2" x2="1443.27" y2="1444.2"/>
+    <line x1="1495.82" y1="1444.2" x2="1489.87" y2="1444.2"/>
+    <line x1="1279.22" y1="1444.2" x2="1273.27" y2="1444.2"/>
+    <line x1="1452.39" y1="1444.2" x2="1446.44" y2="1444.2"/>
+    <line x1="1301.8" y1="1444.2" x2="1295.4" y2="1444.2"/>
+    <line x1="1303.04" y1="1444.2" x2="1297.09" y2="1444.2"/>
+    <line x1="1422.38" y1="1444.2" x2="1386.95" y2="1444.2"/>
+    <line x1="1423.62" y1="1444.2" x2="1417.67" y2="1444.2"/>
+    <line x1="2099.42" y1="1445.88" x2="2087.71" y2="1446.97"/>
+    <line x1="2291.78" y1="1420.56" x2="2285.82" y2="1420.56"/>
+    <line x1="2096.96" y1="1446.21" x2="2091.05" y2="1446.99"/>
+    <line x1="2136.95" y1="1415.42" x2="2134.07" y2="1421.37"/>
+    <line x1="2242.4" y1="1399.03" x2="2236.47" y2="1399.58"/>
+    <line x1="2136.62" y1="1412.96" x2="2130.72" y2="1413.73"/>
+    <line x1="2248" y1="1422.57" x2="2244.26" y2="1417.11"/>
+    <line x1="2248.48" y1="1426.26" x2="2242.58" y2="1427.04"/>
+    <line x1="2152.86" y1="1410.82" x2="2146.93" y2="1411.37"/>
+    <line x1="2226.16" y1="1401.17" x2="2204.81" y2="1403.15"/>
+    <line x1="2244.86" y1="1398.71" x2="2238.9" y2="1398.71"/>
+    <line x1="2154.09" y1="1410.66" x2="2148.13" y2="1410.66"/>
+    <line x1="2227.39" y1="1401.01" x2="2221.44" y2="1401.01"/>
+    <line x1="2140.25" y1="1440.51" x2="2134.3" y2="1440.51"/>
+    <line x1="2291.78" y1="1420.56" x2="2285.82" y2="1420.56"/>
+    <line x1="2176.66" y1="1435.71" x2="2165.83" y2="1436.72"/>
+    <line x1="2212.08" y1="1431.05" x2="2200.23" y2="1432.15"/>
+    <line x1="2250.95" y1="1425.94" x2="2239.24" y2="1427.02"/>
+    <line x1="2250.95" y1="1425.94" x2="2244.99" y2="1425.94"/>
+    <line x1="2137.79" y1="1440.83" x2="2125.94" y2="1441.93"/>
+    <line x1="2137.79" y1="1440.83" x2="2131.84" y2="1440.83"/>
+    <line x1="2096.96" y1="1446.21" x2="2091.05" y2="1446.99"/>
+    <line x1="1737.98" y1="1464.85" x2="1732.02" y2="1464.85"/>
+    <line x1="1956.6" y1="1464.85" x2="1950.64" y2="1464.85"/>
+    <line x1="1737.98" y1="1464.85" x2="1732.02" y2="1464.85"/>
+    <line x1="1544.45" y1="1464.85" x2="1538.5" y2="1464.85"/>
+    <line x1="1584.4" y1="1464.85" x2="1573.16" y2="1464.85"/>
+    <line x1="1956.6" y1="1464.85" x2="1950.64" y2="1464.85"/>
+    <line x1="1762.79" y1="1464.85" x2="1756.83" y2="1464.85"/>
+    <line x1="1802.73" y1="1464.85" x2="1791.49" y2="1464.85"/>
+    <line x1="1698.53" y1="1464.85" x2="1687.14" y2="1464.85"/>
+    <line x1="1660.57" y1="1464.85" x2="1654.61" y2="1464.85"/>
+    <line x1="1660.57" y1="1464.85" x2="1649.85" y2="1464.85"/>
+    <line x1="1624.84" y1="1464.85" x2="1618.89" y2="1464.85"/>
+    <line x1="1735.5" y1="1464.85" x2="1725.15" y2="1464.85"/>
+    <line x1="1699.77" y1="1464.85" x2="1693.81" y2="1464.85"/>
+    <line x1="1699.77" y1="1464.85" x2="1693.81" y2="1464.85"/>
+    <line x1="1624.84" y1="1464.85" x2="1613.45" y2="1464.85"/>
+    <line x1="1585.64" y1="1464.85" x2="1579.68" y2="1464.85"/>
+    <line x1="1585.64" y1="1464.85" x2="1579.68" y2="1464.85"/>
+    <line x1="1877.72" y1="1464.85" x2="1867.75" y2="1464.85"/>
+    <line x1="1843.24" y1="1464.85" x2="1837.28" y2="1464.85"/>
+    <line x1="1916.86" y1="1464.85" x2="1905.87" y2="1464.85"/>
+    <line x1="1878.96" y1="1464.85" x2="1873.01" y2="1464.85"/>
+    <line x1="1954.12" y1="1464.85" x2="1943.68" y2="1464.85"/>
+    <line x1="1918.1" y1="1464.85" x2="1912.15" y2="1464.85"/>
+    <line x1="1918.1" y1="1464.85" x2="1912.15" y2="1464.85"/>
+    <line x1="1842" y1="1464.85" x2="1830.96" y2="1464.85"/>
+    <line x1="1803.97" y1="1464.85" x2="1798.02" y2="1464.85"/>
+    <line x1="1803.97" y1="1464.85" x2="1798.02" y2="1464.85"/>
+    <line x1="1544.45" y1="1464.85" x2="1538.5" y2="1464.85"/>
+    <line x1="1762.79" y1="1464.85" x2="1756.83" y2="1464.85"/>
+    <line x1="1507.73" y1="1337.76" x2="1507.73" y2="1330.61"/>
+    <line x1="1507.73" y1="1171.03" x2="1507.73" y2="1163.88"/>
+    <line x1="1223.9" y1="1337.76" x2="1223.9" y2="1330.61"/>
+    <line x1="1223.9" y1="1171.03" x2="1223.9" y2="1163.88"/>
+    <line x1="981.87" y1="781.62" x2="981.87" y2="787.58"/>
+    <line x1="210.99" y1="810.53" x2="210.99" y2="816.48"/>
+    <line x1="2006.31" y1="1135.55" x2="2006.31" y2="1141.5"/>
+    <line x1="940.19" y1="807.3" x2="940.19" y2="801.35"/>
+    <line x1="1988.57" y1="1411.2" x2="1982.61" y2="1411.2"/>
+    <line x1="2028.01" y1="1411.2" x2="2022.06" y2="1411.2"/>
+    <line x1="1988.57" y1="1411.2" x2="1982.61" y2="1411.2"/>
+    <line x1="2028.01" y1="1411.2" x2="2022.06" y2="1411.2"/>
+    <line x1="1991.05" y1="1411.2" x2="1991.05" y2="1400.48"/>
+    <line x1="1962.27" y1="1380.93" x2="1959.29" y2="1375.77"/>
+    <line x1="2062.01" y1="1380.93" x2="2059.03" y2="1375.77"/>
+    <line x1="1962.27" y1="1300.54" x2="1959.16" y2="1295.17"/>
+    <line x1="2062.01" y1="1300.54" x2="2058.9" y2="1295.17"/>
+    <line x1="884.48" y1="629.29" x2="881.38" y2="634.66"/>
+    <line x1="984.22" y1="629.29" x2="981.12" y2="634.66"/>
+    <line x1="166.96" y1="629.29" x2="163.85" y2="634.66"/>
+    <line x1="266.7" y1="629.29" x2="263.59" y2="634.66"/>
+    <line x1="866.62" y1="995.62" x2="860.67" y2="995.62"/>
+    <line x1="451.86" y1="995.62" x2="445.91" y2="995.62"/>
+    <line x1="511.11" y1="995.62" x2="505.16" y2="995.62"/>
+    <line x1="570.36" y1="995.62" x2="564.41" y2="995.62"/>
+    <line x1="629.62" y1="995.62" x2="623.66" y2="995.62"/>
+    <line x1="688.87" y1="995.62" x2="682.91" y2="995.62"/>
+    <line x1="748.12" y1="995.62" x2="742.16" y2="995.62"/>
+    <line x1="807.37" y1="995.62" x2="801.41" y2="995.62"/>
+    <line x1="392.61" y1="995.62" x2="386.66" y2="995.62"/>
+    <line x1="1671.64" y1="599.7" x2="1659.6" y2="599.7"/>
+    <line x1="1596.93" y1="599.7" x2="1583.94" y2="599.7"/>
+    <line x1="2291.78" y1="1420.56" x2="2285.82" y2="1420.56"/>
+    <line x1="2096.96" y1="1446.21" x2="2091.05" y2="1446.99"/>
+    <line x1="2212.08" y1="1431.05" x2="2201.3" y2="1432.05"/>
+    <line x1="2137.79" y1="1440.83" x2="2131.84" y2="1440.83"/>
+    <line x1="2176.66" y1="1435.71" x2="2170.7" y2="1435.71"/>
+    <line x1="2212.08" y1="1431.05" x2="2206.12" y2="1431.05"/>
+    <line x1="2250.95" y1="1425.94" x2="2244.99" y2="1425.94"/>
+    <line x1="2176.66" y1="1435.71" x2="2165.22" y2="1436.78"/>
+    <line x1="2249.72" y1="1426.1" x2="2238.28" y2="1427.16"/>
+    <line x1="984.23" y1="574.2" x2="978.28" y2="574.2"/>
+    <line x1="980.7" y1="574.2" x2="974.75" y2="574.2"/>
+    <line x1="977.17" y1="574.2" x2="971.22" y2="574.2"/>
+    <line x1="973.65" y1="574.2" x2="967.69" y2="574.2"/>
+    <line x1="970.12" y1="574.2" x2="964.16" y2="574.2"/>
+    <line x1="966.59" y1="574.2" x2="960.63" y2="574.2"/>
+    <line x1="963.06" y1="574.2" x2="957.1" y2="574.2"/>
+    <line x1="959.53" y1="574.2" x2="953.57" y2="574.2"/>
+    <line x1="956" y1="574.2" x2="950.04" y2="574.2"/>
+    <line x1="952.47" y1="574.2" x2="946.51" y2="574.2"/>
+    <line x1="948.62" y1="574.2" x2="942.67" y2="574.2"/>
+    <line x1="1776.49" y1="860.13" x2="1782.45" y2="860.13"/>
+    <line x1="1809.25" y1="860.13" x2="1815.2" y2="860.13"/>
+    <line x1="1794.3" y1="844.64" x2="1815.73" y2="844.64"/>
+    <line x1="1853.97" y1="844.64" x2="1825.35" y2="844.64"/>
+    <line x1="2006.31" y1="1135.55" x2="2006.31" y2="1141.5"/>
+    <line x1="940.19" y1="807.3" x2="940.19" y2="801.35"/>
+  </g>
+  <g class="room-label" text-anchor="middle">
+    <text x="216.83" y="736.59">Stair S1</text>
+    <text x="2012.14" y="1208.24">Stair S3</text>
+    <text x="934.35" y="730.64">Stair S2</text>
+    <text x="328.23" y="748.25">Elevator E1</text>
+    <text x="1452.16" y="823.68">Elevator E2</text>
+    <text x="627.51" y="833.42">Café 101</text>
+    <text x="630.05" y="1098.21">Outdoor Covered Dining 103</text>
+    <text x="504.88" y="1167.54">Pocket Park 104</text>
+    <text x="1365.81" y="1259.6">Residential Lobby 106</text>
+    <text x="1730.47" y="1042.29">Commercial/Retail 108</text>
+    <text x="2133.84" y="1026.09">Commercial/Retail 109</text>
+    <text x="1514.12" y="976.82">Corridor 201</text>
+    <text x="1049.6" y="1253.59">Live/Work Unit 202</text>
+    <text x="1108.65" y="799.11">Studio Unit 203</text>
+    <text x="1365.81" y="799.11">Two Story Studio Unit 204</text>
+    <text x="1732.02" y="799.11">Live/Work Unit 205</text>
+    <text x="530" y="742.48">Mezzanine Dining 200</text>
+  </g>
+</g>
+<rect class="plot-edge" x="30" y="90" width="2400" height="1626.61"/>
+<text class="tick" text-anchor="middle" x="35.95" y="1728.61">-120</text>
+<text class="tick" text-anchor="middle" x="274.14" y="1728.61">-100</text>
+<text class="tick" text-anchor="middle" x="512.32" y="1728.61">-80</text>
+<text class="tick" text-anchor="middle" x="750.51" y="1728.61">-60</text>
+<text class="tick" text-anchor="middle" x="988.69" y="1728.61">-40</text>
+<text class="tick" text-anchor="middle" x="1226.87" y="1728.61">-20</text>
+<text class="tick" text-anchor="middle" x="1465.06" y="1728.61">0</text>
+<text class="tick" text-anchor="middle" x="1703.24" y="1728.61">20</text>
+<text class="tick" text-anchor="middle" x="1941.43" y="1728.61">40</text>
+<text class="tick" text-anchor="middle" x="2179.61" y="1728.61">60</text>
+<text class="tick" text-anchor="middle" x="2417.79" y="1728.61">80</text>
+<text class="tick" text-anchor="end" x="26" y="1581.92">-40</text>
+<text class="tick" text-anchor="end" x="26" y="1343.73">-20</text>
+<text class="tick" text-anchor="end" x="26" y="1105.55">0</text>
+<text class="tick" text-anchor="end" x="26" y="867.37">20</text>
+<text class="tick" text-anchor="end" x="26" y="629.18">40</text>
+<text class="tick" text-anchor="end" x="26" y="391">60</text>
+<text class="tick" text-anchor="end" x="26" y="152.82">80</text>
+<rect class="legend-panel" x="2442" y="90" width="216" height="780" rx="4"/>
+<text class="legend-hdr" x="2450" y="108">Category</text>
+<rect class="cat-walls" x="2450" y="114" width="14" height="14"/>
+<text class="legend-label" x="2470" y="126">Walls (203)</text>
+<rect class="cat-supports" x="2450" y="134" width="14" height="14"/>
+<text class="legend-label" x="2470" y="146">Supports (172)</text>
+<rect class="cat-curtain-wall-mullions" x="2450" y="154" width="14" height="14"/>
+<text class="legend-label" x="2470" y="166">Curtain Wall Mullions (108)</text>
+<rect class="cat-furniture" x="2450" y="174" width="14" height="14"/>
+<text class="legend-label" x="2470" y="186">Furniture (61)</text>
+<rect class="cat-curtain-panels" x="2450" y="194" width="14" height="14"/>
+<text class="legend-label" x="2470" y="206">Curtain Panels (49)</text>
+<rect class="cat-specialty-equipment" x="2450" y="214" width="14" height="14"/>
+<text class="legend-label" x="2470" y="226">Specialty Equipment (37)</text>
+<rect class="cat-casework" x="2450" y="234" width="14" height="14"/>
+<text class="legend-label" x="2470" y="246">Casework (32)</text>
+<rect class="cat-columns" x="2450" y="254" width="14" height="14"/>
+<text class="legend-label" x="2470" y="266">Columns (32)</text>
+<rect class="cat-curtain-wall-grids" x="2450" y="274" width="14" height="14"/>
+<text class="legend-label" x="2470" y="286">Curtain Wall Grids (31)</text>
+<rect class="cat-handrails" x="2450" y="294" width="14" height="14"/>
+<text class="legend-label" x="2470" y="306">Handrails (30)</text>
+<rect class="cat-railings" x="2450" y="314" width="14" height="14"/>
+<text class="legend-label" x="2470" y="326">Railings (29)</text>
+<rect class="cat-wall-sweeps" x="2450" y="334" width="14" height="14"/>
+<text class="legend-label" x="2470" y="346">Wall Sweeps (22)</text>
+<rect class="cat-runs" x="2450" y="354" width="14" height="14"/>
+<text class="legend-label" x="2470" y="366">Runs (18)</text>
+<rect class="cat-top-rails" x="2450" y="374" width="14" height="14"/>
+<text class="legend-label" x="2470" y="386">Top Rails (18)</text>
+<rect class="cat-doors" x="2450" y="394" width="14" height="14"/>
+<text class="legend-label" x="2470" y="406">Doors (18)</text>
+<rect class="cat-plumbing-fixtures" x="2450" y="414" width="14" height="14"/>
+<text class="legend-label" x="2470" y="426">Plumbing Fixtures (18)</text>
+<rect class="cat-default" x="2450" y="434" width="14" height="14"/>
+<text class="legend-label" x="2470" y="446">Door Tags (18)</text>
+<rect class="cat-windows" x="2450" y="454" width="14" height="14"/>
+<text class="legend-label" x="2470" y="466">Windows (17)</text>
+<rect class="cat-rooms" x="2450" y="474" width="14" height="14"/>
+<text class="legend-label" x="2470" y="486">Rooms (17)</text>
+<rect class="cat-default" x="2450" y="494" width="14" height="14"/>
+<text class="legend-label" x="2470" y="506">Window Tags (17)</text>
+<rect class="cat-default" x="2450" y="514" width="14" height="14"/>
+<text class="legend-label" x="2470" y="526">Floors (15)</text>
+<rect class="cat-stairs" x="2450" y="534" width="14" height="14"/>
+<text class="legend-label" x="2470" y="546">Stairs (13)</text>
+<rect class="cat-default" x="2450" y="554" width="14" height="14"/>
+<text class="legend-label" x="2470" y="566">Lighting Fixtures (12)</text>
+<rect class="cat-default" x="2450" y="574" width="14" height="14"/>
+<text class="legend-label" x="2470" y="586">Generic Models (10)</text>
+<rect class="cat-default" x="2450" y="594" width="14" height="14"/>
+<text class="legend-label" x="2470" y="606">Planting (10)</text>
+<rect class="cat-grids" x="2450" y="614" width="14" height="14"/>
+<text class="legend-label" x="2470" y="626">Grids (10)</text>
+<rect class="cat-landings" x="2450" y="634" width="14" height="14"/>
+<text class="legend-label" x="2470" y="646">Landings (8)</text>
+<rect class="cat-default" x="2450" y="654" width="14" height="14"/>
+<text class="legend-label" x="2470" y="666">Ceilings (7)</text>
+<rect class="cat-default" x="2450" y="674" width="14" height="14"/>
+<text class="legend-label" x="2470" y="686">Slab Edges (6)</text>
+<rect class="cat-shaft-openings" x="2450" y="694" width="14" height="14"/>
+<text class="legend-label" x="2470" y="706">Shaft Openings (6)</text>
+<rect class="cat-default" x="2450" y="714" width="14" height="14"/>
+<text class="legend-label" x="2470" y="726">Model Groups (5)</text>
+<rect class="cat-multistory-stairs" x="2450" y="734" width="14" height="14"/>
+<text class="legend-label" x="2470" y="746">Multistory Stairs (3)</text>
+<rect class="cat-default" x="2450" y="754" width="14" height="14"/>
+<text class="legend-label" x="2470" y="766">Entourage (3)</text>
+<rect class="cat-default" x="2450" y="774" width="14" height="14"/>
+<text class="legend-label" x="2470" y="786">Vertical Circulation (2)</text>
+<rect class="cat-default" x="2450" y="794" width="14" height="14"/>
+<text class="legend-label" x="2470" y="806">Food Service Equipment (2)</text>
+<rect class="cat-default" x="2450" y="814" width="14" height="14"/>
+<text class="legend-label" x="2470" y="826">Rectangular Straight Wa… (1)</text>
+<rect class="cat-default" x="2450" y="834" width="14" height="14"/>
+<text class="legend-label" x="2470" y="846">&lt;Space Separation&gt; (1)</text>
+</svg>
