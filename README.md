@@ -12,7 +12,7 @@ Developed for a university project, results and source code can be seen in the f
 
 **Other Results:**
 - [ALL RESULTS w/ Graphs and Metrics](all_results.xlsx)
-- [LLM-VBP](raster-methods/LLM_VBP_Results)
+- [LLM-VBP](./LLM_VBP_Results)
 - [LLM-VSP](LLM_VSP_Results)
 - [SA_Results](SA_Results)
 - [Bitmap_results](bitmap_results)
