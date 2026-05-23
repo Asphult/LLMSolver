@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2700" height="1807.47" viewBox="0 0 2700 1807.47">
+<rect x="0" y="0" width="2700" height="1807.47" fill="rgb(26,26,46)"/>
+<rect x="30" y="90" width="2400" height="1687.47" fill="rgb(22,33,62)"/>
+<text x="30" y="52" style="fill:rgb(204,204,238);font-size:20px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif;">Revit BBox Render — RevitCoords_平面詳細図 7階 - 従属 1 Copy 2_20260513_220514</text>
+<text x="30" y="72" style="fill:rgb(140,140,180);font-size:11px;font-family:'Segoe UI',Arial,sans-serif;">294 elements | 0 tags | 2026-05-13 22:05</text>
+<g>
+  <g>
+    <line x1="113.58" y1="90" x2="113.58" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="288.03" y1="90" x2="288.03" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="462.47" y1="90" x2="462.47" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="636.92" y1="90" x2="636.92" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="811.36" y1="90" x2="811.36" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="985.81" y1="90" x2="985.81" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1160.26" y1="90" x2="1160.26" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1334.7" y1="90" x2="1334.7" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1509.15" y1="90" x2="1509.15" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1683.59" y1="90" x2="1683.59" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1858.04" y1="90" x2="1858.04" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2032.48" y1="90" x2="2032.48" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2206.93" y1="90" x2="2206.93" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2381.38" y1="90" x2="2381.38" y2="1777.47" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1641.62" x2="2430" y2="1641.62" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1467.18" x2="2430" y2="1467.18" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1292.73" x2="2430" y2="1292.73" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1118.29" x2="2430" y2="1118.29" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="943.84" x2="2430" y2="943.84" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="769.4" x2="2430" y2="769.4" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="594.95" x2="2430" y2="594.95" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="420.5" x2="2430" y2="420.5" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="246.06" x2="2430" y2="246.06" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+  </g>
+  <g data-category="Rooms">
+    <rect x="173.56" y="250.98" width="2060.38" height="1330.69" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — 事務室 88</title></rect>
+    <rect x="757.34" y="598.96" width="1315.21" height="89.86" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — 廊下 100</title></rect>
+    <rect x="1329.67" y="362.59" width="351.98" height="237.52" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — WC女 92</title></rect>
+    <rect x="1413.8" y="250.98" width="668.48" height="111.6" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — 設備バルコニー 101</title></rect>
+    <rect x="1160.83" y="260.71" width="168.84" height="339.39" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — ELVホール 91</title></rect>
+    <rect x="998.43" y="250.98" width="162.4" height="348.69" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — ELV 144</title></rect>
+    <rect x="1856.21" y="362.59" width="226.07" height="237.52" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — WC男 98</title></rect>
+    <rect x="1681.65" y="362.59" width="117.33" height="237.52" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — 給湯室 94</title></rect>
+    <rect x="1329.67" y="537.15" width="291.89" height="62.96" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — EPS 93</title></rect>
+    <rect x="1329.67" y="250.98" width="84.13" height="121.33" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — PS 117</title></rect>
+    <rect x="1798.97" y="362.59" width="57.23" height="174.56" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — PS 95</title></rect>
+    <rect x="1741.74" y="537.15" width="114.47" height="62.96" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — EPS 96</title></rect>
+    <rect x="1494.5" y="482.77" width="127.06" height="54.37" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — PS 118</title></rect>
+    <rect x="1916.3" y="577.21" width="165.97" height="22.89" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — PS 119</title></rect>
+  </g>
+  <g data-category="Walls">
+    <rect x="197.6" y="1553.03" width="2012.31" height="57.23" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ファサード PC ヨコ連窓</title></rect>
+    <rect x="169.56" y="1576.49" width="2065.99" height="35.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP 小口</title></rect>
+    <rect x="991.99" y="737.77" width="57.23" height="705.88" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — 防煙垂壁</title></rect>
+    <rect x="2205.33" y="1044.23" width="57.23" height="266.13" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — AW排煙窓</title></rect>
+    <rect x="183.92" y="1565.93" width="2039.66" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1413.8" y="256.99" width="318.21" height="14.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — RC180 バルコニー立上り</title></rect>
+    <rect x="2221.09" y="676.65" width="4.98" height="894.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="175.28" y="249.26" width="1240.24" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1774.36" y="256.99" width="243.81" height="14.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — RC180 バルコニー立上り</title></rect>
+    <rect x="2232.23" y="667.06" width="3.43" height="909.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="991.99" y="1493.25" width="57.23" height="53.66" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — 防煙垂壁</title></rect>
+    <rect x="1413.8" y="360.87" width="668.48" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1158.97" y="252.7" width="6.12" height="350.52" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (X2)-B0/--0</title></rect>
+    <rect x="1413.8" y="249.26" width="602.66" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1044.13" y="685.69" width="319.24" height="6.24" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L#)EB1/EB1</title></rect>
+    <rect x="1410.42" y="685.69" width="310.29" height="6.24" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L#)EB1/EB1</title></rect>
+    <rect x="1776.71" y="685.69" width="297.7" height="6.24" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L#)EB1/EB1</title></rect>
+    <rect x="1327.09" y="597.53" width="294.64" height="5.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/D-1</title></rect>
+    <rect x="2080.56" y="250.98" width="3.43" height="419.52" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1678.73" y="372.84" width="6.04" height="227.36" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA1/EB1</title></rect>
+    <rect x="1414.57" y="370.45" width="270.2" height="4.78" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1856.74" y="370.45" width="215.28" height="4.78" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="996.51" y="597.1" width="167.38" height="6.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (X2)-B0/--0</title></rect>
+    <rect x="1326.55" y="372.84" width="6.04" height="164.13" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/HA1</title></rect>
+    <rect x="2069.63" y="370.45" width="4.78" height="206.22" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1329.39" y="534.23" width="164.57" height="5.5" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/D-0</title></rect>
+    <rect x="1795.86" y="362.59" width="4.98" height="174.92" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1156.51" y="258.85" width="172.53" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1854.35" y="362.59" width="4.78" height="177.14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1915.77" y="598.24" width="166.5" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/--0</title></rect>
+    <rect x="1913.38" y="574.29" width="168.89" height="4.78" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1741.47" y="597.53" width="114.91" height="5.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/D-1</title></rect>
+    <rect x="1493.97" y="479.85" width="128.11" height="4.78" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1326.55" y="250.98" width="4.98" height="121.86" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/--0</title></rect>
+    <rect x="1681.75" y="370.45" width="116.6" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1493.97" y="535.28" width="128.11" height="4.44" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)D-0/--0</title></rect>
+    <rect x="1856.74" y="479.85" width="95.62" height="5.84" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/HA0</title></rect>
+    <rect x="2082.28" y="667.06" width="151.67" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="2069.43" y="600.73" width="4.98" height="91.2" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1329.04" y="370.45" width="88.02" height="4.78" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="2143" y="676.65" width="80.58" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1412.08" y="252.7" width="3.43" height="111.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1738.62" y="534.03" width="5.7" height="66.35" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/D-0</title></rect>
+    <rect x="2016.46" y="252.7" width="3.43" height="109.89" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1326.55" y="536.97" width="5.69" height="66.25" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/D-1</title></rect>
+    <rect x="1856.38" y="597.18" width="61.78" height="6.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/HA1</title></rect>
+    <rect x="1681.75" y="596.98" width="59.72" height="6.24" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/EB1</title></rect>
+    <rect x="1739.17" y="482.23" width="59.18" height="6.24" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L*)EB0/EB0</title></rect>
+    <rect x="1621.72" y="597.18" width="60.02" height="6.04" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB1/HA1</title></rect>
+    <rect x="1618.98" y="537.5" width="5.5" height="62.87" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/D-0</title></rect>
+    <rect x="1853.63" y="537.5" width="5.49" height="62.87" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/D-0</title></rect>
+    <rect x="1738.62" y="482.23" width="6.24" height="54.64" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L*)EB0/EB0</title></rect>
+    <rect x="1741.47" y="534.03" width="56.88" height="5.7" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/D-0</title></rect>
+    <rect x="1716.27" y="732.74" width="62.93" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="985.64" y="732.74" width="60.98" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2140.51" y="676.65" width="4.98" height="60.52" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2021.04" y="479.85" width="50.98" height="5.84" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/HA0</title></rect>
+    <rect x="1718.22" y="685.69" width="58.49" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L#)EB1/--0</title></rect>
+    <rect x="985.64" y="685.69" width="58.49" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L#)EB1/--0</title></rect>
+    <rect x="1619.69" y="482.24" width="4.78" height="57.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1795.86" y="535.28" width="60.88" height="4.44" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)D-0/--0</title></rect>
+    <rect x="1491.58" y="482.24" width="4.78" height="55.26" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1913.38" y="534.28" width="5.84" height="44.79" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/HA0</title></rect>
+    <rect x="994.6" y="1441.17" width="52.02" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1360.89" y="1441.17" width="52.02" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2093.46" y="1441.17" width="52.02" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1727.18" y="1441.17" width="52.02" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2093.46" y="1441.71" width="4.98" height="51.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1361.43" y="732.74" width="51.48" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2094.01" y="732.74" width="51.48" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1360.89" y="1441.71" width="4.98" height="51.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1361.43" y="1488.21" width="51.48" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1727.72" y="1488.21" width="51.48" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2094.01" y="1488.21" width="51.48" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1727.18" y="1441.71" width="4.98" height="51.48" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1407.93" y="1441.71" width="4.98" height="50.94" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1041.64" y="1441.71" width="4.98" height="50.94" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1774.22" y="1441.71" width="4.98" height="50.94" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2140.51" y="1441.71" width="4.98" height="50.94" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1360.89" y="688.18" width="4.98" height="49.54" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="997.08" y="1488.21" width="49.54" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1407.93" y="688.18" width="4.98" height="48.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1041.64" y="688.18" width="4.98" height="48.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1774.22" y="688.18" width="4.98" height="48.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1715.73" y="688.81" width="4.98" height="48.91" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="2093.46" y="689.44" width="4.98" height="48.28" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1363.38" y="685.69" width="47.05" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L#)EB1/--0</title></rect>
+    <rect x="2016.46" y="249.26" width="67.53" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1618.63" y="442.71" width="5.84" height="39.53" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/HA0</title></rect>
+    <rect x="1491.58" y="442.71" width="5.84" height="39.53" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/HA0</title></rect>
+    <rect x="1730.3" y="252.7" width="3.43" height="60.09" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1772.65" y="252.7" width="3.43" height="60.09" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1730.3" y="249.26" width="45.78" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="1730.3" y="312.79" width="45.78" height="3.43" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — ECP60</title></rect>
+    <rect x="2071.92" y="686.95" width="26.53" height="4.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)EB0/--0</title></rect>
+    <rect x="1913.38" y="576.68" width="4.78" height="23.52" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)HA0/--0</title></rect>
+    <rect x="1412.08" y="364.3" width="4.98" height="10.93" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — (L)E-0/--0</title></rect>
+  </g>
+  <g data-category="Railings">
+    <rect x="2103.31" y="337.63" width="135.36" height="326.66" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+    <rect x="2103.31" y="338.01" width="135.36" height="324.42" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+    <rect x="2157.31" y="392.01" width="26.98" height="176.76" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+    <rect x="2157.54" y="405.31" width="26.76" height="156.59" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1) 始端延長なし</title></rect>
+    <rect x="2155.9" y="392.35" width="5.51" height="174.85" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+    <rect x="2155.9" y="391.86" width="5.51" height="172.84" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+    <rect x="1416.97" y="277.88" width="311.6" height="2.86" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — STEP FB50x9 一段 H1100  P1000</title></rect>
+    <rect x="2084.85" y="566.14" width="22.18" height="34.39" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+    <rect x="1777.25" y="277.45" width="237.74" height="2.86" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — STEP FB50x9 一段 H1100  P1000</title></rect>
+    <rect x="2157.68" y="385.05" width="26.61" height="23.04" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1) 終端延長なし</title></rect>
+    <rect x="2157.68" y="548.51" width="26.61" height="20.26" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 外部階段手摺(1)</title></rect>
+  </g>
+  <g data-category="Stairs">
+    <rect x="2086.17" y="338.81" width="151.32" height="324.17" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="2104.48" y="338.81" width="133.01" height="324.17" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+  </g>
+  <g data-category="Windows">
+    <rect x="1020.32" y="737.77" width="73.86" height="703.39" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — SmW01 H600</title></rect>
+    <rect x="1020.32" y="1493.25" width="73.86" height="53.66" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — SmW01 H600 [168]</title></rect>
+    <rect x="1113.9" y="1580.5" width="88.14" height="24.28" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — M10 外倒</title></rect>
+    <rect x="1205.47" y="1580.5" width="88.14" height="24.28" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — M10 外倒</title></rect>
+    <rect x="1571.76" y="1580.5" width="88.14" height="24.28" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — M10 外倒</title></rect>
+    <rect x="1938.05" y="1580.5" width="88.14" height="24.28" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — M10 外倒</title></rect>
+    <rect x="1480.19" y="1580.5" width="88.14" height="24.28" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — M10 外倒</title></rect>
+    <rect x="1846.48" y="1580.5" width="88.14" height="24.28" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — M10 外倒</title></rect>
+    <rect x="2232.8" y="1224.03" width="24.55" height="84.9" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW06</title></rect>
+    <rect x="2232.8" y="1224.03" width="24.55" height="84.9" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW06 [155]</title></rect>
+    <rect x="1297.04" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="1022.33" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="1754.9" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="930.75" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="1663.33" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="2029.62" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="1388.62" y="1581.36" width="88.14" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+    <rect x="2121.19" y="1581.36" width="85.28" height="23.42" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — AW4</title></rect>
+  </g>
+  <g data-category="Doors">
+    <rect x="1335.96" y="597.53" width="279.3" height="40.82" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD206 4800x2100 [309]</title></rect>
+    <rect x="1745.18" y="597.53" width="107.6" height="41.18" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD207 1800x2100 [310]</title></rect>
+    <rect x="1049.8" y="685.12" width="73.26" height="59.75" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD201 特1常 1200x2100(2800) [259]</title></rect>
+    <rect x="1782.38" y="685.12" width="73.26" height="59.75" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD201 特1常 1200x2100(2800) [261]</title></rect>
+    <rect x="1416.09" y="685.12" width="73.26" height="59.75" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD201 特1常 1200x2100(2800) [260]</title></rect>
+    <rect x="2068.86" y="604.97" width="68.94" height="56.09" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD202 900x2200 [335]</title></rect>
+    <rect x="1692.52" y="309.91" width="38.92" height="66.1" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD203 600x2100 設備バルコニ [253]</title></rect>
+    <rect x="1684.51" y="567.36" width="54.37" height="36.43" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Fr201 900x2100 [255]</title></rect>
+    <rect x="1624.41" y="567.46" width="54.37" height="36.34" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Fr201 900x2100 [254]</title></rect>
+    <rect x="1859.07" y="567.46" width="54.37" height="36.34" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — Fr201 900x2100 [256]</title></rect>
+    <rect x="1854.35" y="489.07" width="41.88" height="38.92" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD3208 600x2100 [303]</title></rect>
+    <rect x="1994.14" y="545.77" width="30.33" height="33.3" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD209 450x450 MWC点検口 [252]</title></rect>
+    <rect x="1619.69" y="496.22" width="30.43" height="27.47" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD210 400x1500 [249]</title></rect>
+    <rect x="1350.27" y="370.45" width="27.47" height="30.43" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — SD211 400x2100 消火栓点検口 [264]</title></rect>
+  </g>
+  <g data-category="Wall Tags">
+    <rect x="1374.02" y="662.18" width="34.82" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1734.59" y="662.18" width="34.82" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1002.01" y="662.18" width="34.82" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1190.87" y="662.18" width="34.82" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1552.69" y="662.18" width="34.82" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1912.68" y="662.18" width="34.82" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1461.44" y="497" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2194.11" y="1110.9" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1723.82" y="1499.66" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1792.89" y="1454.3" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1426.55" y="699.8" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1792.89" y="699.8" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1008.97" y="1504.75" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1007.73" y="1414.04" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1374.02" y="1414.04" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1740.31" y="1414.04" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2106.6" y="1414.04" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2096.42" y="447.86" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1986.15" y="613.34" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1299.21" y="299.03" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1735.16" y="334.22" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1639.37" y="556.06" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1698.69" y="473.64" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1545.15" y="454.59" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1757.03" y="552.28" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1984.95" y="552.28" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1067.32" y="616.83" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1379.45" y="700.07" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1734.86" y="752.89" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2145.23" y="648.23" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2085.95" y="460.69" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1727.17" y="342.95" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1229.89" y="276.66" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2033.65" y="499.95" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1930.7" y="575.56" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1712.64" y="496.67" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1755.88" y="458.08" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1891.67" y="499.95" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1384.68" y="295.62" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1712.64" y="269.87" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1740.31" y="328.99" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1791.14" y="269.87" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1740.31" y="229.56" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2033.62" y="294.76" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2037.35" y="229.56" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1883.39" y="276.66" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2072.3" y="662.18" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1874.39" y="613.34" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1786.05" y="613.34" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1698.73" y="613.34" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1638.86" y="613.34" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1302.69" y="557.22" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1545.15" y="552.28" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1536.79" y="342.95" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1639.37" y="498.11" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1813.42" y="552.28" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1430.04" y="356.89" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2253.42" y="1108.9" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1014.86" y="1454.3" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1357.53" y="1499.66" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1424.81" y="1454.3" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2090.12" y="1499.66" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2157.48" y="1454.3" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1374.29" y="1504.75" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1190.87" y="1581.51" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1190.87" y="1581.51" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2253.42" y="1164.42" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1128.25" y="415.08" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1398.8" y="552.28" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1815.56" y="437.17" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1850.54" y="538.46" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1735.63" y="538.46" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1003.25" y="752.89" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1014.86" y="699.8" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1374.29" y="752.89" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2090.12" y="747.8" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2157.48" y="694.03" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1360.17" y="342.95" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2085.95" y="633.45" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1712.64" y="712.91" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1930.7" y="543.8" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1302.69" y="442.03" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1464.93" y="449.6" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1639.37" y="449.6" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1869.64" y="438.28" width="13.62" height="33.77" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1740.58" y="1504.75" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2106.87" y="1504.75" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2106.87" y="752.89" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="2170.41" y="648.23" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1951.5" y="342.95" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1702.25" y="229.56" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1560.03" y="276.66" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+    <rect x="1461.53" y="613.34" width="33.77" height="13.62" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 楕円</title></rect>
+  </g>
+  <g data-category="Window Tags">
+    <rect x="2262.97" y="1252.75" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="2262.97" y="1252.75" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="2150.1" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="2059.96" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1043.52" y="1506.34" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1043.52" y="1075.73" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1235.8" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1052.66" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1418.95" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1602.09" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1785.24" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1968.38" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1144.23" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1327.38" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1510.52" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1693.67" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+    <rect x="1876.81" y="1610.44" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — STD</title></rect>
+  </g>
+  <g data-category="Door Tags">
+    <rect x="1698.24" y="310.82" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1697.96" y="571.89" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1072.69" y="701.26" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1461.87" y="604.2" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1785.24" y="604.2" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1861.55" y="494.79" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="2089.59" y="619.27" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1621.17" y="496.22" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1995.57" y="548.69" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1637.86" y="571.89" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1872.52" y="571.89" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1438.98" y="701.26" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1805.27" y="701.26" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+    <rect x="1350.27" y="371.94" width="27.47" height="27.47" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — STD</title></rect>
+  </g>
+  <g data-category="Room Tags">
+    <rect x="1948.08" y="312.25" width="20.09" height="85.22" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1198.58" y="568.74" width="15.51" height="59.47" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1785.18" y="512.78" width="20.09" height="36.74" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1476.79" y="515.91" width="20.09" height="33.31" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1974.78" y="409.49" width="20.09" height="33.31" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1303.77" y="630.58" width="20.09" height="24.61" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1506.31" y="580.89" width="13.62" height="24.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1840.42" y="584.99" width="13.62" height="24.27" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1067.93" y="414.02" width="13.62" height="23.12" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1987.92" y="580.49" width="13.62" height="16.31" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1403.1" y="356.68" width="13.62" height="16.31" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1837.5" y="524.19" width="13.62" height="16.31" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+    <rect x="1507.26" y="524.14" width="13.62" height="16.31" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — 名前 1.5mm</title></rect>
+  </g>
+  <g data-category="Stair Tags">
+    <rect x="2188.7" y="465.24" width="20.09" height="73.09" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Stair Tags — コメント(階段名)</title></rect>
+  </g>
+  <g>
+    <line x1="1622.08" y1="509.96" x2="1622.08" y2="519.09" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="2009.31" y1="576.68" x2="2019.29" y2="576.68" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1711.98" y1="362.59" x2="1731.81" y2="362.59" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1651.6" y1="600.2" x2="1667.91" y2="600.2" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1711.69" y1="600.1" x2="1728.01" y2="600.1" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1886.25" y1="600.2" x2="1902.57" y2="600.2" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1086.43" y1="688.81" x2="1108.4" y2="688.81" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1452.72" y1="688.81" x2="1474.69" y2="688.81" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1819.01" y1="688.81" x2="1840.98" y2="688.81" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1364" y1="372.84" x2="1373.13" y2="372.84" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1475.61" y1="600.37" x2="1391.82" y2="600.37" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1798.97" y1="600.37" x2="1766.69" y2="600.37" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1856.74" y1="508.53" x2="1856.74" y2="521.09" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="2082.28" y1="633.01" x2="2082.28" y2="612.33" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+  </g>
+  <g text-anchor="middle" style="fill:rgb(200,240,210);font-size:9px;font-family:'Segoe UI',Arial,sans-serif;pointer-events:none">
+    <text x="1203.75" y="916.33">事務室 88</text>
+    <text x="1245.25" y="430.41">ELVホール 91</text>
+    <text x="1505.66" y="481.34">WC女 92</text>
+    <text x="1475.61" y="568.62">EPS 93</text>
+    <text x="1740.31" y="481.34">給湯室 94</text>
+    <text x="1827.59" y="449.87">PS 95</text>
+    <text x="1798.97" y="568.62">EPS 96</text>
+    <text x="1969.24" y="481.34">WC男 98</text>
+    <text x="1414.94" y="643.88">廊下 100</text>
+    <text x="1748.04" y="306.78">設備バルコニー 101</text>
+    <text x="1371.73" y="311.65">PS 117</text>
+    <text x="1558.02" y="509.96">PS 118</text>
+    <text x="1999.29" y="588.65">PS 119</text>
+    <text x="1079.63" y="425.33">ELV 144</text>
+  </g>
+</g>
+<rect x="30" y="90" width="2400" height="1687.47" style="fill:none;stroke:rgba(100,100,160,0.5);stroke-width:1.5"/>
+<text text-anchor="middle" x="288.03" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="middle" x="636.92" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="middle" x="985.81" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<text text-anchor="middle" x="1334.7" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">60</text>
+<text text-anchor="middle" x="1683.59" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">80</text>
+<text text-anchor="middle" x="2032.48" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">100</text>
+<text text-anchor="middle" x="2381.38" y="1789.47" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">120</text>
+<text text-anchor="end" x="26" y="1470.18" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="end" x="26" y="1121.29" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="end" x="26" y="772.4" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<text text-anchor="end" x="26" y="423.5" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">60</text>
+<rect x="2442" y="90" width="216" height="260" rx="4" style="fill:rgba(30,30,60,0.5)"/>
+<text x="2450" y="108" style="fill:rgb(180,180,220);font-size:12px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif">Category</text>
+<rect x="2450" y="114" width="14" height="14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="126">Walls (97)</text>
+<rect x="2450" y="134" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="146">Wall Tags (93)</text>
+<rect x="2450" y="154" width="14" height="14" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1"/>
+<text class="legend-label" x="2470" y="166">Windows (18)</text>
+<rect x="2450" y="174" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="186">Window Tags (17)</text>
+<rect x="2450" y="194" width="14" height="14" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2"/>
+<text class="legend-label" x="2470" y="206">Rooms (14)</text>
+<rect x="2450" y="214" width="14" height="14" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5"/>
+<text class="legend-label" x="2470" y="226">Doors (14)</text>
+<rect x="2450" y="234" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="246">Door Tags (14)</text>
+<rect x="2450" y="254" width="14" height="14" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2"/>
+<text class="legend-label" x="2470" y="266">Room Tags (13)</text>
+<rect x="2450" y="274" width="14" height="14" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1"/>
+<text class="legend-label" x="2470" y="286">Railings (11)</text>
+<rect x="2450" y="294" width="14" height="14" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="306">Stairs (2)</text>
+<rect x="2450" y="314" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="326">Stair Tags (1)</text>
+</svg>
