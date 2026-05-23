@@ -12,13 +12,13 @@ Developed for a university project, results and source code can be seen in the f
 
 **Other Results:**
 - [ALL RESULTS w/ Graphs and Metrics](all_results.xlsx)
-- [LLM-VBP](tree/raster-methods/LLM_VBP_Results)
+- [LLM-VBP](raster-methods/LLM_VBP_Results)
 - [LLM-VSP](LLM_VSP_Results)
 - [SA_Results](SA_Results)
 - [Bitmap_results](bitmap_results)
 
 **Source Code:**
-- [LLM_VBP_Placer.cs](LLM_VBP_Placer.cs)
+- [LLM_VBP_Placer.cs](raster-methods/LLM_VBP_Placer.cs)
 - [LLM_VSP_Placer.cs](LLM_VSP_Placer.cs)
 - [SimulatedAnnealingPlacer.cs](SimulatedAnnealingPlacer.cs)
 - [BitmapPlacer.cs](BitmapPlacer.cs)
