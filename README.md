@@ -92,7 +92,7 @@ Uses the Claude API to automatically reposition all tags in the active view. Cur
 The solver:
 
 1. Collects all elements and tags from the view
-2. Sends them to Claude as a CSV with placement rules
+2. Sends them to Claude as a CSV with user-adjustable placement rules
 3. Applies Claude's suggested positions inside a single Revit transaction (one undo step)
 4. Saves input/output CSVs to `Desktop\REVIT_LLM\` for inspection
 
@@ -106,6 +106,7 @@ The solver:
 Then restart Revit completely. If the key is not set, the button will show a diagnostic message explaining how to fix it.
 
 **One-shot examples (optional):** Place `example_input.csv` and `example_output.csv` in `Desktop\REVIT_LLM\examples\` to give the solver a reference example from your own project. This improves output quality.
+**Prompt-tuning (optional):** Prompt can be adjusted with the file `LLMPrompt.txt`, specifically in the 'PLACEMENT RULES' section where it defines its preferences and conventions. Adjust outside this section at your own risk, performance and its adherence may vary.
 
 ## Output file locations
 
