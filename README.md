@@ -19,7 +19,7 @@ Developed for a university project, results and source code can be seen in the f
 
 **Source Code:**
 - [LLM_VBP_Placer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/LLM_VBP_Placer.cs)
-- [LLM_VSP_Placer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/LLM_VSP_Placer.cs))
+- [LLM_VSP_Placer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/LLM_VSP_Placer.cs)
 - [SimulatedAnnealingPlacer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/SimulatedAnnealingPlacer.cs)
 - [BitmapPlacer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/BitmapPlacer.cs)
 
