@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2700" height="2090.78" viewBox="0 0 2700 2090.78">
+<rect x="0" y="0" width="2700" height="2090.78" fill="rgb(26,26,46)"/>
+<rect x="30" y="90" width="2400" height="1970.78" fill="rgb(22,33,62)"/>
+<text x="30" y="52" style="fill:rgb(204,204,238);font-size:20px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif;">Revit BBox Render — RevitCoords_01 - Entry Level Copy 1_20260513_174522</text>
+<text x="30" y="72" style="fill:rgb(140,140,180);font-size:11px;font-family:'Segoe UI',Arial,sans-serif;">240 elements | 0 tags | 2026-05-13 17:45</text>
+<g>
+  <g>
+    <line x1="47.93" y1="90" x2="47.93" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="148.47" y1="90" x2="148.47" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="249.01" y1="90" x2="249.01" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="349.54" y1="90" x2="349.54" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="450.08" y1="90" x2="450.08" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="550.61" y1="90" x2="550.61" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="651.15" y1="90" x2="651.15" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="751.69" y1="90" x2="751.69" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="852.22" y1="90" x2="852.22" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="952.76" y1="90" x2="952.76" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1053.29" y1="90" x2="1053.29" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1153.83" y1="90" x2="1153.83" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1254.37" y1="90" x2="1254.37" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1354.9" y1="90" x2="1354.9" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1455.44" y1="90" x2="1455.44" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1555.97" y1="90" x2="1555.97" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1656.51" y1="90" x2="1656.51" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1757.05" y1="90" x2="1757.05" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1857.58" y1="90" x2="1857.58" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="1958.12" y1="90" x2="1958.12" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2058.65" y1="90" x2="2058.65" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2159.19" y1="90" x2="2159.19" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2259.73" y1="90" x2="2259.73" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="2360.26" y1="90" x2="2360.26" y2="2060.78" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="2000.24" x2="2430" y2="2000.24" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1899.7" x2="2430" y2="1899.7" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1799.17" x2="2430" y2="1799.17" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1698.63" x2="2430" y2="1698.63" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1598.09" x2="2430" y2="1598.09" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1497.56" x2="2430" y2="1497.56" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1397.02" x2="2430" y2="1397.02" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1296.49" x2="2430" y2="1296.49" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1195.95" x2="2430" y2="1195.95" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="1095.41" x2="2430" y2="1095.41" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="994.88" x2="2430" y2="994.88" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="894.34" x2="2430" y2="894.34" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="793.8" x2="2430" y2="793.8" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="693.27" x2="2430" y2="693.27" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="592.73" x2="2430" y2="592.73" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="492.2" x2="2430" y2="492.2" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="391.66" x2="2430" y2="391.66" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="291.12" x2="2430" y2="291.12" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="190.59" x2="2430" y2="190.59" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+    <line x1="30" y1="90.05" x2="2430" y2="90.05" style="stroke:rgba(255,255,255,0.07);stroke-width:0.5;fill:none"/>
+  </g>
+  <g data-category="Rooms">
+    <rect x="373.28" y="461.87" width="317.39" height="1255.9" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Lobby 102</title></rect>
+    <rect x="129.63" y="190.54" width="589.38" height="268.2" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Cafeteria 121</title></rect>
+    <rect x="129.77" y="1453.52" width="268" height="507.4" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Instruction 115</title></rect>
+    <rect x="1432.52" y="1693.01" width="391.24" height="267.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Instruction 105</title></rect>
+    <rect x="869.51" y="1693.01" width="360.54" height="267.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Instruction 108</title></rect>
+    <rect x="690.66" y="429.95" width="658.96" height="116.08" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Corridor 131</title></rect>
+    <rect x="129.77" y="1121.39" width="268" height="195.62" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Instruction 117</title></rect>
+    <rect x="854.2" y="190.54" width="194" height="269.05" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Conference 123</title></rect>
+    <rect x="1234.62" y="1693.01" width="193.34" height="267.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Instruction 106</title></rect>
+    <rect x="1828.34" y="1693.01" width="193.34" height="267.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Instruction 104</title></rect>
+    <rect x="2026.24" y="1693.01" width="189.47" height="267.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Conference 103</title></rect>
+    <rect x="498.04" y="1693.01" width="188.7" height="267.55" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Lounge 111</title></rect>
+    <rect x="318.11" y="464.35" width="81.45" height="526.47" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Vest. 101</title></rect>
+    <rect x="689.03" y="1222.4" width="222.91" height="190.3" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Lounge 120</title></rect>
+    <rect x="129.77" y="1321.58" width="268" height="127.37" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Conference 116</title></rect>
+    <rect x="723.58" y="190.54" width="126.05" height="191.44" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Prep/Dish 122</title></rect>
+    <rect x="218.26" y="1000.82" width="179.51" height="116" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Electrical 118</title></rect>
+    <rect x="2222.31" y="1724.04" width="87.08" height="236.52" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Stair 132</title></rect>
+    <rect x="404.37" y="1724.04" width="87.08" height="236.52" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Stair 114</title></rect>
+    <rect x="1260.46" y="190.54" width="87.08" height="232.65" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Stair 130</title></rect>
+    <rect x="1052.76" y="278.33" width="94.71" height="181.26" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Admin 126</title></rect>
+    <rect x="1052.76" y="190.54" width="201.11" height="83.23" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Office 127</title></rect>
+    <rect x="691.32" y="1769.37" width="77.89" height="191.19" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Men 110</title></rect>
+    <rect x="790.27" y="1769.37" width="74.67" height="191.19" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Women 109</title></rect>
+    <rect x="1152.04" y="278.33" width="101.82" height="103.64" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Storage 128</title></rect>
+    <rect x="130.22" y="1000.82" width="83.48" height="116" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Sprinkler 119</title></rect>
+    <rect x="723.58" y="386.55" width="126.05" height="73.04" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Dry Storage 124</title></rect>
+    <rect x="579.49" y="1693.01" width="107.26" height="71.79" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Electrical 112</title></rect>
+    <rect x="854.2" y="386.55" width="85.81" height="73.04" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Electrical 125</title></rect>
+    <rect x="1152.04" y="386.55" width="83.05" height="73.04" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2">
+<title>Rooms — Toilet 129</title></rect>
+  </g>
+  <g data-category="Walls">
+    <rect x="867.22" y="1947.37" width="1351.79" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="110.43" y="1119.1" width="32.98" height="844.76" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="689.03" y="532.38" width="663.51" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="126.92" y="170.75" width="542.42" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="383.07" y="459.35" width="32.98" height="536.47" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="298.82" y="459.35" width="32.98" height="536.47" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="672.54" y="869.06" width="32.98" height="349.63" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="404.62" y="445.38" width="316.67" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Storefront</title></rect>
+    <rect x="126.92" y="1947.37" width="274.15" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="110.43" y="187.24" width="32.98" height="272.11" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="672.54" y="613" width="32.98" height="256.06" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="669.34" y="180.54" width="688.19" height="9.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="708.93" y="1202.2" width="206.53" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Pavillion Curtain Wall</title></rect>
+    <rect x="708.93" y="1399.92" width="206.53" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Pavillion Curtain Wall</title></rect>
+    <rect x="120.23" y="454.35" width="9.99" height="667.03" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="898.96" y="1218.69" width="32.98" height="197.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Pavillion Curtain Wall</title></rect>
+    <rect x="672.54" y="1218.69" width="32.98" height="197.72" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="865.45" y="1688.44" width="1356.86" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="672.54" y="1416.41" width="32.98" height="186.41" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="397.77" y="1960.56" width="471.74" height="9.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="1257.17" y="410.16" width="95.37" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Storefront</title></rect>
+    <rect x="2219.01" y="1704.42" width="95.37" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Storefront</title></rect>
+    <rect x="401.07" y="1704.42" width="93.68" height="32.98" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Storefront</title></rect>
+    <rect x="1336.05" y="459.11" width="32.98" height="89.76" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="120.23" y="454.35" width="284.4" height="9.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="2296.19" y="1602.82" width="32.98" height="85.62" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="2309.39" y="1688.44" width="9.99" height="282.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="123.52" y="990.82" width="278.82" height="9.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="1347.54" y="183.84" width="9.99" height="275.27" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="397.77" y="1117.84" width="4.57" height="570.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="719.01" y="459.59" width="541.46" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="672.54" y="548.87" width="32.98" height="64.13" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior Curtain Wall</title></rect>
+    <rect x="2215.71" y="1688.44" width="6.6" height="282.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 200mm</title></rect>
+    <rect x="397.77" y="1688.44" width="6.6" height="277.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 200mm</title></rect>
+    <rect x="491.45" y="1688.44" width="6.6" height="277.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 200mm</title></rect>
+    <rect x="1253.87" y="185.54" width="6.6" height="276.33" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 200mm</title></rect>
+    <rect x="575.43" y="1764.8" width="291.79" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="864.94" y="1688.44" width="4.57" height="282.12" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="120.23" y="1116.82" width="282.11" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="719.01" y="185.54" width="4.57" height="278.11" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="686.75" y="1688.95" width="4.57" height="276.61" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="849.63" y="185.54" width="4.57" height="276.33" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1048.19" y="185.54" width="4.57" height="276.33" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="2021.67" y="1690.73" width="4.57" height="270.66" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1230.05" y="1690.73" width="4.57" height="270.66" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1427.96" y="1690.73" width="4.57" height="270.66" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="129.39" y="1317.01" width="270.66" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="129.39" y="1448.95" width="270.66" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1823.77" y="1690.73" width="4.57" height="270.47" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="721.29" y="381.98" width="223.28" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="2215.71" y="1960.56" width="100.37" height="9.99" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Exterior - Insulation on Masonry</title></rect>
+    <rect x="1050.48" y="273.76" width="206.69" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="491.45" y="1688.44" width="199.87" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="769.21" y="1767.09" width="4.57" height="198.47" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="785.7" y="1767.09" width="4.57" height="198.47" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1147.48" y="276.05" width="4.57" height="185.83" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="213.69" y="995.82" width="4.57" height="123.29" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1149.76" y="381.98" width="107.41" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="940.01" y="382.49" width="4.57" height="79.39" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="742.82" y="1688.44" width="4.57" height="78.64" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="808.87" y="1688.44" width="4.57" height="78.64" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="574.92" y="1690.73" width="4.57" height="78.64" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="1235.09" y="384.26" width="4.57" height="77.61" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="662.75" y="1214.98" width="46.18" height="7.42" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 225mm Concrete</title></rect>
+    <rect x="662.75" y="1412.7" width="46.18" height="7.42" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 225mm Concrete</title></rect>
+    <rect x="662.75" y="865.35" width="46.18" height="7.42" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 225mm Concrete</title></rect>
+    <rect x="662.75" y="609.29" width="46.18" height="7.42" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Generic - 225mm Concrete</title></rect>
+    <rect x="743.33" y="1688.44" width="69.08" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="368.71" y="1050.85" width="4.57" height="68.25" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="397.77" y="990.82" width="4.57" height="64.6" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+    <rect x="369.22" y="1050.85" width="32.61" height="4.57" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8">
+<title>Walls — Interior - 138mm Partition (1-hr)</title></rect>
+  </g>
+  <g data-category="Room Tags">
+    <rect x="723.23" y="389.4" width="74.84" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="218.62" y="1351.6" width="72.9" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="914.42" y="253.56" width="72.9" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="2084.2" y="1805.66" width="72.89" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="971.86" y="1793.12" width="65.01" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="230.92" y="1752.83" width="65.01" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1601.41" y="1793.12" width="65.01" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="230.92" y="1185.53" width="65.01" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1892.15" y="1793.12" width="65.01" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1298.44" y="1809.84" width="65.01" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="755.38" y="273.53" width="61.75" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="533.53" y="290.97" width="57.16" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="587.53" y="1695.24" width="56.96" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="265.17" y="1025.15" width="56.96" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="876.32" y="387.12" width="56.96" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="143.79" y="1014.28" width="55.64" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="2281.11" y="1925.74" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="703.88" y="1852.21" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1176.57" y="296.49" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1163.29" y="389.4" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="539.02" y="1031.64" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="760.17" y="1283.89" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="566.01" y="1830.75" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="421.52" y="1768.53" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1152.07" y="198.49" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1271.75" y="463.39" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1073.73" y="360.79" width="52.78" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="801.22" y="1843.25" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="2232.42" y="1621.73" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="332.45" y="899.57" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+    <rect x="1277.62" y="345.9" width="52.77" height="43.56" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2">
+<title>Room Tags — Room Tag</title></rect>
+  </g>
+  <g data-category="Stairs">
+    <rect x="508.07" y="947.71" width="56.9" height="291.09" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="508.07" y="1339.33" width="56.9" height="291.09" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="2222.31" y="1802.57" width="87.08" height="158.42" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="1260.46" y="189.86" width="87.08" height="158.42" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+    <rect x="404.37" y="1802.57" width="87.08" height="158.42" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8">
+<title>Stairs — Stair</title></rect>
+  </g>
+  <g data-category="Doors">
+    <rect x="150.19" y="962.29" width="62.08" height="39.35" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 1730 x 2134mm [119A]</title></rect>
+    <rect x="367.59" y="1455.32" width="35.57" height="65.37" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 1830 x 2134mm [115]</title></rect>
+    <rect x="949.84" y="429.41" width="65.37" height="35.57" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 1830 x 2134mm [123]</title></rect>
+    <rect x="688.83" y="191.08" width="62.04" height="35.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [122]</title></rect>
+    <rect x="185.16" y="1056.24" width="33.92" height="62.08" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 1730 x 2134mm 20 Minute Rated [119B]</title></rect>
+    <rect x="367.89" y="1056.24" width="33.92" height="62.08" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 1730 x 2134mm 20 Minute Rated [118]</title></rect>
+    <rect x="509.18" y="430.04" width="60.36" height="32.49" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Dbl Glass [121]</title></rect>
+    <rect x="283.48" y="599.79" width="32.49" height="60.36" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Dbl Glass [101B]</title></rect>
+    <rect x="283.48" y="661.8" width="32.49" height="60.36" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Dbl Glass [101A]</title></rect>
+    <rect x="367.73" y="599.79" width="32.49" height="60.36" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Dbl Glass [101C]</title></rect>
+    <rect x="367.73" y="661.8" width="32.49" height="60.36" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Dbl Glass [101D]</title></rect>
+    <rect x="741.77" y="1186.86" width="60.36" height="32.48" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Dbl Glass [120]</title></rect>
+    <rect x="1346.72" y="384.24" width="41.01" height="35.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [130]</title></rect>
+    <rect x="2308.56" y="1725" width="41.01" height="35.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [132B]</title></rect>
+    <rect x="1252.57" y="394.78" width="39.72" height="32.28" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Sgl Glass [130A]</title></rect>
+    <rect x="396.48" y="1720.49" width="39.72" height="32.28" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Sgl Glass [114]</title></rect>
+    <rect x="2214.42" y="1720.49" width="39.72" height="32.28" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — M_Curtain Wall Sgl Glass [132A]</title></rect>
+    <rect x="814.19" y="351.79" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [124]</title></rect>
+    <rect x="1113.77" y="429.4" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [126]</title></rect>
+    <rect x="1113.77" y="272.94" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [127]</title></rect>
+    <rect x="831.24" y="1763.98" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [109]</title></rect>
+    <rect x="537.92" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [111]</title></rect>
+    <rect x="581.3" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm 20 Minute Rated [112]</title></rect>
+    <rect x="690.64" y="1763.98" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [110]</title></rect>
+    <rect x="367.58" y="1411.95" width="35.58" height="35.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [116]</title></rect>
+    <rect x="2028.05" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [103]</title></rect>
+    <rect x="1984.67" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [104B]</title></rect>
+    <rect x="1830.14" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [104A]</title></rect>
+    <rect x="1786.77" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [105B]</title></rect>
+    <rect x="1434.33" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [105A]</title></rect>
+    <rect x="1390.96" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [106B]</title></rect>
+    <rect x="1146.65" y="348.28" width="35.58" height="35.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [128]</title></rect>
+    <rect x="1193.05" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [108B]</title></rect>
+    <rect x="884.51" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [108A]</title></rect>
+    <rect x="367.58" y="1280.01" width="35.58" height="35.19" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [117]</title></rect>
+    <rect x="906.3" y="429.4" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm 20 Minute Rated [125]</title></rect>
+    <rect x="1236.42" y="1687.62" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [106A]</title></rect>
+    <rect x="1150.55" y="429.4" width="35.19" height="35.58" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5">
+<title>Doors — 0915 x 2134mm [129]</title></rect>
+  </g>
+  <g data-category="Door Tags">
+    <rect x="688.44" y="1771.87" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1388.76" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="812" y="359.68" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1148.36" y="437.3" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="904.11" y="437.3" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="519.57" y="436.39" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="962.74" y="437.3" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1111.58" y="437.3" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1144.65" y="355.98" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1111.58" y="280.84" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1784.57" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="365.58" y="1419.65" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="365.59" y="1478.11" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="882.31" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="365.58" y="1287.71" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="161.44" y="972.07" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="535.73" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="579.1" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="396.55" y="1726.74" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="752.16" y="1193.21" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="365.06" y="1077.38" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="279.93" y="620.08" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="279.93" y="682.09" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="364.18" y="620.08" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="364.18" y="682.09" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1252.64" y="401.03" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="182.33" y="1077.38" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="829.04" y="1771.87" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1432.14" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1234.23" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1190.86" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="700.06" y="198.78" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1347.43" y="391.95" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="2025.85" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1982.48" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="1827.95" y="1695.51" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="2214.49" y="1726.74" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+    <rect x="2309.28" y="1732.7" width="39.58" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Door Tags — M_Door Tag</title></rect>
+  </g>
+  <g data-category="Railings">
+    <rect x="2261.72" y="1802.57" width="8.25" height="118.58" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="1299.88" y="229.71" width="8.25" height="118.58" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="443.78" y="1802.57" width="8.25" height="118.58" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="508.23" y="947.71" width="2.8" height="291.09" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="508.23" y="1339.33" width="2.8" height="291.09" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="561.99" y="947.71" width="2.8" height="291.09" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="561.99" y="1339.33" width="2.8" height="291.09" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe</title></rect>
+    <rect x="1260.63" y="229.54" width="2.8" height="118.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe - Wall Monted</title></rect>
+    <rect x="2306.42" y="1802.57" width="2.8" height="118.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe - Wall Monted</title></rect>
+    <rect x="404.53" y="1802.57" width="2.8" height="118.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe - Wall Monted</title></rect>
+    <rect x="2222.47" y="1802.57" width="2.8" height="118.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe - Wall Monted</title></rect>
+    <rect x="1344.58" y="229.54" width="2.8" height="118.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe - Wall Monted</title></rect>
+    <rect x="488.48" y="1802.57" width="2.8" height="118.74" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1">
+<title>Railings — 900mm Pipe - Wall Monted</title></rect>
+  </g>
+  <g data-category="Windows">
+    <rect x="876.53" y="170.43" width="30.18" height="20.11" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 0915 x 1220mm [7]</title></rect>
+    <rect x="916.25" y="170.43" width="30.18" height="20.11" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 0915 x 1220mm [8]</title></rect>
+    <rect x="995.67" y="170.43" width="30.18" height="20.11" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 0915 x 1220mm [10]</title></rect>
+    <rect x="749.74" y="170.43" width="30.18" height="20.11" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 0915 x 1220mm [5]</title></rect>
+    <rect x="793.28" y="170.43" width="30.18" height="20.11" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 0915 x 1220mm [6]</title></rect>
+    <rect x="955.96" y="170.43" width="30.18" height="20.11" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1">
+<title>Windows — 0915 x 1220mm [9]</title></rect>
+  </g>
+  <g data-category="Window Tags">
+    <rect x="795.18" y="170.59" width="26.39" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="918.14" y="170.59" width="26.39" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="957.86" y="170.59" width="26.39" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="751.64" y="170.59" width="26.39" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="878.43" y="170.59" width="26.39" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+    <rect x="997.57" y="170.59" width="26.39" height="19.79" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Window Tags — M_Window Tag</title></rect>
+  </g>
+  <g data-category="Wall Tags">
+    <rect x="701.53" y="299.77" width="39.58" height="39.58" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 12mm</title></rect>
+    <rect x="1030.45" y="303.66" width="39.58" height="39.58" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6">
+<title>Wall Tags — 12mm</title></rect>
+  </g>
+  <g>
+    <line x1="721.29" y1="208.68" x2="721.29" y2="190.07" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="831.79" y1="384.26" x2="842.47" y2="384.26" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="923.9" y1="461.87" x2="934.58" y2="461.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="982.53" y1="461.87" x2="962.92" y2="461.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1131.37" y1="461.87" x2="1142.05" y2="461.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1168.15" y1="461.87" x2="1157.47" y2="461.87" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1149.76" y1="365.87" x2="1149.76" y2="376.55" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1131.37" y1="276.05" x2="1142.05" y2="276.05" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1352.54" y1="401.84" x2="1352.54" y2="414.14" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="181.23" y1="995.82" x2="162.61" y2="995.82" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="215.98" y1="1087.27" x2="215.98" y2="1105.9" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="370.99" y1="1087.27" x2="370.99" y2="1105.9" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="400.06" y1="1297.61" x2="400.06" y2="1308.28" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="400.06" y1="1429.54" x2="400.06" y2="1440.22" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="400.06" y1="1488.01" x2="400.06" y2="1468.4" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="555.52" y1="1690.73" x2="566.19" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="598.89" y1="1690.73" x2="588.22" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="708.24" y1="1767.09" x2="697.56" y2="1767.09" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="848.84" y1="1767.09" x2="859.51" y2="1767.09" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="2045.64" y1="1690.73" x2="2034.97" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="2002.27" y1="1690.73" x2="2012.95" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1847.74" y1="1690.73" x2="1837.06" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1804.36" y1="1690.73" x2="1815.04" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1451.93" y1="1690.73" x2="1441.25" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1408.55" y1="1690.73" x2="1419.23" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1254.02" y1="1690.73" x2="1243.35" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="1210.65" y1="1690.73" x2="1221.32" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="902.1" y1="1690.73" x2="891.43" y2="1690.73" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+    <line x1="2314.38" y1="1742.59" x2="2314.38" y2="1730.29" style="stroke:rgba(255,100,100,0.85);stroke-width:1.5;fill:none"/>
+  </g>
+  <g text-anchor="middle" style="fill:rgb(200,240,210);font-size:9px;font-family:'Segoe UI',Arial,sans-serif;pointer-events:none">
+    <text x="358.84" y="727.59">Vest. 101</text>
+    <text x="531.97" y="1089.82">Lobby 102</text>
+    <text x="424.32" y="324.64">Cafeteria 121</text>
+    <text x="786.6" y="286.26">Prep/Dish 122</text>
+    <text x="786.6" y="423.07">Dry Storage 124</text>
+    <text x="897.1" y="423.07">Electrical 125</text>
+    <text x="951.19" y="325.06">Conference 123</text>
+    <text x="1153.32" y="232.15">Office 127</text>
+    <text x="1100.12" y="368.96">Admin 126</text>
+    <text x="1202.96" y="330.16">Storage 128</text>
+    <text x="1193.57" y="423.07">Toilet 129</text>
+    <text x="1304" y="306.86">Stair 130</text>
+    <text x="1020.14" y="487.99">Corridor 131</text>
+    <text x="171.96" y="1058.82">Sprinkler 119</text>
+    <text x="308.02" y="1058.82">Electrical 118</text>
+    <text x="263.77" y="1219.2">Instruction 117</text>
+    <text x="800.49" y="1317.55">Lounge 120</text>
+    <text x="263.77" y="1385.26">Conference 116</text>
+    <text x="263.77" y="1707.22">Instruction 115</text>
+    <text x="447.91" y="1842.3">Stair 114</text>
+    <text x="633.12" y="1728.91">Electrical 112</text>
+    <text x="592.4" y="1826.79">Lounge 111</text>
+    <text x="730.26" y="1864.97">Men 110</text>
+    <text x="827.6" y="1864.97">Women 109</text>
+    <text x="1049.78" y="1826.79">Instruction 108</text>
+    <text x="1331.29" y="1826.79">Instruction 106</text>
+    <text x="1628.15" y="1826.79">Instruction 105</text>
+    <text x="1925" y="1826.79">Instruction 104</text>
+    <text x="2120.98" y="1826.79">Conference 103</text>
+    <text x="2265.85" y="1842.3">Stair 132</text>
+  </g>
+</g>
+<rect x="30" y="90" width="2400" height="1970.78" style="fill:none;stroke:rgba(100,100,160,0.5);stroke-width:1.5"/>
+<text text-anchor="middle" x="47.93" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-40</text>
+<text text-anchor="middle" x="249.01" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="middle" x="450.08" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="middle" x="651.15" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="middle" x="852.22" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<text text-anchor="middle" x="1053.29" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">60</text>
+<text text-anchor="middle" x="1254.37" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">80</text>
+<text text-anchor="middle" x="1455.44" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">100</text>
+<text text-anchor="middle" x="1656.51" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">120</text>
+<text text-anchor="middle" x="1857.58" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">140</text>
+<text text-anchor="middle" x="2058.65" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">160</text>
+<text text-anchor="middle" x="2259.73" y="2072.78" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">180</text>
+<text text-anchor="end" x="26" y="2003.24" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-80</text>
+<text text-anchor="end" x="26" y="1802.17" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-60</text>
+<text text-anchor="end" x="26" y="1601.09" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-40</text>
+<text text-anchor="end" x="26" y="1400.02" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">-20</text>
+<text text-anchor="end" x="26" y="1198.95" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">0</text>
+<text text-anchor="end" x="26" y="997.88" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">20</text>
+<text text-anchor="end" x="26" y="796.8" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">40</text>
+<text text-anchor="end" x="26" y="595.73" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">60</text>
+<text text-anchor="end" x="26" y="394.66" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">80</text>
+<text text-anchor="end" x="26" y="193.59" style="fill:rgba(170,170,200,0.7);font-size:9px;font-family:'Segoe UI',Arial,sans-serif">100</text>
+<rect x="2442" y="90" width="216" height="240" rx="4" style="fill:rgba(30,30,60,0.5)"/>
+<text x="2450" y="108" style="fill:rgb(180,180,220);font-size:12px;font-weight:bold;font-family:'Segoe UI',Arial,sans-serif">Category</text>
+<rect x="2450" y="114" width="14" height="14" style="fill:rgb(70,100,160);stroke:rgb(42,60,96);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="126">Walls (71)</text>
+<rect x="2450" y="134" width="14" height="14" style="fill:rgb(50,160,255);stroke:rgb(18,60,120);stroke-width:1.5"/>
+<text class="legend-label" x="2470" y="146">Doors (38)</text>
+<rect x="2450" y="154" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="166">Door Tags (38)</text>
+<rect x="2450" y="174" width="14" height="14" style="fill:rgb(255,210,0);stroke:rgb(120,96,0);stroke-width:2"/>
+<text class="legend-label" x="2470" y="186">Room Tags (31)</text>
+<rect x="2450" y="194" width="14" height="14" style="fill:rgb(100,200,120);stroke:rgb(60,120,72);stroke-width:2"/>
+<text class="legend-label" x="2470" y="206">Rooms (30)</text>
+<rect x="2450" y="214" width="14" height="14" style="fill:rgb(160,90,210);stroke:rgb(66,30,102);stroke-width:1"/>
+<text class="legend-label" x="2470" y="226">Railings (13)</text>
+<rect x="2450" y="234" width="14" height="14" style="fill:rgb(180,230,255);stroke:rgb(60,102,132);stroke-width:1"/>
+<text class="legend-label" x="2470" y="246">Windows (6)</text>
+<rect x="2450" y="254" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="266">Window Tags (6)</text>
+<rect x="2450" y="274" width="14" height="14" style="fill:rgb(220,60,60);stroke:rgb(108,18,18);stroke-width:1.8"/>
+<text class="legend-label" x="2470" y="286">Stairs (5)</text>
+<rect x="2450" y="294" width="14" height="14" style="fill:rgb(180,180,180);stroke:rgb(72,72,72);stroke-width:0.6"/>
+<text class="legend-label" x="2470" y="306">Wall Tags (2)</text>
+</svg>
