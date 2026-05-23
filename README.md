@@ -12,16 +12,16 @@ Developed for a university project, results and source code can be seen in the f
 
 **Other Results:**
 - [ALL RESULTS w/ Graphs and Metrics](all_results.xlsx)
-- [LLM-VBP](./LLM_VBP_Results)
-- [LLM-VSP](LLM_VSP_Results)
-- [SA_Results](SA_Results)
-- [Bitmap_results](bitmap_results)
+- [LLM-VBP](https://github.com/Asphult/LLMSolver/tree/raster-methods/LLM_VBP_Results)
+- [LLM-VSP](https://github.com/Asphult/LLMSolver/tree/raster-methods/LLM_VSP_Results)
+- [SA Results](https://github.com/Asphult/LLMSolver/tree/raster-methods/SA_Results)
+- [Bitmap Results](https://github.com/Asphult/LLMSolver/tree/raster-methods/bitmap_results)
 
 **Source Code:**
-- [LLM_VBP_Placer.cs](raster-methods/LLM_VBP_Placer.cs)
-- [LLM_VSP_Placer.cs](LLM_VSP_Placer.cs)
-- [SimulatedAnnealingPlacer.cs](SimulatedAnnealingPlacer.cs)
-- [BitmapPlacer.cs](BitmapPlacer.cs)
+- [LLM_VBP_Placer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/LLM_VBP_Placer.cs)
+- [LLM_VSP_Placer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/LLM_VSP_Placer.cs))
+- [SimulatedAnnealingPlacer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/SimulatedAnnealingPlacer.cs)
+- [BitmapPlacer.cs](https://github.com/Asphult/LLMSolver/blob/raster-methods/BitmapPlacer.cs)
 
 ## Requirements
 
