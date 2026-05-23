@@ -1,6 +1,6 @@
 # Hello Tag: Automated Tagging Tool for Revit 2026
 
-A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views leveraging an LLM contextualised as a data-editing problem. 
+A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views leveraging an LLM contextualised as a data-editing problem. Free to download and use for personal usage. For any enquiries please contact me: leo.lu.22@ucl.ac.uk
 
 Developed for a university project, results and source code can be seen in the following places:
 
@@ -85,7 +85,7 @@ Output files: `BBoxRender_<name>_<timestamp>.png` and `.svg` on the Desktop.
 
 ### LLM Solve
 
-Uses the Claude AI API to automatically reposition all tags in the active view. Currently still WIP, results may vary. 
+Uses the Claude API to automatically reposition all tags in the active view. Currently still WIP, results may vary. 
 
 The solver:
 
@@ -117,7 +117,7 @@ All output files go to the current user's Desktop.
 
 ## Known Issues
 
-- Occasionally the plugin will erroneously output the error 'The active view must be a floor plan view'. To mitigate this, simply re-open the floor plan view.
+- Occasionally the plugin will erroneously output the error 'The active view must be a floor plan view'. To mitigate this, simply close and re-open the floor plan view.
 
 - For certain screen resolutions, the pop-up window for the Render CSV command will have the quick selection boxes cut-off. Please select manually or change resolution.
 
