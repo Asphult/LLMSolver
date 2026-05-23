@@ -105,8 +105,9 @@ The solver:
 
 Then restart Revit completely. If the key is not set, the button will show a diagnostic message explaining how to fix it.
 
+**Prompt-tuning:** Prompt can be adjusted with the file `LLMPrompt.txt`, specifically in the 'PLACEMENT RULES' section where it defines its preferences and conventions. Adjust outside this section at your own risk, performance and its adherence to rules may vary.
+
 **One-shot examples (optional):** Place `example_input.csv` and `example_output.csv` in `Desktop\REVIT_LLM\examples\` to give the solver a reference example from your own project. This improves output quality.
-**Prompt-tuning (optional):** Prompt can be adjusted with the file `LLMPrompt.txt`, specifically in the 'PLACEMENT RULES' section where it defines its preferences and conventions. Adjust outside this section at your own risk, performance and its adherence may vary.
 
 ## Output file locations
 
