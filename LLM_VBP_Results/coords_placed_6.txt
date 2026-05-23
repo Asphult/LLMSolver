@@ -1,0 +1,70 @@
+900,2100,900,2099,RoomTag,Open area near anchor
+1250,1857,1249,1856,RoomTag,Open dining area
+2018,1914,2017,1913,RoomTag,Open dining area
+3158,2109,3157,2109,RoomTag,Inside room near anchor
+3659,1661,3658,1660,RoomTag,Kitchen area whitespace
+3404,3624,3404,3624,RoomTag,Open room centre
+4531,1647,4531,1646,RoomTag,Open area near anchor
+4800,2100,4800,2047,RoomTag,Shifted up slightly to avoid elevator shaft
+4677,2709,4677,2708,RoomTag,Inside room whitespace
+5700,1650,5699,1650,RoomTag,Open room centre
+4500,3200,4500,3199,RoomTag,Open area near anchor
+6577,2935,6576,2934,RoomTag,Large open room centre
+1250,1230,1248,1228,WindowTag,Placed at anchor inside room near window
+1620,1230,1618,1228,WindowTag,Placed at anchor inside room near window
+1868,1230,1866,1228,WindowTag,Placed at anchor inside room near window
+2086,1230,2084,1228,WindowTag,Placed at anchor inside room near window
+3532,1220,3531,1218,WindowTag,Placed at anchor inside room near window
+3846,1220,3845,1218,WindowTag,Placed at anchor inside room near window
+4470,1220,4469,1218,WindowTag,Placed at anchor inside room near window
+4784,1220,4782,1218,WindowTag,Placed at anchor inside room near window
+5879,1220,5878,1218,WindowTag,Placed at anchor inside room near window
+6192,1220,6190,1218,WindowTag,Placed at anchor inside room near window
+3150,3871,3149,3795,WindowTag,Moved up just inside room near window
+3393,3871,3392,3795,WindowTag,Moved up just inside room near window
+3637,3871,3635,3795,WindowTag,Moved up just inside room near window
+3882,3871,3881,3795,WindowTag,Moved up just inside room near window
+4381,3871,4316,3795,WindowTag,Shifted to avoid cluster with nearby window tags
+4524,3871,4522,3795,WindowTag,Moved up just inside room near window
+4669,3871,4728,3795,WindowTag,Shifted to avoid overlap with neighbor
+3100,1265,3099,1264,DoorTag,Placed at anchor beside door
+3238,2167,3238,2166,DoorTag,Placed at anchor beside door
+3353,2715,3353,2714,DoorTag,Placed at anchor beside door
+3533,2967,3534,2966,DoorTag,Placed at anchor beside door
+3737,2794,3737,2794,DoorTag,Placed at anchor beside door
+3932,2552,3932,2552,DoorTag,Placed at anchor beside door
+3712,2280,3712,2279,DoorTag,Placed at anchor beside door
+4169,2561,4169,2560,DoorTag,Placed at anchor beside door
+4259,2263,4259,2263,DoorTag,Placed at anchor beside door
+4963,2289,4963,2289,DoorTag,Placed at anchor beside door
+5250,1300,5251,1299,DoorTag,Placed at anchor beside door
+5788,2400,5788,2399,DoorTag,Placed at anchor beside door
+5647,2554,5647,2553,DoorTag,Placed at anchor beside door
+6490,2792,6490,2791,DoorTag,Placed at anchor beside door
+6634,2636,6634,2635,DoorTag,Placed at anchor beside door
+778,1722,777,1721,WallTag,Placed at anchor in open area outside wall
+1261,2150,1259,2149,WallTag,Open space at anchor
+1478,2367,1476,2366,WallTag,Open space at anchor
+2584,1353,2583,1351,WallTag,Open space at anchor
+2781,1437,2779,1436,WallTag,Open space at anchor
+3000,2250,2999,2248,WallTag,Open area
+3150,2500,3149,2499,WallTag,Open area
+3389,2675,3387,2674,WallTag,Near wall gap
+3400,1755,3398,1753,WallTag,Open space
+3000,3200,2999,3198,WallTag,Open space
+3520,3977,3518,3975,WallTag,Below wall, open area
+4118,3363,4116,3361,WallTag,Open area
+4111,1930,4109,1928,WallTag,Open area
+4685,2368,4683,2366,WallTag,Open near wall
+5012,2375,5048,2373,WallTag,Shifted slightly to avoid door tag
+5005,1567,5003,1566,WallTag,Open area
+5005,3408,5003,3407,WallTag,Open area
+5647,2836,5646,2835,WallTag,Open area
+5219,2475,5218,2474,WallTag,Open area
+5867,2513,5865,2511,WallTag,Open area
+6450,1606,6448,1604,WallTag,Open area
+6417,1929,6415,1928,WallTag,Open area
+6593,2663,6512,2617,WallTag,Shifted to avoid door tag A405 overlap
+6715,2683,6760,2703,WallTag,Shifted to avoid door tag
+6376,3361,6374,3360,WallTag,Open area
+7293,2733,7292,2732,WallTag,Open area

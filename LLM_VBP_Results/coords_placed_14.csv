@@ -1,0 +1,70 @@
+900,2100,900,2099,RoomTag,0.85,Placed at anchor in open dining area whitespace
+1250,1857,1249,1856,RoomTag,0.80,Placed at anchor in clear area of dining/lounge
+2018,1914,2017,1913,RoomTag,0.85,Placed at anchor in open central area
+3158,2109,3157,2171,RoomTag,0.75,Shifted slightly down to clear fixtures, stays within room
+3659,1661,3658,1660,RoomTag,0.80,Placed at anchor in unit interior whitespace
+3404,3624,3404,3624,RoomTag,0.80,Placed at anchor in lower unit interior
+4531,1647,4531,1646,RoomTag,0.80,Placed at anchor in central unit area
+4800,2100,4800,2171,RoomTag,0.70,Shifted down slightly to clear elevator/fixture area
+4677,2709,4677,2708,RoomTag,0.80,Placed at anchor in clear room area
+5700,1650,5699,1737,RoomTag,0.75,Shifted down slightly to clear fixture cluster, stays within unit
+4500,3200,4500,3199,RoomTag,0.85,Placed at anchor in central open area
+6577,2935,6576,2934,RoomTag,0.90,Placed at anchor in large open room
+1250,1230,1248,1228,WindowTag,0.90,Placed at anchor inside room near window opening.
+1620,1230,1618,1228,WindowTag,0.90,Placed at anchor inside room.
+1868,1230,1866,1228,WindowTag,0.90,Placed at anchor inside room.
+2086,1230,2084,1228,WindowTag,0.90,Placed at anchor inside room.
+3532,1220,3531,1218,WindowTag,0.90,Placed at anchor inside room near window.
+3846,1220,3845,1218,WindowTag,0.90,Placed at anchor inside room.
+4470,1220,4469,1218,WindowTag,0.90,Placed at anchor inside room.
+4784,1220,4782,1218,WindowTag,0.90,Placed at anchor inside room.
+5879,1220,5878,1218,WindowTag,0.90,Placed at anchor inside room.
+6192,1220,6190,1218,WindowTag,0.90,Placed at anchor inside room.
+3150,3871,3149,3795,WindowTag,0.85,Shifted up to stay just inside the room edge from south wall.
+3393,3871,3392,3795,WindowTag,0.85,Inside room near south windows.
+3637,3871,3635,3795,WindowTag,0.85,Inside room near south windows.
+3882,3871,3881,3795,WindowTag,0.85,Inside room near south windows.
+4381,3871,4379,3795,WindowTag,0.80,Inside room near south windows, slight spread.
+4524,3871,4522,3795,WindowTag,0.80,Inside room near south windows.
+4669,3871,4667,3795,WindowTag,0.80,Inside room near south windows.
+3100,1265,3099,1264,DoorTag,0.80,Open space beside door.
+3238,2167,3238,2166,DoorTag,0.80,Open area beside door.
+3353,2715,3353,2714,DoorTag,0.80,Open area beside door.
+3533,2967,3534,2966,DoorTag,0.80,Open area beside door.
+3737,2794,3737,2794,DoorTag,0.80,Open area beside door.
+3932,2552,3932,2552,DoorTag,0.80,Open area beside door.
+3712,2280,3712,2279,DoorTag,0.80,Open area beside door.
+4169,2561,4169,2560,DoorTag,0.80,Open area beside door.
+4259,2263,4259,2263,DoorTag,0.80,Open area beside door.
+4963,2289,4963,2289,DoorTag,0.80,Open area beside door.
+5250,1300,5251,1299,DoorTag,0.80,Open area beside door.
+5788,2400,5788,2399,DoorTag,0.80,Open area beside door.
+5647,2554,5647,2553,DoorTag,0.80,Open area beside door.
+6490,2792,6490,2791,DoorTag,0.80,Open area beside door.
+6634,2636,6634,2635,DoorTag,0.80,Open area beside door.
+778,1722,777,1721,WallTag,0.90,Open area outside building to the west
+1261,2150,1259,2207,WallTag,0.85,Shifted down to avoid room tag above
+1478,2367,1476,2366,WallTag,0.90,Clear space in room area
+2584,1353,2583,1351,WallTag,0.85,Open upper area
+2781,1437,2779,1436,WallTag,0.85,Open area near anchor
+3000,2250,2999,2248,WallTag,0.90,Clear corridor area
+3150,2500,3063,2499,WallTag,0.80,Shifted slightly left to avoid clutter
+3389,2675,3387,2629,WallTag,0.75,Adjusted to avoid door tag at 2702,2188
+3400,1755,3398,1753,WallTag,0.90,Clear interior area
+3000,3200,2999,3198,WallTag,0.90,Clear area
+3520,3977,3518,3975,WallTag,0.90,Below windows in clear zone
+4118,3363,4116,3361,WallTag,0.90,Open interior space
+4111,1930,4109,1928,WallTag,0.90,Open interior
+4685,2368,4683,2366,WallTag,0.85,Clear space
+5012,2375,5073,2373,WallTag,0.75,Shifted right to avoid door tag at 4000,1845
+5005,1567,5003,1566,WallTag,0.90,Clear area
+5005,3408,5003,3407,WallTag,0.90,Clear interior
+5647,2836,5646,2835,WallTag,0.85,Clear area
+5219,2475,5218,2474,WallTag,0.90,Clear area
+5867,2513,5865,2511,WallTag,0.85,Clear area
+6450,1606,6448,1604,WallTag,0.90,Open interior
+6417,1929,6415,1928,WallTag,0.90,Clear area
+6593,2663,6462,2661,WallTag,0.70,Shifted left to avoid door tag at 5231,2250 and room tag
+6715,2683,6760,2542,WallTag,0.70,Adjusted to avoid door tags
+6376,3361,6374,3360,WallTag,0.90,Clear interior
+7293,2733,7292,2732,WallTag,0.90,Clear interior near anchor
