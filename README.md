@@ -1,6 +1,6 @@
 # Hello Tag: Automated Tagging Tool for Revit 2026
 
-A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views leveraging an LLM contextualised as a data-editing problem. Free to download and use for personal usage. 
+A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views leveraging an LLM prompted to contextualise it as a data-editing problem (LLM-DEP). Free to download and use for personal usage. 
 
 Developed for a university project, results and source code can be seen in the following places:
 
