@@ -1,0 +1,134 @@
+private static string BuildPrompt(string inputCsv, string viewName)
+{
+    string exampleInputPath  = Path.Combine(ExamplesFolder, "example_input.csv");
+    string exampleOutputPath = Path.Combine(ExamplesFolder, "example_output.csv");
+
+    string exampleBlock = "";
+    if (File.Exists(exampleInputPath) && File.Exists(exampleOutputPath))
+    {
+        string ex_in  = File.ReadAllText(exampleInputPath).Trim();
+        string ex_out = File.ReadAllText(exampleOutputPath).Trim();
+
+        exampleBlock =
+            "EXAMPLE — a previous floor plan, processed correctly. Study how tags of the\n" +
+            "same type are aligned to share a coordinate (e.g. a row of window tags on\n" +
+            "the same exterior wall all share one V), how wall tags sit on the wall's\n" +
+            "centroid along its long axis, and how door tags sit just outside the host\n" +
+            "wall on the side of the door's swing/exit.\n\n" +
+            "Example input:\n```csv\n" + ex_in + "\n```\n\n" +
+            "Correct example output (this is the ground truth — match its style):\n" +
+            "```csv\n" + ex_out + "\n```\n\n";
+    }
+
+    return
+        "ROLE\n" +
+        "You are a precision architectural drafting assistant repositioning annotation\n" +
+        "tags on a Revit floor-plan view. A correct result satisfies three goals at\n" +
+        "once: (a) every tag is visually associated with the element it annotates,\n" +
+        "(b) no tag bbox overlaps another tag bbox or any wall, (c) tags of the same\n" +
+        "type along the same edge are aligned (share a coordinate) for a clean look.\n\n" +
+
+        "COORDINATE SYSTEM\n" +
+        "  • All values are in Revit feet. (U,V) == model (X,Y) in plan view.\n" +
+        "  • +U increases to the east (right of the drawing).\n" +
+        "  • +V increases to the north (top of the drawing).\n" +
+        "  • A bbox is axis-aligned: Min<=Max on each axis.\n" +
+        "  • The LONG AXIS of a wall is whichever of (MaxX-MinX) or (MaxY-MinY) is\n" +
+        "    greater. A wall is HORIZONTAL if its long axis is X, VERTICAL if Y.\n\n" +
+
+        "DATA SHAPE\n" +
+        "Two sections, both CSV with headers.\n\n" +
+        "Section 1 `=== ELEMENTS ===` — context only. Do NOT emit positions for these.\n" +
+        "  Only Walls, Doors, Windows, Stairs, Multistory Stairs, and Rooms are\n" +
+        "  included; floors, levels, furniture, MEP, etc. are filtered out.\n" +
+        "  Columns: ElementId, Category, X_ft, Y_ft (centroid), Z_ft,\n" +
+        "           MinX, MinY, MaxX, MaxY (axis-aligned plan bbox).\n\n" +
+        "Section 2 `=== TAGS ===` — these are the rows you must produce output for.\n" +
+        "  Columns: TagId, TagType, TaggedCategory, TaggedElementId,\n" +
+        "           Current_U_ft, Current_V_ft (current tag-head position),\n" +
+        "           BBox_MinU, BBox_MinV, BBox_MaxU, BBox_MaxV (tag's plan bbox).\n" +
+        "  Tag width = MaxU-MinU, height = MaxV-MinV. The bbox is centred on the\n" +
+        "  head. When you move the head from (U_old,V_old) to (U_new,V_new), the\n" +
+        "  bbox translates rigidly: add (U_new-U_old, V_new-V_old) to all four\n" +
+        "  bbox corners. Use the translated bbox for ALL collision checks.\n\n" +
+
+        "INTERNAL PROCEDURE (think through this silently; do NOT write it out)\n" +
+        "1. Build a workspace map:\n" +
+        "   • BUILDING BBOX = union of all Walls' bboxes (MinX_all, MinY_all,\n" +
+        "     MaxX_all, MaxY_all). 'Inside' the building means within this bbox;\n" +
+        "     'outside' means beyond it.\n" +
+        "   • HOST WALL of a Door/Window = the wall whose bbox contains (or most\n" +
+        "     tightly encloses) the door/window centroid. If multiple candidates,\n" +
+        "     pick the wall whose long axis is closest to the door/window's long\n" +
+        "     axis. Doors/windows always sit in a wall's footprint.\n" +
+        "   • For each wall, decide which side faces outside the building (the side\n" +
+        "     where the perpendicular ray from the wall centroid exits the building\n" +
+        "     bbox first) vs inside.\n" +
+        "2. For every tag, apply the rule for its TagType (below).\n" +
+        "3. Compute the translated tag bbox and check it against (a) all other\n" +
+        "   tags placed so far, (b) all walls. If overlap exists, slide the tag\n" +
+        "   along the host wall's long axis (in 0.5-1.0 ft steps) until clear.\n" +
+        "   Flipping to the other side of the wall is a last resort.\n" +
+        "4. Alignment pass: tags of the same TagType that touch the same wall edge\n" +
+        "   should share one coordinate (e.g. all window tags on the same north\n" +
+        "   exterior wall share one V). Snap them to a common value where possible.\n\n" +
+
+        "PLACEMENT RULES (per TagType)\n\n" +
+        "Wall Tag\n" +
+        "  • Centre the tag on the wall's centroid: U_new = wall.X_ft along the\n" +
+        "    wall's long axis. The cross-axis coordinate is offset ~1.0 ft beyond\n" +
+        "    the wall edge on the side with more free space (typically the room\n" +
+        "    side, not the wall cavity / outside-building side).\n" +
+        "  • Vertical wall: U_new is just outside MinX or MaxX (~1 ft beyond),\n" +
+        "    V_new = wall.Y_ft. Horizontal wall: V_new is just outside MinY or\n" +
+        "    MaxY, U_new = wall.X_ft.\n" +
+        "  • Slide along the long axis only to dodge collisions; do not flip side\n" +
+        "    unless both directions along the long axis are blocked.\n\n" +
+        "Door Tag\n" +
+        "  • Place the tag head ~0.8-1.0 ft beyond the host wall's far edge,\n" +
+        "    perpendicular to the host wall, centred on the door's centroid along\n" +
+        "    the host wall's long axis.\n" +
+        "  • For exterior doors: 'far edge' = the building-outside face.\n" +
+        "  • For interior doors: place inside the larger / more-open of the two\n" +
+        "    rooms the door connects. Door tags on interior walls MUST remain\n" +
+        "    inside the building bbox.\n" +
+        "  • Door tags MAY overlap Room / Stair / Multistory Stairs bboxes.\n\n" +
+        "Window Tag\n" +
+        "  • Always outside the building, on the exterior face of the host wall.\n" +
+        "  • Centred on the window centroid along the host wall's long axis.\n" +
+        "  • Offset ~1.0 ft beyond the wall's exterior face.\n" +
+        "  • A run of windows on the same exterior wall MUST share the same\n" +
+        "    cross-axis coordinate (perfect alignment).\n\n" +
+        "Room Tag\n" +
+        "  • Place inside the room's bbox, in the largest unobstructed sub-area\n" +
+        "    (avoid stairs, elevators, walls inside the room, and other tags).\n" +
+        "  • Default to the room centroid; only shift if it conflicts.\n" +
+        "  • A room tag MUST remain inside its room's bbox.\n\n" +
+
+        "HARD CONSTRAINTS (violations make the output unusable)\n" +
+        "  • Tag bboxes MUST NOT overlap any other tag bbox.\n" +
+        "  • Tag bboxes MUST NOT overlap any Wall bbox.\n" +
+        "  • Wall / Door / Room tags MUST remain inside the building bbox.\n" +
+        "    (Window tags are the only type that should sit just outside it.)\n" +
+        "  • Wall / Door / Window tags MAY overlap Room / Stair / Multistory\n" +
+        "    Stairs bboxes — those are not obstacles for them.\n" +
+        "  • If a tag's Current_U/V already satisfies all rules and constraints,\n" +
+        "    reuse those coordinates verbatim.\n\n" +
+
+        exampleBlock +
+
+        $"NOW SOLVE THE FOLLOWING VIEW: {viewName}\n" +
+        "Coordinates are Revit feet, model XY (Z is dropped for tags).\n\n" +
+        "INPUT DATA:\n" +
+        "```csv\n" +
+        inputCsv +
+        "```\n\n" +
+
+        "OUTPUT\n" +
+        "Reply with a SINGLE CSV — no prose, no commentary, no markdown fences,\n" +
+        "no code blocks. Use EXACTLY this header, then one row per input tag:\n" +
+        "TagId,New_U_ft,New_V_ft\n" +
+        "  • Every TagId from the input MUST appear exactly once, in input order.\n" +
+        "  • TagId values copied verbatim. Coordinates to 4 decimal places.\n" +
+        "  • No extra columns. End with a single trailing newline.";
+}
