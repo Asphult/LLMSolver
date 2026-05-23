@@ -2,10 +2,26 @@
 
 A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views leveraging an LLM contextualised as a data-editing problem. 
 
-Developed for a university project, results and raster versions source code uploaded.
+Developed for a university project, results and source code can be seen in the following places:
 
-- Raw output visuals can be seen in [ExportRender](RawExport/ExportRender)
-- Raw output data can be seen in [ExportRender](RawExport/ExportCoords)
+**LLM-DEP Results:**
+- Results are filtered by floorplan `RAC(Project Name)`, each contain a [folder](RACSampleSnowdenTower2026/L2) with a rendered image and csv data of both the optimal 'control' floorplan and the solver's result.
+- Visualisations comparing the solver's movement (cosine angle) can be seen in [Movement Vectors](MovementVectors/MovementVectors_Advanced_L1.png).
+- Raw output visuals can be seen in [RawExport/ExportRender](RawExport/ExportRender)
+- Raw output data can be seen in [RawExport/ExportCoords](RawExport/ExportCoords)
+
+**Other Results:**
+- [ALL RESULTS w/ Graphs and Metrics](all_results.xlsx)
+- [LLM-VBP](./LLM_VBP_Results)
+- [LLM-VSP](./LLM_VSP_Results)
+- [SA_Results](./SA_Results)
+- [Bitmap_results](./bitmap_results)
+
+**Source Code:**
+- [LLM_VBP_Placer.cs](./LLM_VBP_Placer.cs)
+- [LLM_VSP_Placer.cs](./LLM_VSP_Placer.cs)
+- [SimulatedAnnealingPlacer.cs](./SimulatedAnnealingPlacer.cs)
+- [BitmapPlacer.cs](./BitmapPlacer.cs)
 
 ## Requirements
 
@@ -43,7 +59,15 @@ Currently tags can only be applied to walls, doors, windows, rooms.
 
 ### Export Coords
 
-[View Data](RACSampleSnowdenTower2026/L1/Output.csv)
+| Category | Elements |
+|----------|----------|
+| Spatial & Organization | Rooms, Room Tags, Grids, Shaft Openings |
+| Envelope & Structure | Walls, Columns, Structural Columns, Curtain Panels, Curtain Wall Mullions, Curtain Wall Grids, Wall Sweeps |
+| Access & Movement | Doors, Windows, Stairs, Multistory Stairs, Runs, Landings, Railings, Top Rails, Handrails, Supports |
+| Interior & Furnishings | Furniture, Furniture Systems, Casework, Plumbing Fixtures, Specialty Equipment |
+| Mechanical & Electrical | Mechanical Equipment, Electrical Equipment |
+
+[View Example Data](RACSampleSnowdenTower2026/L1/Output.csv)
 
 Exports a CSV of all visible elements in the active view to the Desktop. A selection dialog lets you choose which element categories to include, with a **Quick Select Tags** button that pre-selects the standard taggable categories (Walls, Doors, Windows, Stairs, Rooms, Columns, Railings).
 
