@@ -1,6 +1,11 @@
-# Hello Tag — Revit 2026 Plugin
+# Hello Tag: Automated Tagging Tool for Revit 2026
 
-A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views using Claude API.
+A Revit 2026 addin that automates annotation tag placement for rooms, doors, windows, walls, and stairs in floor plan views leveraging an LLM contextualised as a data-editing problem. 
+
+Developed for a university project, results and raster versions source code uploaded.
+
+- Raw output visuals can be seen in [ExportRender](RawExport/ExportRender)
+- Raw output data can be seen in [ExportRender](RawExport/ExportCoords)
 
 ## Requirements
 
@@ -21,43 +26,24 @@ If Revit shows a security warning the first time, click **Always Load**.
 
 All commands operate on the **active floor plan view** only. Commands that place tags require the relevant tag family to be loaded in the project (e.g. Room Tag.rfa, Door Tag.rfa).
 
-### Tagging Rooms
+Currently tags can only be applied to walls, doors, windows, rooms.
+
+### Tagging Commands
 
 | Button | Description |
 |--------|-------------|
-| Tag Next Room | Tags the next untagged room (sorted by room number). Click repeatedly to walk through all rooms one at a time. |
-| Tag All Rooms | Tags every untagged room in one step. All placements are a single undo step. |
-
-### Tagging Doors
-
-| Button | Description |
-|--------|-------------|
-| Tag Next Door | Tags the next untagged door (by element ID). |
-| Tag All Doors | Tags every untagged door in the view in one undo step. |
-
-### Tagging Windows
-
-| Button | Description |
-|--------|-------------|
-| Tag Next Window | Tags the next untagged window (by element ID). |
-| Tag All Windows | Tags every untagged window in the view in one undo step. |
+| Tag Next | Tags the next untagged element (sorted by element ID). |
+| Tag All | Tags every untagged element type in one step. All placements are a single undo step. |
 
 ### Tagging Walls
 
 | Button | Description |
 |--------|-------------|
-| Tag Next Wall | Tags the next untagged wall (by element ID). |
-| Tag All Walls | Tags every untagged wall in the view in one undo step. |
 | Tag Walls by Length | Prompts for a minimum wall length in metres, then tags only walls that meet or exceed that threshold. |
 
-### Tagging Stairs
-
-| Button | Description |
-|--------|-------------|
-| Tag Next Stair | Tags the next untagged stair (by element ID). |
-| Tag All Stairs | Tags every untagged stair in the view in one undo step. |
-
 ### Export Coords
+
+[View Data](RACSampleSnowdenTower2026/L1/Output.csv)
 
 Exports a CSV of all visible elements in the active view to the Desktop. A selection dialog lets you choose which element categories to include, with a **Quick Select Tags** button that pre-selects the standard taggable categories (Walls, Doors, Windows, Stairs, Rooms, Columns, Railings).
 
@@ -67,13 +53,17 @@ The CSV includes model coordinates, view-local coordinates, bounding boxes, and 
 
 ### Render CSV
 
+![Sample Image](RACSampleSnowdenTower2026/L1/Output.png)
+
 Opens a file picker for a CSV produced by Export Coords and renders a colour-coded PNG and SVG floor plan diagram to the Desktop, showing bounding boxes for every element category, tag positions, room labels, and rotation arrows.
 
 Output files: `BBoxRender_<name>_<timestamp>.png` and `.svg` on the Desktop.
 
 ### LLM Solve
 
-Uses the Claude AI API to automatically reposition all tags in the active view into non-overlapping, aligned positions. The solver:
+Uses the Claude AI API to automatically reposition all tags in the active view. Currently still WIP, results may vary. 
+
+The solver:
 
 1. Collects all elements and tags from the view
 2. Sends them to Claude as a CSV with placement rules
