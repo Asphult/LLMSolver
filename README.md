@@ -21,28 +21,28 @@ If Revit shows a security warning the first time, click **Always Load**.
 
 All commands operate on the **active floor plan view** only. Commands that place tags require the relevant tag family to be loaded in the project (e.g. Room Tag.rfa, Door Tag.rfa).
 
-### Tagging — Rooms
+### Tagging Rooms
 
 | Button | Description |
 |--------|-------------|
 | Tag Next Room | Tags the next untagged room (sorted by room number). Click repeatedly to walk through all rooms one at a time. |
 | Tag All Rooms | Tags every untagged room in one step. All placements are a single undo step. |
 
-### Tagging — Doors
+### Tagging Doors
 
 | Button | Description |
 |--------|-------------|
 | Tag Next Door | Tags the next untagged door (by element ID). |
 | Tag All Doors | Tags every untagged door in the view in one undo step. |
 
-### Tagging — Windows
+### Tagging Windows
 
 | Button | Description |
 |--------|-------------|
 | Tag Next Window | Tags the next untagged window (by element ID). |
 | Tag All Windows | Tags every untagged window in the view in one undo step. |
 
-### Tagging — Walls
+### Tagging Walls
 
 | Button | Description |
 |--------|-------------|
@@ -50,7 +50,7 @@ All commands operate on the **active floor plan view** only. Commands that place
 | Tag All Walls | Tags every untagged wall in the view in one undo step. |
 | Tag Walls by Length | Prompts for a minimum wall length in metres, then tags only walls that meet or exceed that threshold. |
 
-### Tagging — Stairs
+### Tagging Stairs
 
 | Button | Description |
 |--------|-------------|
